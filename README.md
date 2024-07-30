@@ -20,3 +20,4 @@ A basic repo that contains the starred repos of users and their README.md files.
 - Autolabelling of categories and subcategories for new repos
 - Watching for new starred repos for all the users and then indexing them
 
+Yes I am a repo hoarder.

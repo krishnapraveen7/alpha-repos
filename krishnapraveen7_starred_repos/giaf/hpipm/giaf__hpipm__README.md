@@ -1,3 +1,5 @@
+# [hpipm](https://github.com/giaf/hpipm)
+
 This is HPIPM, a high-performance interior-point method solver for dense, optimal control- and tree-structured convex quadratic programs (QP) and quadratically-constrained quadratic programs (QCQP).
 It provides efficient implementations of dense and structure-exploiting algorithms to solve small to medium scale problems arising in model predictive control and embedded optimization in general and it relies on the high-performance linear algebra package BLASFEO.
 

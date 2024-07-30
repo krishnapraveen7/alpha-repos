@@ -1,3 +1,5 @@
+# [terifai](https://github.com/deeptrust-ai/terifai)
+
 # terifai
 
 a conversation voice bot that "steals your voice". through conversation with you, it will:

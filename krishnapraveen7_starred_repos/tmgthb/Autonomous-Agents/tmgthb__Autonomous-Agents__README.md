@@ -1,3 +1,5 @@
+# [Autonomous-Agents](https://github.com/tmgthb/Autonomous-Agents)
+
 <!--Autonomous Agents -->
 <!--
 Copyright (C) Teemu Maatta. 
@@ -43,6 +45,128 @@ Chronological order.
 
 </div>  
 
+
+#### 25th of July 2024
+
+[PersonaGym: Evaluating Persona Agents and LLMs](https://arxiv.org/abs/2407.18416)
+
+- Introduces PersnaGym-benchmark to evaluate persona LLM-agents.
+- Sets an automatic PersonaScore-metric to evaluate five different capabilities.
+- Finds SOTA level LLMs to offer highly varying level of capabilities as persona-agents.
+- Increasing model size is not guarantee of better persona agent performance with varying level of persona agent performance detected.
+
+---
+
+[Recursive Introspection: Teaching Language Model Agents How to Self-Improve](https://arxiv.org/abs/2407.18219)
+
+- RISE (Recursive IntroSpEction): iteratively sel-improve LLM responses through fine-tuning with RL. 
+- RISE starts with turn 1, where only prompt is provided. In turn 2, the prompt, the original response and its feedback is provided to generate the turn 2 response. Majority voting is used to select the final response from multiple responses generated.
+
+
+---
+
+#### 24th of July 2024
+
+
+[Reinforced Prompt Personalization for Recommendation with Large Language Models](https://arxiv.org/abs/2407.17115)
+
+- Reinforced Prompt Personalization (RPP): uses instance-based prompting with MARL.
+- Instead of task-based (role-play/history/reasoning guidance/output format), Instance-based prompting personalises to these four-characteristics with MARL.
+
+
+---
+
+[AI-Gadget Kit: Integrating Swarm User Interfaces with LLM-driven Agents for Rich Tabletop Game Applications](https://arxiv.org/abs/2407.17086)
+
+- AI-gadget Kit: multi-agent driven Swarm UI (SUI) tabletop gaming system, which consist of meta-motion, interactive behaviour, interactive relationship and application.  
+
+
+---
+
+[3D Question Answering for City Scene Understanding](https://arxiv.org/abs/2407.17398)
+- Sg-CityU: 3D multimodal QA, which uses scene graph to provide answers related to spatial relationships about city-scenes
+
+
+---
+
+#### 23rd of July 2024
+
+[RedAgent: Red Teaming Large Language Models with Context-aware Autonomous Language Agent](https://arxiv.org/abs/2407.16667)
+
+- RedAgent: Introduces concept of "Jaillbreaking strategy" (strategies used by attackers to construct jaillbreaking prompts) red teaming through multi-agent self-reflection from context feedback and skill memory.
+- The approach can jaillbreak LLMs and LLM-based apps (even more vulnerable) using just few queries.
+- The Red-Agent architecture includes skill memory and multiple roles (profile constructor/planner/attacker/evaluator) and short/long term memory.
+
+---
+
+[AMONGAGENTS: Evaluating Large Language Models in the Interactive Text-Based Social Deduction Game](https://arxiv.org/abs/2407.16521)
+
+- AmongAgents: multi-agent LLM-framework with memory, reflection and interaction in social deduction game with ambiguous and deceptive characters.
+- Includes meeting/task-phases.
+- Agents pose personality-component: generated with personality prompt from pre-defined set of personalities: behaviour/decision-making, which contribute to more dynamism/realism.
+
+---
+
+[OpenDevin: An Open Platform for AI Software Developers as Generalist Agents](https://arxiv.org/abs/2407.16741)
+
+- OpenDevin: LLM-based multi-agent framework, where agents interact as human-like SW agents writing code, using command line and browsing web.
+- The framework includes: interaction mechanism (event stream), environment(sandbox environment for code execution),  interface(human-like), multi-agent delegation (co-operate) and evaluation framework.
+- Event stream tracks history of action and observation.
+
+
+---
+
+[PyBench: Evaluating LLM Agent on various real-world coding tasks](https://arxiv.org/abs/2407.16732)
+
+- Introduces PyBench-benchmark for real-world like coding tasks withh LLM-agents.
+- Introduces high-performance PyLlama3 model for coding tasks.
+
+---
+
+[Artificial Agency and Large Language Models](https://arxiv.org/abs/2407.16190)
+
+
+- Reviews theoretical models for agents, LLM agents and concept of artificial agency.
+
+[LawLuo: A Chinese Law Firm Co-run by LLM Agents](https://arxiv.org/abs/2407.16252)
+
+- LawLuo: includes LLM-based receptionist/lawyer/secrretary/boss-agents to realistic legal consultation company based on SOP (Standard Operating Principle).
+
+
+---
+
+#### 22th of July 2024
+
+[TaskGen: A Task-Based, Memory-Infused Agentic Framework using StrictJSON](https://arxiv.org/abs/2407.15734
+
+- TaskGen: LLM-agent framework to solve tasks by dividing task into sub-tasks, executed by its own agent/equipped function. Manages memory/information based on need-to-know. Uses in StrictJson-format.
+- Includes meta-agent, inner-agent, function-calls, sub-tasks, shared memory (sub-task completed/list of past equiped function inputs or outputs/shared variables) and passing context/shared memory to inner agent/function.
+- Utilises global context adds data to default LLM prompt (carrying shared variables throughout a task/to store the current state of a dynamic environmental variable/specific instructions).
+
+---
+
+[Odyssey: Empowering Agents with Open-World Skills](https://arxiv.org/abs/2407.15325)
+
+- Odyssey: interactive (plan-actor-critic) LLM-agent (fine-tuned Llama 3) with real world skill library.
+- Introduces long-term planning/dynamic-immediate planning/autonomous exploration benchmark.
+- Planner decomposes long-term goals into sub-goals with ultimate goals/behavioural constraints/agent states/achievements.
+- Actor executes skill code using query context/similarity match/skill selection.
+- Critic uses execution feedback/self-validation/self-reflection.
+
+
+---
+
+#### 19th of July 2024
+
+
+[The Vision of Autonomic Computing: Can LLMs Make It a Reality?](https://arxiv.org/abs/2407.14402)
+
+- Explores feasibility of Autonomic Computing Vision (ACV) with multi-agent framework based on LLMs.
+- LLM-based multi-agent framework achieves level 3 autonomy.
+- The original ACV-framework identified 4 pillars: self-configuration, self-optimization, self-healing and self-protection.
+
+
+---
 
 #### 12th of July 2024
 
@@ -7543,7 +7667,16 @@ Agent actions impact directly task plans by not requiring environment feedback t
 - Agents could learn to obtain various intelligent behaviours through trial and error experiences to maximize reward.
 - Sophisticated intelligence may emerge from simple objective, think what an animal is able to learn to do just by being in hungry.
 
+
 ---
+
+
+#### 24th of November 2019
+
+[Multi-Agent Reinforcement Learning: A Selective Overview of Theories and Algorithms](https://arxiv.org/abs/1911.10635)
+
+- MARL: Introduces Multi-Agent Reinforcement Learning (MARL).
+
 
 <div id="resourcecloud">  </div>
 

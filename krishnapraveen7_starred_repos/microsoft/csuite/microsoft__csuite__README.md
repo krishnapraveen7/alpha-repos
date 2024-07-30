@@ -1,3 +1,5 @@
+# [csuite](https://github.com/microsoft/csuite)
+
 # CSuite: A Suite of Benchmark Datasets for Causality
 
 CSuite is a collection of synthetic datasets for benchmarking causal machine learning algorithms. Each dataset consists of

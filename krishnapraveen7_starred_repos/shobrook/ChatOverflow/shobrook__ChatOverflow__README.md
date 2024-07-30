@@ -1,3 +1,5 @@
+# [ChatOverflow](https://github.com/shobrook/ChatOverflow)
+
 # ChatGPT for StackOverflow
 
 A browser extension that displays ChatGPT's response alongside community answers to StackOverflow questions.

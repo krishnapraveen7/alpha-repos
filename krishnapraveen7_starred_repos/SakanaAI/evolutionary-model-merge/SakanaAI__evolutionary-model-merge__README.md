@@ -1,3 +1,5 @@
+# [evolutionary-model-merge](https://github.com/SakanaAI/evolutionary-model-merge)
+
 # 🐟 Evolutionary Optimization of Model Merging Recipes
 
 🤗 [Models](https://huggingface.co/SakanaAI) | 👀 [Demo](https://huggingface.co/spaces/SakanaAI/EvoVLM-JP) | 📚 [Paper](https://arxiv.org/abs/2403.13187) | 📝 [Blog](https://sakana.ai/evolutionary-model-merge/) | 🐦 [Twitter](https://twitter.com/SakanaAILabs)

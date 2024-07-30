@@ -1,3 +1,5 @@
+# [hocus](https://github.com/hocus-dev/hocus)
+
 <p align="center">
   <img alt="hocus-gh-bg" src="https://user-images.githubusercontent.com/28019628/227353685-63f8e3bb-fbf9-446b-a6bd-f15fc53c9a52.png">
 </p>

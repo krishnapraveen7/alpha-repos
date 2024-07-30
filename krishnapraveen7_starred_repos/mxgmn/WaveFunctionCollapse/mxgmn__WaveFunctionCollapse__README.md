@@ -1,3 +1,5 @@
+# [WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse)
+
 # WaveFunctionCollapse
 This program generates bitmaps that are locally similar to the input bitmap.
 <p align="center"><img alt="main collage" src="images/wfc.png"></p>

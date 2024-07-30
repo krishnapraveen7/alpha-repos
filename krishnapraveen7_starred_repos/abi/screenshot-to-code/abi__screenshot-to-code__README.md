@@ -1,3 +1,5 @@
+# [screenshot-to-code](https://github.com/abi/screenshot-to-code)
+
 # screenshot-to-code
 
 A simple tool to convert screenshots, mockups and Figma designs into clean, functional code using AI. **Now supporting Claude Sonnet 3.5 and GPT-4O!**

@@ -1,3 +1,5 @@
+# [graph-data-science-client](https://github.com/neo4j/graph-data-science-client)
+
 # Neo4j Graph Data Science Client
 
 [![Latest version](https://img.shields.io/pypi/v/graphdatascience)](https://pypi.org/project/graphdatascience/)

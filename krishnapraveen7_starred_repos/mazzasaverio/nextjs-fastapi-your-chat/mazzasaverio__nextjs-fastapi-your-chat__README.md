@@ -1,3 +1,5 @@
+# [nextjs-fastapi-your-chat](https://github.com/mazzasaverio/nextjs-fastapi-your-chat)
+
 # Next.js + FastAPI: Chat with Your Website
 
 This application facilitates a chatbot by leveraging Next.js as the frontend and FastAPI as the backend, utilizing the power of LangChain for dynamic web interactions.

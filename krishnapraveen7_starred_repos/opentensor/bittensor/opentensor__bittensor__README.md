@@ -1,3 +1,5 @@
+# [bittensor](https://github.com/opentensor/bittensor)
+
 <div align="center">
 
 # **Bittensor** <!-- omit in toc -->

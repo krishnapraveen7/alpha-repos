@@ -1,3 +1,5 @@
+# [dingcad](https://github.com/yacineMTB/dingcad)
+
 ## dingcad is literally just a manifoldcad wrapper with a hot reloading script
 easy packaging
 

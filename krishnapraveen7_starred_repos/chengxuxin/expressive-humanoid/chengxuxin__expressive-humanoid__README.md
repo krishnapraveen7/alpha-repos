@@ -1,3 +1,5 @@
+# [expressive-humanoid](https://github.com/chengxuxin/expressive-humanoid)
+
 <h1 align="center">Expressive Whole-Body Control for <br> Humanoid Robots</h1>
 
 <p align="center">

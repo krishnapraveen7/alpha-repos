@@ -1,3 +1,5 @@
+# [phoenix](https://github.com/Arize-ai/phoenix)
+
 <p align="center">
     <a target="_blank" href="https://phoenix.arize.com" style="background:none">
         <img alt="phoenix banner" src="https://github.com/Arize-ai/phoenix-assets/blob/main/images/socal/github-large-banner-phoenix.jpg?raw=true" width="auto" height="auto"></img>

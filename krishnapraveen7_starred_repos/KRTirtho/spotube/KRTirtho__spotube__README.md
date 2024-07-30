@@ -1,3 +1,5 @@
+# [spotube](https://github.com/KRTirtho/spotube)
+
 <div align="center">
   <img width="600" src="assets/spotube_banner.png" alt="Spotube Logo">
 

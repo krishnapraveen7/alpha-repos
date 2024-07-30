@@ -1,3 +1,5 @@
+# [run-wild](https://github.com/refcell/run-wild)
+
 # Run Wild
 
 `run-wild` extends [m1guelpf](https://github.com/m1guelpf)'s [browser-agent](https://github.com/m1guelpf/browser-agent) project by allowing gpt4 to alter it's goal. This is very dumb and probably ought not exist, but c'est la vie.

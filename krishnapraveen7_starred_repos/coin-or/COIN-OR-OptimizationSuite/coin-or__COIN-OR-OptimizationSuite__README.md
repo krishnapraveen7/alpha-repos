@@ -1,3 +1,5 @@
+# [COIN-OR-OptimizationSuite](https://github.com/coin-or/COIN-OR-OptimizationSuite)
+
 # COIN-OR OPTIMIZATION SUITE
 
 **Important notice: The master branch of the Optimization Suite does not currently include

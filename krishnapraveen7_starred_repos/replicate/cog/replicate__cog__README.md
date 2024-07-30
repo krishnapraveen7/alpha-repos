@@ -1,3 +1,5 @@
+# [cog](https://github.com/replicate/cog)
+
 # Cog: Containers for machine learning
 
 Cog is an open-source tool that lets you package machine learning models in a standard, production-ready container.
@@ -149,6 +151,12 @@ Alternatively, you can build Cog from source and install it with these commands:
 ```console
 make
 sudo make install
+```
+
+Or if you are on docker:
+
+```
+RUN sh -c "INSTALL_DIR=\"/usr/local/bin\" SUDO=\"\" $(curl -fsSL https://cog.run/install.sh)"
 ```
 
 ## Upgrade

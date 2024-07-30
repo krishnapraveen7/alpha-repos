@@ -1,3 +1,5 @@
+# [lag-llama](https://github.com/time-series-foundation-models/lag-llama)
+
 # Lag-Llama: Towards Foundation Models for Probabilistic Time Series Forecasting
 
 ![lag-llama-architecture](images/lagllama.webp)

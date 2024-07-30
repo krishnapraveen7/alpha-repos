@@ -1,3 +1,5 @@
+# [mergekit](https://github.com/arcee-ai/mergekit)
+
 # mergekit
 
 `mergekit` is a toolkit for merging pre-trained language models. `mergekit` uses an out-of-core approach to perform unreasonably elaborate merges in resource-constrained situations. Merges can be run entirely on CPU or accelerated with as little as 8 GB of VRAM. Many merging algorithms are supported, with more coming as they catch my attention.

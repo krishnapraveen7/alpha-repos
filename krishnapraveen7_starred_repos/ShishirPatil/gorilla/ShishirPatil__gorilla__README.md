@@ -1,3 +1,5 @@
+# [gorilla](https://github.com/ShishirPatil/gorilla)
+
 # Gorilla: Large Language Model Connected with Massive APIs [[Project Website](https://shishirpatil.github.io/gorilla/)]
 
 

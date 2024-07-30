@@ -1,3 +1,5 @@
+# [salabim](https://github.com/salabim/salabim)
+
  <img src="https://www.salabim.org/salabim_logo_payoff.png" width=400 />
 
 Salabim is a Python library for object-oriented discrete event simulation (DES) and animation.

@@ -1,3 +1,5 @@
+# [awesome-knowledge-graph](https://github.com/totogo/awesome-knowledge-graph)
+
 # Awesome Knowledge Graph [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of Knowledge Graph related learning materials, databases, tools and other resources

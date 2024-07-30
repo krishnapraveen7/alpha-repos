@@ -1,3 +1,5 @@
+# [aphrodite-engine](https://github.com/PygmalionAI/aphrodite-engine)
+
 <h1 align="center">
 Breathing Life into Language
 </h1>
@@ -27,13 +29,28 @@ The compute necessary for Aphrodite's development is provided by [Arc Compute](h
 
 Install the engine:
 ```sh
-$ pip install -U aphrodite-engine --extra-index-url https://downloads.pygmalion.chat/whl
+pip install -U aphrodite-engine --extra-index-url https://downloads.pygmalion.chat/whl
 ```
 
+***
+> [!IMPORTANT]  
+> If you need the latest features, such as **Llama 3.1** support, you will need to build the release candidate branch.
+
+Install directly:
+```sh
+pip install -U aphrodite-engine@git+https://github.com/PygmalionAI/aphrodite-engine.git@rc_054
+```
+
+Or clone and build (recommended):
+```sh
+git clone -b rc_054 https://github.com/PygmalionAI/aphrodite-engine.git && cd aphrodite-engine
+pip install -e .
+```
+***
 Then launch a model:
 
 ```sh
-$ aphrodite run meta-llama/Meta-Llama-3-8B-Instruct
+aphrodite run meta-llama/Meta-Llama-3-8B-Instruct
 ```
 
 This will create a [OpenAI](https://platform.openai.com/docs/api-reference/)-compatible API server that can be accessed at port 2242 of the localhost. You can plug in the API into a UI that supports OpenAI, such as [SillyTavern](https://github.com/SillyTavern/SillyTavern).

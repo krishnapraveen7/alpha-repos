@@ -1,3 +1,5 @@
+# [mamba](https://github.com/state-spaces/mamba)
+
 # Mamba
 
 ![Mamba](assets/selection.png "Selective State Space")

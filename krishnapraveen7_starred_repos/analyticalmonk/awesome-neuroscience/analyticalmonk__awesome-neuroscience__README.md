@@ -1,3 +1,5 @@
+# [awesome-neuroscience](https://github.com/analyticalmonk/awesome-neuroscience)
+
 <!-- ![Awesome Neuroscience](./AWESOME2.png) -->
 <img src="./AWESOME2.png" width="50%">
 

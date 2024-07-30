@@ -1,3 +1,5 @@
+# [mini-agi](https://github.com/muellerberndt/mini-agi)
+
 # MiniAGI
 
 <p align="center">

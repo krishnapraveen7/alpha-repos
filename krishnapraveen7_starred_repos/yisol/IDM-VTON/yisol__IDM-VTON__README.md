@@ -1,3 +1,5 @@
+# [IDM-VTON](https://github.com/yisol/IDM-VTON)
+
 
 <div align="center">
 <h1>IDM-VTON: Improving Diffusion Models for Authentic Virtual Try-on in the Wild</h1>
@@ -26,7 +28,7 @@ Star ⭐ us if you like it!
 
 - [x] demo model
 - [x] inference code
-- [ ] training code
+- [x] training code
 
 
 
@@ -45,14 +47,18 @@ conda activate idm
 ### VITON-HD
 You can download VITON-HD dataset from [VITON-HD](https://github.com/shadow2496/VITON-HD).
 
-After download VITON-HD dataset, move vitonhd_test_tagged.json into the test folder.
+After download VITON-HD dataset, move vitonhd_test_tagged.json into the test folder, and move vitonhd_train_tagged.json into the train folder.
 
 Structure of the Dataset directory should be as follows.
 
 ```
 
 train
-|-- ...
+|-- image
+|-- image-densepose
+|-- agnostic-mask
+|-- cloth
+|-- vitonhd_train_tagged.json
 
 test
 |-- image
@@ -89,6 +95,35 @@ DressCode
     |-- image-densepose
     |-- dc_caption.txt
     |-- ...
+```
+
+
+## Training
+
+
+### Preparation
+
+Download pre-trained ip-adapter for sdxl(IP-Adapter/sdxl_models/ip-adapter-plus_sdxl_vit-h.bin) and image encoder(IP-Adapter/models/image_encoder) [here](https://github.com/tencent-ailab/IP-Adapter).
+
+```
+git clone https://huggingface.co/h94/IP-Adapter
+```
+
+Move ip-adapter to ckpt/ip_adapter, and image encoder to ckpt/image_encoder
+
+Start training using python file with arguments,
+
+```
+accelerate launch train_xl.py \
+    --gradient_checkpointing --use_8bit_adam \
+    --output_dir=result --train_batch_size=6 \
+    --data_dir=DATA_DIR
+```
+
+or, you can simply run with the script file.
+
+```
+sh train_xl.sh
 ```
 
 
@@ -193,7 +228,7 @@ Thanks [Densepose](https://github.com/facebookresearch/DensePose) for human dens
 ## Citation
 ```
 @article{choi2024improving,
-  title={Improving Diffusion Models for Virtual Try-on},
+  title={Improving Diffusion Models for Authentic Virtual Try-on in the Wild},
   author={Choi, Yisol and Kwak, Sangkyung and Lee, Kyungmin and Choi, Hyungwon and Shin, Jinwoo},
   journal={arXiv preprint arXiv:2403.05139},
   year={2024}

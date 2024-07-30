@@ -1,3 +1,5 @@
+# [cookbook](https://github.com/huggingface/cookbook)
+
 # Open-Source AI Cookbook
 
 This repo contains community-driven practical examples of building AI applications and solving various tasks with AI 

@@ -1,3 +1,5 @@
+# [buffer-of-thought-llm](https://github.com/YangLing0818/buffer-of-thought-llm)
+
 # Buffer of Thoughts: Thought-Augmented Reasoning with Large Language Models
 
  <a href='https://arxiv.org/abs/2406.04271'><img src='https://img.shields.io/badge/arXiv-2406.04271-b31b1b.svg'></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

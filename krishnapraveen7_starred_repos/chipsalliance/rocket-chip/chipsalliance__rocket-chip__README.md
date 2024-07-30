@@ -1,3 +1,5 @@
+# [rocket-chip](https://github.com/chipsalliance/rocket-chip)
+
 Rocket Chip Generator :rocket: ![Build Status](https://github.com/chipsalliance/rocket-chip/workflows/Continuous%20Integration/badge.svg?branch=master)
 =====================
 

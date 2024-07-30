@@ -1,3 +1,5 @@
+# [rust-snake-ai](https://github.com/bones-ai/rust-snake-ai)
+
 # AI learns to play Snake!
 A neural network learns to play snakes
 

@@ -1,3 +1,5 @@
+# [awesome-gpt3](https://github.com/elyase/awesome-gpt3)
+
 # Awesome GPT-3
 > Awesome GPT-3 is a collection of demos and articles about the [OpenAI GPT-3 API](https://openai.com/blog/openai-api/).
 

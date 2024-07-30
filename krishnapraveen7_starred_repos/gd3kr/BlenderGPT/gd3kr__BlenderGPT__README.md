@@ -1,3 +1,5 @@
+# [BlenderGPT](https://github.com/gd3kr/BlenderGPT)
+
 # BlenderGPT
 ![Header](https://user-images.githubusercontent.com/63528145/227160213-6862cd5e-b31f-43ea-a5e5-6cc340a95617.png)
 

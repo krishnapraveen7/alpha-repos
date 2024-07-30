@@ -1,3 +1,5 @@
+# [lexical](https://github.com/facebook/lexical)
+
 <h1 align="center">
   <a href="https://lexical.dev">Lexical</a>
 </h1>

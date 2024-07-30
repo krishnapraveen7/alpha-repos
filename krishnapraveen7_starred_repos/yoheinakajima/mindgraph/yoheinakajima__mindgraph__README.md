@@ -1,3 +1,5 @@
+# [mindgraph](https://github.com/yoheinakajima/mindgraph)
+
 # MindGraph
 
 Welcome to MindGraph, a proof of concept, open-source, API-first graph-based project designed for natural language interactions (input and output). This prototype serves as a template for building and customizing your own CRM solutions with a focus on ease of integration and extendibility. Here is the [announcement on X](https://twitter.com/yoheinakajima/status/1769019899245158648), for some more context.

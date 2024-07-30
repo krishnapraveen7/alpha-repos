@@ -1,3 +1,5 @@
+# [augmentoolkit](https://github.com/e-p-armstrong/augmentoolkit)
+
 # Augmentoolkit — infinite domain-specific instruct data
 Your custom LLMs need custom data. [Augmentoolkit creates quality data quickly, cheaply, and painlessly.](#benefits)
 

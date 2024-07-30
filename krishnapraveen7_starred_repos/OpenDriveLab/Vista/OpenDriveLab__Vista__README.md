@@ -1,3 +1,5 @@
+# [Vista](https://github.com/OpenDriveLab/Vista)
+
 # Vista
 
 The official implementation of the paper:

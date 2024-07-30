@@ -1,3 +1,5 @@
+# [openplayground](https://github.com/nat/openplayground)
+
 # openplayground
 
 An LLM playground you can run on your laptop.

@@ -1,3 +1,5 @@
+# [react-pdf-html](https://github.com/danomatic/react-pdf-html)
+
 # react-pdf-html
 
 `<Html>` component for [react-pdf](https://github.com/diegomura/react-pdf/)

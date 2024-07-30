@@ -1,3 +1,5 @@
+# [fairseq](https://github.com/facebookresearch/fairseq)
+
 <p align="center">
   <img src="docs/fairseq_logo.png" width="150">
   <br />

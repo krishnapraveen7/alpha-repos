@@ -1,3 +1,5 @@
+# [ChatGLM2-6B](https://github.com/THUDM/ChatGLM2-6B)
+
 # ChatGLM2-6B
 
 <p align="center">

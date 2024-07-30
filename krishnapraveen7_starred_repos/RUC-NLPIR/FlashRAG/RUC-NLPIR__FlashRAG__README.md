@@ -1,3 +1,5 @@
+# [FlashRAG](https://github.com/RUC-NLPIR/FlashRAG)
+
 # <div align="center">⚡FlashRAG: A Python Toolkit for Efficient RAG Research<div>
 
 

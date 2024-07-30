@@ -1,3 +1,5 @@
+# [precedent](https://github.com/steven-tey/precedent)
+
 <a href="https://precedent.dev">
   <img alt="Precedent – Building blocks for your Next project" src="https://precedent.dev/opengraph-image" />
   <h1 align="center">Precedent</h1>

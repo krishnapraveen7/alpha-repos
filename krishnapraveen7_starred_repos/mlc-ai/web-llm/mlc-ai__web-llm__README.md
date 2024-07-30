@@ -1,3 +1,5 @@
+# [web-llm](https://github.com/mlc-ai/web-llm)
+
 <div align="center">
 
 # WebLLM
@@ -124,7 +126,7 @@ import { CreateMLCEngine } from "@mlc-ai/web-llm";
 const initProgressCallback = (initProgress) => {
   console.log(initProgress);
 }
-const selectedModel = "Llama-3-8B-Instruct-q4f32_1-MLC";
+const selectedModel = "Llama-3.1-8B-Instruct-q4f32_1-MLC";
 
 const engine = await CreateMLCEngine(
   selectedModel,

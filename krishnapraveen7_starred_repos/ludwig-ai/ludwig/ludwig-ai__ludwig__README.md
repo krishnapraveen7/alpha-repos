@@ -1,3 +1,5 @@
+# [ludwig](https://github.com/ludwig-ai/ludwig)
+
 <p align="center">
   <a href="https://ludwig.ai">
     <img src="https://github.com/ludwig-ai/ludwig-docs/raw/master/docs/images/ludwig_hero_smaller.jpg" height="150">

@@ -1,3 +1,5 @@
+# [chainlit](https://github.com/Chainlit/chainlit)
+
 # Welcome to Chainlit by Literal AI 👋
 
 [![](https://dcbadge.vercel.app/api/server/ZThrUxbAYw?style=flat)](https://discord.gg/k73SQ3FyUh)

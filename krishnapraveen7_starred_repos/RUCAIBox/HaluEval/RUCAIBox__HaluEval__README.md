@@ -1,3 +1,5 @@
+# [HaluEval](https://github.com/RUCAIBox/HaluEval)
+
 # HaluEval: A Hallucination Evaluation Benchmark for LLMs
 
 This is the repo for our paper: [HaluEval: A Large-Scale Hallucination Evaluation Benchmark for Large Language Models](https://arxiv.org/abs/2305.11747). The repo contains:

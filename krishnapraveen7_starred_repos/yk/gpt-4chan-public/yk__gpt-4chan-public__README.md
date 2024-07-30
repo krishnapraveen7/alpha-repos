@@ -1,3 +1,5 @@
+# [gpt-4chan-public](https://github.com/yk/gpt-4chan-public)
+
 # gpt-4chan-public
 Code for GPT-4chan
 

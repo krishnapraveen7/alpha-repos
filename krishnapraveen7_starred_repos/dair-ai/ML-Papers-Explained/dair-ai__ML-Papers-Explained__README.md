@@ -1,3 +1,5 @@
+# [ML-Papers-Explained](https://github.com/dair-ai/ML-Papers-Explained)
+
 # ML Papers Explained
 
 Explanations to key concepts in ML
@@ -29,6 +31,7 @@ Explanations to key concepts in ML
 | [XLM-Roberta](https://ritvik19.medium.com/papers-explained-159-xlm-roberta-2da91fc24059) | November 2019 | A multilingual masked language model pre-trained on text in 100 languages, shows that pretraining multilingual language models at scale leads to significant performance gains for a wide range of crosslingual transfer tasks. |
 | [Pegasus](https://ritvik19.medium.com/papers-explained-162-pegasus-1cb16f572553) | December 2019 | A self-supervised pre-training objective for abstractive text summarization, proposes removing/masking important sentences from an input document and generating them together as one output sequence. |
 | [Reformer](https://ritvik19.medium.com/papers-explained-165-reformer-4445ad305191) | January 2020 | Improves the efficiency of Transformers by replacing dot-product attention with locality-sensitive hashing (O(Llog L) complexity), using reversible residual layers to store activations only once, and splitting feed-forward layer activations into chunks, allowing it to perform on par with Transformer models while being much more memory-efficient and faster on long sequences. |
+| [mBART](https://ritvik19.medium.com/papers-explained-169-mbart-98432ef6fec) | January 2020 | A multilingual sequence-to-sequence denoising auto-encoder that pre-trains a complete autoregressive model on large-scale monolingual corpora across many languages using the BART objective, achieving significant performance gains in machine translation tasks. |
 | [UniLMv2](https://ritvik19.medium.com/papers-explained-unilmv2-5a044ca7c525) | February 2020 | Utilizes a pseudo-masked language model (PMLM) for both autoencoding and partially autoregressive language modeling tasks,significantly advancing the capabilities of language models in diverse NLP tasks. |
 | [FastBERT](https://ritvik19.medium.com/papers-explained-37-fastbert-5bd246c1b432) | April 2020 | A speed-tunable encoder with adaptive inference time having branches at each transformer output to enable early outputs. |
 | [MobileBERT](https://ritvik19.medium.com/papers-explained-36-mobilebert-933abbd5aaf1) | April 2020 | Compressed and faster version of the BERT, featuring bottleneck structures, optimized attention mechanisms, and knowledge transfer. |
@@ -94,7 +97,9 @@ Explanations to key concepts in ML
 | [Aya 101](https://ritvik19.medium.com/papers-explained-aya-101-d813ba17b83a) | Februray 2024 | A massively multilingual generative language model that follows instructions in 101 languages,trained by finetuning mT5. |
 | [Hawk, Griffin](https://ritvik19.medium.com/papers-explained-131-hawk-griffin-dfc8c77f5dcd) |  February 2024 | Introduces Real Gated Linear Recurrent Unit Layer that forms the core of the new recurrent block, replacing Multi-Query Attention for better efficiency and scalability |
 | [WRAP](https://ritvik19.medium.com/papers-explained-118-wrap-e563e009fe56) | March 2024 | Uses an off-the-shelf instruction-tuned model prompted to paraphrase documents on the web in specific styles to jointly pre-train LLMs on real and synthetic rephrases. |
+| [Command R](https://ritvik19.medium.com/papers-explained-166-command-r-models-94ba068ebd2b) | March 2024 | An LLM optimized for retrieval-augmented generation and tool use, across multiple languages. |
 | [DBRX](https://ritvik19.medium.com/papers-explained-119-dbrx-17c61739983c) | March 2024 | A 132B open, general-purpose fine grained Sparse MoE LLM surpassing GPT-3.5 and competitive with Gemini 1.0 Pro. |
+| [Command R+](https://ritvik19.medium.com/papers-explained-166-command-r-models-94ba068ebd2b#c2b5) | April 2024 | Successor of Command R+ with improved performance for retrieval-augmented generation and tool use, across multiple languages. |
 | [Mixtral 8x22B](https://ritvik19.medium.com/papers-explained-95-mixtral-8x7b-9e9f40ebb745#20f3) | April 2024 | A open-weight AI model optimised for performance and efficiency, with capabilities such as fluency in multiple languages, strong mathematics and coding abilities, and precise information recall from large documents. |
 | [CodeGemma](https://ritvik19.medium.com/papers-explained-124-codegemma-85faa98af20d) | April 2024 | Open code models based on Gemma models by further training on over 500 billion tokens of primarily code. |
 | [RecurrentGemma](https://ritvik19.medium.com/papers-explained-132-recurrentgemma-52732d0f4273) | April 2024 | Based on Griffin, uses a combination of linear recurrences and local attention instead of global attention to model long sequences efficiently. |
@@ -108,6 +113,8 @@ Explanations to key concepts in ML
 | [Gemma 2](https://ritvik19.medium.com/papers-explained-157-gemma-2-f1b75b56b9f2) | June 2024 | Utilizes interleaving local-global attentions and group-query attention, trained with knowledge distillation instead of next token prediction to achieve competitive performance comparable with larger models. |
 | [Orca 3 (Agent Instruct)](https://ritvik19.medium.com/papers-explained-164-orca-3-agent-instruct-41340505af36) | June 2024 | A fine tuned Mistral-7B through Generative Teaching via synthetic data generated through the proposed AgentInstruct framework, which generates both the prompts and responses, using only raw data sources like text documents and code files as seeds. |
 | [Mathstral](https://medium.com/dair-ai/papers-explained-mistral-7b-b9632dedf580#0fbe) | July 2024 | a 7B model designed for math reasoning and scientific discovery based on Mistral 7B specializing in STEM subjects. |
+| [Mistral Nemo](https://medium.com/dair-ai/papers-explained-mistral-7b-b9632dedf580#37cd) | July 2024 | A 12B Language Model built in collaboration between Mistral and NVIDIA, featuring a context window of 128K, an efficient tokenizer and trained with quantization awareness, enabling FP8 inference without any performance loss. |
+| [Mistral Large 2](https://medium.com/dair-ai/papers-explained-mistral-7b-b9632dedf580#301d) | July 2024 | A 123B model, offers significant improvements in code generation, mathematics, and reasoning capabilities, advanced function calling, a 128k context window, and supports dozens of languages and over 80 coding languages. |
 
 
 ## Multi Modal Language Models
@@ -147,7 +154,9 @@ Explanations to key concepts in ML
 | [E5 Mistral 7B](https://ritvik19.medium.com/papers-explained-91-e5-mistral-7b-23890f40f83a) | December 2023 | Leverages proprietary LLMs to generate diverse synthetic data to fine tune open-source decoder-only LLMs for hundreds of thousands of text embedding tasks. |
 | [Nomic Embed Text v1](https://ritvik19.medium.com/papers-explained-110-nomic-embed-8ccae819dac2) | February 2024 | A 137M parameter, open-source English text embedding model with an 8192 context length that outperforms OpenAI's models on both short and long-context tasks. |
 | [Nomic Embed Text v1.5](https://ritvik19.medium.com/papers-explained-110-nomic-embed-8ccae819dac2#2119) | February 2024 | An advanced text embedding model that utilizes Matryoshka Representation Learning to offer flexible embedding sizes with minimal performance trade-offs |
+| [NV Embed](https://ritvik19.medium.com/papers-explained-168-nv-embed-48bd25d83258) | May 2024 | Introduces architectural innovations and training recipe to significantly enhance LLMs performance in general-purpose text embedding tasks. |
 | [Nomic Embed Vision v1 and v1.5](https://ritvik19.medium.com/papers-explained-110-nomic-embed-8ccae819dac2#486b) | June 2024 | Aligns a Vision Encoder with the existing text encoders without destroying the downstream performance of the text encoder, to attain a unified multimodal latent space. |
+
 
 ## Parameter Efficient Fine Tuning
 
@@ -156,6 +165,12 @@ Explanations to key concepts in ML
 | [LoRA](https://ritvik19.medium.com/papers-explained-lora-a48359cecbfa) | July 2021 | Introduces trainable rank decomposition matrices into each layer of a pre-trained Transformer model, significantly reducing the number of trainable parameters for downstream tasks. |
 | [QLoRA](https://ritvik19.medium.com/papers-explained-146-qlora-a6e7273bc630) | May 2023 | Allows efficient training of large models on limited GPU memory, through innovations like 4-bit NormalFloat (NF4), double quantization and paged optimisers. |
 | [LongLoRA](https://ritvik19.medium.com/papers-explained-147-longlora-24f095b93611) | September 2023 | Enables context extension for large language models, achieving significant computation savings through sparse local attention and parameter-efficient fine-tuning. |
+
+## LLM Evaluation
+
+| Paper | Date | Description |
+|---|---|---|
+| [Prometheus](https://ritvik19.medium.com/papers-explained-170-prometheus-5e72b8054729) | October 2023 | A 13B fully open source evaluation LLM trained on Feedback Collection curated using GPT-4 (in this work). |
 
 ## Compression, Pruning, Quantization
 
@@ -282,6 +297,7 @@ Explanations to key concepts in ML
 | [DSPy](https://ritvik19.medium.com/papers-explained-135-dspy-fe8af7e35091) | October 2023 | A programming model that abstracts LM pipelines as text transformation graphs, i.e. imperative computation graphs where LMs are invoked through declarative modules, optimizing their use through a structured framework of signatures, modules, and teleprompters to automate and enhance text transformation tasks. |
 | [Direct Preference Optimization](https://ritvik19.medium.com/papers-explained-148-direct-preference-optimization-d3e031a41be1) | December 2023 | A stable, performant, and computationally lightweight algorithm that fine-tunes llms to align with human preferences without the need for reinforcement learning, by directly optimizing for the policy best satisfying the preferences with a simple classification objective. |
 | [RLHF Workflow](https://ritvik19.medium.com/papers-explained-149-rlhf-workflow-56b4e00019ed) | May 2024 | Provides a detailed recipe for  online iterative RLHF and achieves state-of-the-art performance on various benchmarks using fully open-source datasets. |
+| [Monte Carlo Tree Self-refine](https://ritvik19.medium.com/papers-explained-167-monte-carlo-tree-self-refine-79bffb070c1a) | June 2024 | Integrates LLMs with Monte Carlo Tree Search to enhance performance in complex mathematical reasoning tasks, leveraging systematic exploration and heuristic self-refine mechanisms to improve decision-making frameworks. |
 
 ---
 
@@ -308,6 +324,7 @@ Explanations to key concepts in ML
 - [Multi Task Language Models](https://ritvik19.medium.com/list/multi-task-language-models-e6a2a1e517e6)
 - [Layout Aware Transformers](https://ritvik19.medium.com/list/layout-transformers-1ce4f291a9f0)
 - [Retrieval and Representation Learning](https://ritvik19.medium.com/list/retrieval-and-representation-learning-bcd23de0bd8e)
+- [LLM Evaluation](https://ritvik19.medium.com/list/llm-evaluation-a011ddd1a546)
 - [Vision Transformers](https://ritvik19.medium.com/list/vision-transformers-61e6836230f1)
 - [Multi Modal Transformers](https://ritvik19.medium.com/list/multi-modal-transformers-67453f215ecf)
 - [Convolutional Neural Networks](https://ritvik19.medium.com/list/convolutional-neural-networks-5b875ce3b689)

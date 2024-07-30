@@ -1,3 +1,5 @@
+# [llm_agents](https://github.com/mpaepper/llm_agents)
+
 ## LLM Agents
 
 Small library to build agents which are controlled by large language models (LLMs) which is heavily inspired by <a href="https://github.com/hwchase17/langchain/" target="_blank">langchain</a>.

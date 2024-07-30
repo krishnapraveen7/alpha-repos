@@ -1,3 +1,5 @@
+# [G6](https://github.com/antvis/G6)
+
 <img src="https://gw.alipayobjects.com/zos/antfincdn/R8sN%24GNdh6/language.svg" width="18"> [English](./README.en-US.md) | 简体中文
 
 <h1 align="center">

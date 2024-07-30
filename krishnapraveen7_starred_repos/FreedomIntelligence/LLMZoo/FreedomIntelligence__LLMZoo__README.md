@@ -1,3 +1,5 @@
+# [LLMZoo](https://github.com/FreedomIntelligence/LLMZoo)
+
 # LLM Zoo: democratizing ChatGPT
 
 <div align=center>

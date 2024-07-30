@@ -1,3 +1,5 @@
+# [chatbot-ui](https://github.com/mckaywrigley/chatbot-ui)
+
 # Chatbot UI
 
 The open-source AI chat app for everyone.

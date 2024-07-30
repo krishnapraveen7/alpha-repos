@@ -1,3 +1,5 @@
+# [stablediffusion](https://github.com/Stability-AI/stablediffusion)
+
 # Stable Diffusion Version 2
 ![t2i](assets/stable-samples/txt2img/768/merged-0006.png)
 ![t2i](assets/stable-samples/txt2img/768/merged-0002.png)

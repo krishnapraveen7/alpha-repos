@@ -1,3 +1,5 @@
+# [multinerf](https://github.com/google-research/multinerf)
+
 # MultiNeRF: A Code Release for Mip-NeRF 360, Ref-NeRF, and RawNeRF
 
 *This is not an officially supported Google product.*

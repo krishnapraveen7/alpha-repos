@@ -1,3 +1,5 @@
+# [pyomo](https://github.com/Pyomo/pyomo)
+
 [![Github Actions Status](https://github.com/Pyomo/pyomo/workflows/GitHub%20CI/badge.svg?event=push)](https://github.com/Pyomo/pyomo/actions?query=event%3Apush+workflow%3A%22GitHub+CI%22)
 [![Jenkins Status](https://github.com/Pyomo/jenkins-status/blob/main/pyomo_main.svg)](https://pyomo-jenkins.sandia.gov/)
 [![codecov](https://codecov.io/gh/Pyomo/pyomo/branch/main/graph/badge.svg)](https://codecov.io/gh/Pyomo/pyomo)

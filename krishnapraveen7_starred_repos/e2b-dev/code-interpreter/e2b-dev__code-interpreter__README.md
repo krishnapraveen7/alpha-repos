@@ -1,3 +1,5 @@
+# [code-interpreter](https://github.com/e2b-dev/code-interpreter)
+
 # Code Interpreter SDK
 E2B's [Code Interpreter SDK](https://github.com/e2b-dev/code-interpreter) allows you to add code interpreting capabilities to your AI apps.
 

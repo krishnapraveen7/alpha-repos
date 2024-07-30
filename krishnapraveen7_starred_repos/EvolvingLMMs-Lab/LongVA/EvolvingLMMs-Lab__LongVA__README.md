@@ -1,3 +1,5 @@
+# [LongVA](https://github.com/EvolvingLMMs-Lab/LongVA)
+
 # LongVA & V-NIAH
 <p align="center">
     <img src="vision_niah/niah_output/LongVA-7B/heatmap.png" width="800">
@@ -7,6 +9,8 @@
     🌐 <a href="https://lmms-lab.github.io/posts/longva/" target="_blank">Blog</a> | 📃 <a href="https://arxiv.org/abs/2406.16852" target="_blank">Paper</a> | 🤗 <a href="https://huggingface.co/collections/lmms-lab/longva-667538e09329dbc7ea498057" target="_blank">Hugging Face</a> | 🎥 <a href="https://longva-demo.lmms-lab.com/" target="_blank">Demo</a>
 
 </p>
+
+![Static Badge](https://img.shields.io/badge/lmms--eval-certified-red?link=https%3A%2F%2Fgithub.com%2FEvolvingLMMs-Lab%2Flmms-eval)  ![Static Badge](https://img.shields.io/badge/llava--next-credit-red?link=https%3A%2F%2Fgithub.com%2FLLaVA-VL%2FLLaVA-NeXT)
 
 Long context capability can **zero-shot transfer** from language to vision.
 

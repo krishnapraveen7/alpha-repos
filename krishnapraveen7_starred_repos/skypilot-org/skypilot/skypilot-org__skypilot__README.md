@@ -1,3 +1,5 @@
+# [skypilot](https://github.com/skypilot-org/skypilot)
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/skypilot-org/skypilot/master/docs/source/images/skypilot-wide-dark-1k.png">
@@ -27,6 +29,7 @@
 
 ----
 :fire: *News* :fire:
+- [Jul, 2024] [Finetune](./llm/llama-3_1-finetuning/) and [serve](./llm/llama-3_1/) **Llama 3.1** on your infra
 - [Jun, 2024] Reproduce **GPT** with [llm.c](https://github.com/karpathy/llm.c/discussions/481) on any cloud: [**guide**](./llm/gpt-2/)
 - [Apr, 2024] Serve and finetune [**Llama 3**](https://skypilot.readthedocs.io/en/latest/gallery/llms/llama-3.html) on any cloud or Kubernetes: [**example**](./llm/llama-3/)
 - [Apr, 2024] Serve [**Qwen-110B**](https://qwenlm.github.io/blog/qwen1.5-110b/) on your infra: [**example**](./llm/qwen/)
@@ -58,7 +61,7 @@ SkyPilot is a framework for running LLMs, AI, and batch jobs on any cloud, offer
 SkyPilot **abstracts away cloud infra burdens**:
 - Launch jobs & clusters on any cloud
 - Easy scale-out: queue and run many jobs, automatically managed
-- Easy access to object stores (S3, GCS, R2)
+- Easy access to object stores (S3, GCS, Azure, R2, IBM)
 
 SkyPilot **maximizes GPU availability for your jobs**:
 * Provision in all zones/regions/clouds you have access to ([the _Sky_](https://arxiv.org/abs/2205.07147)), with automatic failover

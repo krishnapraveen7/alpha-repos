@@ -1,3 +1,5 @@
+# [fastLLaMa](https://github.com/PotatoSpudowski/fastLLaMa)
+
 # fastLLaMa
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)

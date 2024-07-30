@@ -1,3 +1,5 @@
+# [layout-parser](https://github.com/Layout-Parser/layout-parser)
+
 <p align="center">
   <img src="https://github.com/Layout-Parser/layout-parser/raw/main/.github/layout-parser.png" alt="Layout Parser Logo" width="35%">
   <h3 align="center">

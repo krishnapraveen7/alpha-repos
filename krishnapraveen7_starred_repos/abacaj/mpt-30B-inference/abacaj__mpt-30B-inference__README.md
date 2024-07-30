@@ -1,3 +1,5 @@
+# [mpt-30B-inference](https://github.com/abacaj/mpt-30B-inference)
+
 # MPT 30B inference code using CPU
 
 Run inference on the latest MPT-30B model using your CPU. This inference code uses a [ggml](https://github.com/ggerganov/ggml) quantized model. To run the model we'll use a library called [ctransformers](https://github.com/marella/ctransformers) that has bindings to ggml in python.

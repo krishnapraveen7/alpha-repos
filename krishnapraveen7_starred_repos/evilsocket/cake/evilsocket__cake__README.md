@@ -1,3 +1,5 @@
+# [cake](https://github.com/evilsocket/cake)
+
 <p align="center">
   <small>Join the project community on our server!</small>
   <br/><br/>

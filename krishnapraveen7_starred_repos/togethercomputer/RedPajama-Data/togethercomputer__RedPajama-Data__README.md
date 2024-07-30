@@ -1,3 +1,5 @@
+# [RedPajama-Data](https://github.com/togethercomputer/RedPajama-Data)
+
 # RedPajama-Data-v2: an Open Dataset with 30 Trillion Tokens for Training Large Language Models
 
 <img width="500" src="docs/rpv2.png" />

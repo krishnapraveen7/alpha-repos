@@ -1,3 +1,5 @@
+# [MineDojo](https://github.com/MineDojo/MineDojo)
+
 <div align="center">
 <img src="https://minedojo.org/images/logo.png" width="400px">
 

@@ -1,3 +1,5 @@
+# [diffusers](https://github.com/huggingface/diffusers)
+
 <!---
 Copyright 2022 - The HuggingFace Team. All rights reserved.
 

@@ -1,3 +1,5 @@
+# [diffusiondb](https://github.com/poloclub/diffusiondb)
+
 # DiffusionDB  <a href="https://huggingface.co/datasets/poloclub/diffusiondb"><picture><source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/yGxUUlX.png"><img src="favicon.ico" align="right" src="favicon.ico" height="40px"></picture>
 
 [![hugging](https://img.shields.io/badge/🤗%20Hugging%20Face-Datasets-yellow)](https://huggingface.co/datasets/poloclub/diffusiondb)

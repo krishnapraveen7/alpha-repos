@@ -1,3 +1,5 @@
+# [AutoAWQ](https://github.com/casper-hansen/AutoAWQ)
+
 # AutoAWQ
 
 <p align="center">

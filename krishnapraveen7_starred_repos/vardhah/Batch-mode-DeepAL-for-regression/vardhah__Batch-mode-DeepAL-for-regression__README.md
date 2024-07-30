@@ -1,3 +1,5 @@
+# [Batch-mode-DeepAL-for-regression](https://github.com/vardhah/Batch-mode-DeepAL-for-regression)
+
 # DeepAL using epsilon-HQS
 
 In this work, we propose a new approach of Active Learning (AL) for regression problem. This framework of AL is ensemble-free and work in batch setting. We empirically evaluted this approach in different probelms as well as complex engineering design domains: finite element analysis (FEA) , computational fluid dynamics (CFD) and propeller design. In all these engineering domains, data generation is very costly and by using our AL framework , we were able to get same accuracy of surrogate as other baselines but up to 40\% more sample efficient. It saves data generation time in days in these complex domains.  

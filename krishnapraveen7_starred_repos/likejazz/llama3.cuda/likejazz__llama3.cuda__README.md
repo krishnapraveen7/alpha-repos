@@ -1,3 +1,5 @@
+# [llama3.cuda](https://github.com/likejazz/llama3.cuda)
+
 # llama3.cuda
 
 <p align="center">

@@ -1,3 +1,5 @@
+# [LanguageAgentTreeSearch](https://github.com/lapisrocks/LanguageAgentTreeSearch)
+
 # Official Repo of Language Agent Tree Search (LATS) - ICML 2024
 
 <p>

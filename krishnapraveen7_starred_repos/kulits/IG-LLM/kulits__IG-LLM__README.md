@@ -1,3 +1,5 @@
+# [IG-LLM](https://github.com/kulits/IG-LLM)
+
 <h1 align=center>Re-Thinking Inverse Graphics With Large Language Models</h1>
 
 <p align=center><a href="https://kulits.github.io/">Peter Kulits</a><sup>*</sup>, <a href="https://ps.is.mpg.de/person/hfeng">Haiwen Feng</a><sup>*</sup>, <a href="https://wyliu.com/">Weiyang Liu</a>, <a href="https://is.mpg.de/~vabrevaya">Victoria Abrevaya</a>, <a href="https://ps.is.mpg.de/person/black">Michael J. Black</a></p>

@@ -1,3 +1,5 @@
+# [energy-forecasting](https://github.com/iusztinpaul/energy-forecasting)
+
 # The Full Stack 7-Steps MLOps Framework
 
 `Learn MLE & MLOps for free by designing, building, deploying and monitoring an end-to-end ML batch system | source code + 2.5 hours of reading & video materials on Medium`

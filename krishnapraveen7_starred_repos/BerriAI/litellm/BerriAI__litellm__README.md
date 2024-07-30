@@ -1,3 +1,5 @@
+# [litellm](https://github.com/BerriAI/litellm)
+
 <h1 align="center">
         🚅 LiteLLM
     </h1>
@@ -8,7 +10,7 @@
           <img src="https://railway.app/button.svg" alt="Deploy on Railway">
         </a>
         </p>
-        <p align="center">Call all LLM APIs using the OpenAI format [Bedrock, Huggingface, VertexAI, TogetherAI, Azure, OpenAI, etc.]
+        <p align="center">Call all LLM APIs using the OpenAI format [Bedrock, Huggingface, VertexAI, TogetherAI, Azure, OpenAI, Groq etc.]
         <br>
     </p>
 <h4 align="center"><a href="https://docs.litellm.ai/docs/simple_proxy" target="_blank">OpenAI Proxy Server</a> | <a href="https://docs.litellm.ai/docs/hosted" target="_blank"> Hosted Proxy (Preview)</a> | <a href="https://docs.litellm.ai/docs/enterprise"target="_blank">Enterprise Tier</a></h4>
@@ -165,6 +167,10 @@ $ litellm --model huggingface/bigcode/starcoder
 ```
 
 ### Step 2: Make ChatCompletions Request to Proxy
+
+
+> [!IMPORTANT]
+> 💡 [Use LiteLLM Proxy with Langchain (Python, JS), OpenAI SDK (Python, JS) Anthropic SDK, Mistral SDK, LlamaIndex, Instructor, Curl](https://docs.litellm.ai/docs/proxy/user_keys)  
 
 ```python
 import openai # openai v1.0.0+

@@ -1,3 +1,5 @@
+# [fastembed](https://github.com/qdrant/fastembed)
+
 # ⚡️ What is FastEmbed?
 
 FastEmbed is a lightweight, fast, Python library built for embedding generation. We [support popular text models](https://qdrant.github.io/fastembed/examples/Supported_Models/). Please [open a GitHub issue](https://github.com/qdrant/fastembed/issues/new) if you want us to add a new model.

@@ -1,3 +1,5 @@
+# [Dough](https://github.com/banodoco/Dough)
+
 # Dough is an open-source art tool for steering video with precision
 
 **⬇️ Scroll down for Setup Instructions - Currently available on Linux & Windows computers with more than 12GB of VRAM, hosted version coming soon.**

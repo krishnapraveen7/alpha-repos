@@ -1,3 +1,5 @@
+# [data-science-on-gcp](https://github.com/GoogleCloudPlatform/data-science-on-gcp)
+
 # data-science-on-gcp
 
 Source code accompanying book:

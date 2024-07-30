@@ -1,3 +1,5 @@
+# [flow](https://github.com/flow-project/flow)
+
 <img src="docs/img/square_logo.png" align="right" width="25%"/>
 
 [![Build Status](https://travis-ci.com/flow-project/flow.svg?branch=master)](https://travis-ci.com/flow-project/flow)

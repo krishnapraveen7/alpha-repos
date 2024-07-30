@@ -1,3 +1,5 @@
+# [tango](https://github.com/declare-lab/tango)
+
 # Tango: LLM-guided Diffusion-based Text-to-Audio Generation and DPO-based Alignment
 
 <p align="center">

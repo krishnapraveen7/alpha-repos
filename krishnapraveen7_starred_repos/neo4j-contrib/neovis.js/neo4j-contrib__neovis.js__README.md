@@ -1,3 +1,5 @@
+# [neovis.js](https://github.com/neo4j-contrib/neovis.js)
+
 # neovis.js
 
 [![Actions Build Status](https://github.com/neo4j-contrib/neovis.js/workflows/CI/badge.svg?branch=master)]()[![npm version](https://badge.fury.io/js/neovis.js.svg)](https://badge.fury.io/js/neovis.js)

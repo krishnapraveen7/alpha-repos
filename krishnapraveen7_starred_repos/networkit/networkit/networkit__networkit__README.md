@@ -1,3 +1,5 @@
+# [networkit](https://github.com/networkit/networkit)
+
 <p align="center">
   <img width="60%" src="docs/logo/logo_color.png" alt="NetworKit - Lage-scale Network Analysis"><br>
   <a href="https://github.com/networkit/networkit/actions"><img src="https://github.com/networkit/networkit/workflows/build/badge.svg"></a>

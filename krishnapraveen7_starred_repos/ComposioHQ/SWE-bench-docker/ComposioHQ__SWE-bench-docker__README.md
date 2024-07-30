@@ -1,3 +1,5 @@
+# [SWE-bench-docker](https://github.com/ComposioHQ/SWE-bench-docker)
+
 This is a Dockerfile based solution of the [SWE-Bench evaluation framework](https://github.com/princeton-nlp/SWE-bench/tree/main/swebench/harness).
 
 The solution is designed so that each "testbed" for testing a version of a repository is built in a separate Docker

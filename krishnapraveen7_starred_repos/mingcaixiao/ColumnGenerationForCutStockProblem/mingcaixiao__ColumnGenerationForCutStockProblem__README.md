@@ -1,3 +1,5 @@
+# [ColumnGenerationForCutStockProblem](https://github.com/mingcaixiao/ColumnGenerationForCutStockProblem)
+
 # cut stock problem (use column generation method to solve)
 ## cut stock problem 
 [cut stock problem](https://en.wikipedia.org/wiki/Cutting_stock_problem)

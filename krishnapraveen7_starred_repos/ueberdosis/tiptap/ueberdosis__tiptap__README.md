@@ -1,3 +1,5 @@
+# [tiptap](https://github.com/ueberdosis/tiptap)
+
 # Tiptap Editor
 The Tiptap Editor is a headless, framework-agnostic rich text editor that's customizable and extendable through extensions. Its headless nature means it comes without a set user interface, offering full design freedom (for a jumpstart, see linked [UI templates](#examples-codesandbox-and-ui-templates) below). Tiptap is based on the highly reliable [ProseMirror](https://github.com/ProseMirror/prosemirror) library.
 

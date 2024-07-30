@@ -1,3 +1,5 @@
+# [HeadStudio](https://github.com/ZhenglinZhou/HeadStudio)
+
 <div align="center">
 <h1>HeadStudio: Text to Animatable Head Avatars with 3D Gaussian Splatting</h1>
 

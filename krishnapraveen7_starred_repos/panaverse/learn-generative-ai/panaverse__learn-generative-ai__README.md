@@ -1,3 +1,5 @@
+# [learn-generative-ai](https://github.com/panaverse/learn-generative-ai)
+
 # Learn Cloud Applied Generative AI Engineering (GenEng)
 
 This course is part of the [Certified Cloud Applied Generative AI Engineer (GenEng)](https://docs.google.com/document/d/15usu1hkrrRLRjcq_3nCTT-0ljEcgiC44iSdvdqrCprk/edit?usp=sharing)

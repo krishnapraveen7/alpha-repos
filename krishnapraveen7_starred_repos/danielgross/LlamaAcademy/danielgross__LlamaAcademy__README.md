@@ -1,3 +1,5 @@
+# [LlamaAcademy](https://github.com/danielgross/LlamaAcademy)
+
 # LlamaAcademy: Teaching Llamas How to Code
 ### Teach GPTs to read API documentation using LLaMA, LoRA, and Langchain.
 Wouldn't it be great if GPTs could learn about new APIs? With LlamaAcademy you can teach GPTs to call Stripe, Notion, or even your own product's API. Instead of hosting API _documentation_, you can host an API _implementation_! Just point LlamaAcademy at your API docs, run the script, and -- _shazam_! -- a new LLaMA model will be created for you. You can host that model on your server, and users can call your bespoke mini-GPT to write their API glue.

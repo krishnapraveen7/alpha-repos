@@ -1,12 +1,18 @@
+# [sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx)
+
 ### Supported functions
 
 |Speech recognition| Speech synthesis | Speaker verification | Speaker identification |
 |------------------|------------------|----------------------|------------------------|
 |   ✔️              |         ✔️        |          ✔️           |                ✔️       |
 
-| Spoken Language identification | Audio tagging | Voice activity detection | Keyword spotting |
-|--------------------------------|---------------|--------------------------|------------------|
-|                 ✔️              |          ✔️    |                ✔️         |         ✔️        |
+| Spoken Language identification | Audio tagging | Voice activity detection |
+|--------------------------------|---------------|--------------------------|
+|                 ✔️              |          ✔️    |                ✔️         |
+
+| Keyword spotting | Add punctuation |
+|------------------|-----------------|
+|     ✔️            |       ✔️         |
 
 ### Supported platforms
 

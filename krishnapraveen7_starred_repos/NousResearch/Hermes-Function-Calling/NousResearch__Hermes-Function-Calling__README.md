@@ -1,3 +1,5 @@
+# [Hermes-Function-Calling](https://github.com/NousResearch/Hermes-Function-Calling)
+
 # Hermes-Function-Calling
 
 This repository contains code for the Hermes Pro Large Language Model to perform function calling based on the provided schema. It allows users to query the model and retrieve information related to stock prices, company fundamentals, financial statements, and more.

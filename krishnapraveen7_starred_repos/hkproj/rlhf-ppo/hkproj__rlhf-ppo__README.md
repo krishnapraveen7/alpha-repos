@@ -1,3 +1,5 @@
+# [rlhf-ppo](https://github.com/hkproj/rlhf-ppo)
+
 # Reinforcement Learning from Human Feedback
 Notes and commented code for RLHF (PPO)
 

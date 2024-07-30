@@ -1,3 +1,5 @@
+# [ecosystem-tests](https://github.com/prisma/ecosystem-tests)
+
 # Prisma Ecosystem Tests
 
 This repository continuously tests Prisma Client on and with various operating systems, databases, frameworks, platforms and other setups.

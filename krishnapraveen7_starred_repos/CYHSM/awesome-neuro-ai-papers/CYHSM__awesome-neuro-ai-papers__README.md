@@ -1,3 +1,5 @@
+# [awesome-neuro-ai-papers](https://github.com/CYHSM/awesome-neuro-ai-papers)
+
 <p align="center">
   <br>
     <img src="awesome_neuroai.png" width="150"/>

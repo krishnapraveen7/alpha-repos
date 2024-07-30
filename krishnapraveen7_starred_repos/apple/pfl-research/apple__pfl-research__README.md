@@ -1,3 +1,5 @@
+# [pfl-research](https://github.com/apple/pfl-research)
+
 # `pfl`: Python framework for Private Federated Learning simulations
 
 [![GitHub License](https://img.shields.io/github/license/apple/pfl-research)](https://github.com/apple/pfl-research/blob/main/LICENSE)

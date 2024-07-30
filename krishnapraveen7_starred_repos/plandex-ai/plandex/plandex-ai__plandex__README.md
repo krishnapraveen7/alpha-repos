@@ -1,3 +1,5 @@
+# [plandex](https://github.com/plandex-ai/plandex)
+
 <h1 align="center">
  <a href="https://plandex.ai">
   <picture>

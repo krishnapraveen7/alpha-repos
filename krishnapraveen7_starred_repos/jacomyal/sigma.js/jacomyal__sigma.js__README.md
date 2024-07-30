@@ -1,3 +1,5 @@
+# [sigma.js](https://github.com/jacomyal/sigma.js)
+
 [![Build Status](https://github.com/jacomyal/sigma.js/workflows/Tests/badge.svg)](https://github.com/jacomyal/sigma.js/actions)
 
 <br />

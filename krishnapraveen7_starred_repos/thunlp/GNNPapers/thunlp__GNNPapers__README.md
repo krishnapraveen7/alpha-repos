@@ -1,3 +1,5 @@
+# [GNNPapers](https://github.com/thunlp/GNNPapers)
+
 # Must-read papers on GNN
 GNN: graph neural network
 

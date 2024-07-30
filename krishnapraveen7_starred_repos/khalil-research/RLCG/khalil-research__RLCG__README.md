@@ -1,2 +1,4 @@
+# [RLCG](https://github.com/khalil-research/RLCG)
+
 This is the code repo for NeurIPS 2022 paper: A Deep Reinforcement Learning framework for Column Generation; 
 

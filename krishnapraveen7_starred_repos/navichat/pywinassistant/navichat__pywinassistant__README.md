@@ -1,3 +1,5 @@
+# [pywinassistant](https://github.com/navichat/pywinassistant)
+
 # PyWinAssistant
 "PyWinAssistant" is an open-source Windows 10/11 Python framework to artificially assist the user interface using chatGPT API without using OCR and with minimal usage of vision models.
 

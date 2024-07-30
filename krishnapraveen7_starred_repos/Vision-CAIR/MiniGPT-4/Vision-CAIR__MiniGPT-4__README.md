@@ -1,3 +1,5 @@
+# [MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4)
+
 # MiniGPT-V
 
 <font size='5'>**MiniGPT-v2: Large Language Model as a Unified Interface for Vision-Language Multi-task Learning**</font>

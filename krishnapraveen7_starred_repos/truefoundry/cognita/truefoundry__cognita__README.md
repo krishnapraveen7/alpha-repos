@@ -1,3 +1,5 @@
+# [cognita](https://github.com/truefoundry/cognita)
+
 # [Cognita](<(https://cognita.truefoundry.com)>)
 
 ![RAG_TF](./docs/images/readme-banner.png)

@@ -1,3 +1,5 @@
+# [GA-aided-NMPC-tuning](https://github.com/winwinashwin/GA-aided-NMPC-tuning)
+
 # GA aided MPC tuning
 
 Using Genetic Algorithms to tune the gains of a Nonlinear Model Predictive Controller

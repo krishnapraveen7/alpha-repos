@@ -1,3 +1,5 @@
+# [jodie](https://github.com/claws-lab/jodie)
+
 ## Predicting Dynamic Embedding Trajectory in Temporal Interaction Networks (ACM SIGKDD 2019)
 #### Authors: [Srijan Kumar](http://cs.stanford.edu/~srijan), [Xikun Zhang](), [Jure Leskovec](https://cs.stanford.edu/people/jure/)
 <!--#### [Project website with links to the datasets](http://snap.stanford.edu/jodie/)-->

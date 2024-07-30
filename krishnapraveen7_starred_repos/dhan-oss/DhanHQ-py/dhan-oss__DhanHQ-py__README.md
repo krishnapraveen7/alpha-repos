@@ -1,3 +1,5 @@
+# [DhanHQ-py](https://github.com/dhan-oss/DhanHQ-py)
+
 # DhanHQ-py : v1.3
 
 [![PyPI](https://img.shields.io/pypi/v/dhanhq.svg)](https://pypi.org/project/dhanhq/)

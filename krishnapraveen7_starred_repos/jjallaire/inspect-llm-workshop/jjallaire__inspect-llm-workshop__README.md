@@ -1,3 +1,5 @@
+# [inspect-llm-workshop](https://github.com/jjallaire/inspect-llm-workshop)
+
 ## Inspect: An OSS framework for LLM evals
 
 This repository includes the slides and code for the workshop on Inspect given at [Mastering LLMs: A Conference for Developers and Data Scientists](https://maven.com/parlance-labs/fine-tuning).

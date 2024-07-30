@@ -1,3 +1,5 @@
+# [arxiv-daily](https://github.com/DongZhouGu/arxiv-daily)
+
 # get-daily-arxiv-noti
 
 This repository is build based on [here](github.com/kobiso/get-daily-arxiv-noti)

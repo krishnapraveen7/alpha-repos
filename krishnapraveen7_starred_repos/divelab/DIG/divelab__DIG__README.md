@@ -1,3 +1,5 @@
+# [DIG](https://github.com/divelab/DIG)
+
 <p align="center">
 <img src="https://github.com/divelab/DIG/blob/main/imgs/DIG-logo.jpg" width="500" class="center" alt="logo"/>
     <br/>

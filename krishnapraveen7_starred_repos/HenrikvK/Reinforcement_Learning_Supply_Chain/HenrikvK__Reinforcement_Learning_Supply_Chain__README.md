@@ -1,3 +1,5 @@
+# [Reinforcement_Learning_Supply_Chain](https://github.com/HenrikvK/Reinforcement_Learning_Supply_Chain)
+
 # Reinforcement Learning for Supply Chain Optimization
 Reinforcement Learning implementation in Python to optimize a supply chain. COmparison of Sarsa and REINFORCE algorithms against a simple baseline.
 

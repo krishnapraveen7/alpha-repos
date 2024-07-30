@@ -1,3 +1,5 @@
+# [TaskMatrix](https://github.com/chenfei-wu/TaskMatrix)
+
 # TaskMatrix
 
 **TaskMatrix** connects ChatGPT and a series of Visual Foundation Models to enable **sending** and **receiving** images during chatting.

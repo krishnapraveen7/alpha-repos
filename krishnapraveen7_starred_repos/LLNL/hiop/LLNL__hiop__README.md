@@ -1,3 +1,5 @@
+# [hiop](https://github.com/LLNL/hiop)
+
 # HiOp - HPC solver for optimization
 ![tests](https://github.com/LLNL/hiop/workflows/tests/badge.svg)
 

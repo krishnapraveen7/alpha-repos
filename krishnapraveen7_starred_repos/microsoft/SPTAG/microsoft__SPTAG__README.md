@@ -1,3 +1,5 @@
+# [SPTAG](https://github.com/microsoft/SPTAG)
+
 # SPTAG: A library for fast approximate nearest neighbor search
 
 [![MIT licensed](https://img.shields.io/badge/license-MIT-yellow.svg)](https://github.com/Microsoft/SPTAG/blob/master/LICENSE)

@@ -1,3 +1,5 @@
+# [dolibarr](https://github.com/Dolibarr/dolibarr)
+
 # DOLIBARR ERP & CRM
 
 ![Downloads per day](https://img.shields.io/sourceforge/dw/dolibarr.svg)

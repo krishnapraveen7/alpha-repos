@@ -1,3 +1,5 @@
+# [midday](https://github.com/midday-ai/midday)
+
 ![hero](github.png)
 
 <p align="center">

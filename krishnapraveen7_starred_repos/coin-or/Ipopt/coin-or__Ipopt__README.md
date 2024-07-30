@@ -1,3 +1,5 @@
+# [Ipopt](https://github.com/coin-or/Ipopt)
+
 Ipopt
 =====
 

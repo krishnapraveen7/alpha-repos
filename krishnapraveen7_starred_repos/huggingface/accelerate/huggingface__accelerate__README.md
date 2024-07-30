@@ -1,3 +1,5 @@
+# [accelerate](https://github.com/huggingface/accelerate)
+
 <!---
 Copyright 2021 The HuggingFace Team. All rights reserved.
 

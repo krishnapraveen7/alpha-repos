@@ -1,3 +1,5 @@
+# [ngs](https://github.com/ngs-lang/ngs)
+
 <img alt="NGS logo - cloud and UNIX shell icon" align="right" src="img/ngs-logo-300.png" />
 
 [![Discord](https://img.shields.io/discord/681405592732172293.svg?logo=discord)](https://discord.gg/6VqgcpM)

@@ -1,3 +1,5 @@
+# [vscode-chatgpt](https://github.com/gencay/vscode-chatgpt)
+
 <h3 align="center"><img src="https://raw.githubusercontent.com/gencay/vscode-chatgpt/main/images/ai-logo.png" height="64"><br>An Unofficial VS Code - Chat GPT extension</h3>
 
 <p align="center">

@@ -1,3 +1,5 @@
+# [alpaca.cpp](https://github.com/antimatter15/alpaca.cpp)
+
 # Alpaca.cpp
 
 Run a fast ChatGPT-like model locally on your device. The screencast below is not sped up and running on an M2 Macbook Air with 4GB of weights. 

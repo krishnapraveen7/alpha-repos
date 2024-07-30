@@ -1,3 +1,5 @@
+# [openssa](https://github.com/aitomatic/openssa)
+
 <!-- markdownlint-disable MD013 MD043 -->
 
 # `OpenSSA`: Small Specialist Agents for Problem-Solving

@@ -1,3 +1,5 @@
+# [awesome](https://github.com/sindresorhus/awesome)
+
 <div align="center">
 	<img width="500" height="350" src="media/logo.svg" alt="Awesome">
 	<br>
@@ -611,6 +613,7 @@
 - [TDengine](https://github.com/taosdata/awesome-tdengine#readme) - An open-source time-series database with high-performance, scalability, and SQL support.
 - [Supabase](https://github.com/lyqht/awesome-supabase#readme) - An open-source alternative to Firebase.
 - [PocketBase](https://github.com/benallfree/awesome-pocketbase#readme) - An open-source, Go-based backend in one file.
+- [Neon](https://github.com/tyaga001/awesome-neon#readme) - An open-source alternative to AWS Aurora.
 
 ## Media
 
@@ -757,6 +760,7 @@
 - [Algorand](https://github.com/aorumbayev/awesome-algorand#readme) - An open-source, proof of stake blockchain and smart contract computing platform.
 - [ZeroNet](https://github.com/zolagonano/awesome-zeronet#readme) - A decentralized web-like network of peer-to-peer users.
 - [Cosmos SDK](https://github.com/cosmos/awesome-cosmos#readme) - Modular framework for building app-specific blockchains in Go.
+- [Tor](https://github.com/polycarbohydrate/awesome-tor#readme) - A free overlay network for enabling anonymous communication.
 
 ## Health and Social Science
 

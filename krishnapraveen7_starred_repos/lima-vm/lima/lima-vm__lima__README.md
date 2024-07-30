@@ -1,3 +1,5 @@
+# [lima](https://github.com/lima-vm/lima)
+
 [[🌎**Web site**]](https://lima-vm.io/)
 [[📖**Documentation**]](https://lima-vm.io/docs/)
 [[👤**Slack (`#lima`)**]](https://slack.cncf.io)

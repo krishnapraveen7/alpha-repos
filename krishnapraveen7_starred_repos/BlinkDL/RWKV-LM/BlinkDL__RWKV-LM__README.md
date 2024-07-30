@@ -1,12 +1,16 @@
+# [RWKV-LM](https://github.com/BlinkDL/RWKV-LM)
+
 # RWKV: Parallelizable RNN with Transformer-level LM Performance (pronounced as "RwaKuv" (rʌkuv in IPA), from 4 major params: R W K V)
 
 RWKV homepage: https://www.rwkv.com
 
 **RWKV-5/6 Eagle/Finch paper**: https://arxiv.org/abs/2404.05892
 
-**RWKV-6 3B** Demo: https://huggingface.co/spaces/BlinkDL/RWKV-Gradio-1
+**Awesome RWKV in Vision:** https://github.com/Yaziwel/Awesome-RWKV-in-Vision
 
-**RWKV-6 7B** Demo: https://huggingface.co/spaces/BlinkDL/RWKV-Gradio-2
+RWKV-6 3B Demo: https://huggingface.co/spaces/BlinkDL/RWKV-Gradio-1
+
+RWKV-6 7B Demo: https://huggingface.co/spaces/BlinkDL/RWKV-Gradio-2
 
 **RWKV-6 GPT-mode demo code (with comments and explanations)**: https://github.com/BlinkDL/RWKV-LM/blob/main/RWKV-v5/rwkv_v6_demo.py
 

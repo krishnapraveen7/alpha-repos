@@ -1,3 +1,5 @@
+# [moondream](https://github.com/vikhyat/moondream)
+
 # 🌔 moondream
 
 a tiny vision language model that kicks ass and runs anywhere

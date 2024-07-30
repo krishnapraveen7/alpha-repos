@@ -1,3 +1,5 @@
+# [developer](https://github.com/smol-ai/developer)
+
 # 🐣 smol developer
 
 <a href="https://app.e2b.dev/agent/smol-developer" target="_blank" rel="noopener noreferrer">

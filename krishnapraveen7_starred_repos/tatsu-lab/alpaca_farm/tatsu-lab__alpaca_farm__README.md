@@ -1,3 +1,5 @@
+# [alpaca_farm](https://github.com/tatsu-lab/alpaca_farm)
+
 <p align="center" width="100%">
 <img src="assets/AlpacaFarm_big.png" alt="AlpacaFarm" style="width: 50%; min-width: 300px; display: block; margin: auto;">
 </p>

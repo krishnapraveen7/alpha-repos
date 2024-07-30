@@ -1,3 +1,5 @@
+# [hierarchicalforecast](https://github.com/Nixtla/hierarchicalforecast)
+
 # Nixtla &nbsp;[![Slack](https://img.shields.io/badge/Slack-4A154B?&logo=slack&logoColor=white)](https://join.slack.com/t/nixtlacommunity/shared_invite/zt-1pmhan9j5-F54XR20edHk0UtYAPcW4KQ)
 
 <div align="center">

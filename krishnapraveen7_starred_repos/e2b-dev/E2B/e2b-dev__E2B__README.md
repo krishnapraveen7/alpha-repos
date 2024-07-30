@@ -1,3 +1,5 @@
+# [E2B](https://github.com/e2b-dev/E2B)
+
 <p align="center">
   <img width="100" src="/readme-assets/logo-circle.png" alt="e2b logo">
 </p>

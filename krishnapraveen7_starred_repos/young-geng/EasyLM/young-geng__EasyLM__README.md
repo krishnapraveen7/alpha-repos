@@ -1,3 +1,5 @@
+# [EasyLM](https://github.com/young-geng/EasyLM)
+
 # EasyLM
 Large language models (LLMs) made easy, EasyLM is a one stop solution for
 pre-training, finetuning, evaluating and serving LLMs in JAX/Flax. EasyLM can

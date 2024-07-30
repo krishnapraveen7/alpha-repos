@@ -1,3 +1,5 @@
+# [omniparse](https://github.com/adithya-s-k/omniparse)
+
 # OmniParse
 
 ![OmniParse](https://raw.githubusercontent.com/adithya-s-k/omniparse/main/docs/assets/hero_image.png)
@@ -43,7 +45,7 @@ cd omniparse
 Create a Virtual Environment:
 
 ```bash
-conda create --n omniparse-venv python=3.10
+conda create -n omniparse-venv python=3.10
 conda activate omniparse-venv
 ```
 

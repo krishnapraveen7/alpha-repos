@@ -1,6 +1,12 @@
+# [puter](https://github.com/HeyPuter/puter)
+
 <h3 align="center"><img width="80" alt="Puter.com, The Personal Cloud Computer: All your files, apps, and games in one place accessible from anywhere at any time." src="https://assets.puter.site/puter-logo.png"></h3>
 
 <h3 align="center">The Internet OS! Free, Open-Source, and Self-Hostable.</h3>
+
+<p align="center">
+    <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/HeyPuter/puter"> <img alt="GitHub Release" src="https://img.shields.io/github/v/release/HeyPuter/puter?label=latest%20version"> <img alt="GitHub License" src="https://img.shields.io/github/license/HeyPuter/puter">
+</p>
 
 <p align="center">
     <a href="https://puter.com/"><strong>« LIVE DEMO »</strong></a>

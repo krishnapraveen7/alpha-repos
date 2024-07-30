@@ -1,3 +1,5 @@
+# [txtai](https://github.com/neuml/txtai)
+
 <p align="center">
     <img src="https://raw.githubusercontent.com/neuml/txtai/master/logo.png"/>
 </p>

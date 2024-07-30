@@ -1,3 +1,5 @@
+# [langchain-mini](https://github.com/ColinEberhardt/langchain-mini)
+
 # 🦜️🔗 LangChain-mini 
 
 This is a very simple re-implementation of [LangChain](https://github.com/hwchase17/langchain), in ~100 lines of code. In essence, it is an LLM (GPT-3.5) powered chat application that is able to use tools (Google search and a calculator) in order to hold conversations and answer questions. 

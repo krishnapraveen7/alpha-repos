@@ -1,3 +1,5 @@
+# [natbot](https://github.com/nat/natbot)
+
 # natbot
 
 Drive a browser with GPT-3

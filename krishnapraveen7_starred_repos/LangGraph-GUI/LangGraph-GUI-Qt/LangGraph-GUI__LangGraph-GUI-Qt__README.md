@@ -1,3 +1,5 @@
+# [LangGraph-GUI-Qt](https://github.com/LangGraph-GUI/LangGraph-GUI-Qt)
+
 # LangGraph-GUI
 
 LangGraph-GUI is a user-friendly interface for managing and visualizing Node-Edge workflows with LangGraph. It supports creating, editing, and running workflows locally using language models by Ollama .

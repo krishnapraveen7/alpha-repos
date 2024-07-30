@@ -1,3 +1,5 @@
+# [chart-llm](https://github.com/hyungkwonko/chart-llm)
+
 <p align="center">
   <h2 align="center">NL generation framework using Vega-Lite specifications and LLMs</h2>
 </p>

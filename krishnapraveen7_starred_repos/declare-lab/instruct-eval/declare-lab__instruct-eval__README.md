@@ -1,3 +1,5 @@
+# [instruct-eval](https://github.com/declare-lab/instruct-eval)
+
 ## :camel: 🍮 📚 InstructEval: Towards Holistic Evaluation of Instruction-Tuned Large Language Models
 
 [Paper](https://arxiv.org/abs/2306.04757) | [Model](https://huggingface.co/declare-lab/flan-alpaca-gpt4-xl) | [Leaderboard](https://declare-lab.github.io/instruct-eval/)

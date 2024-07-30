@@ -1,3 +1,5 @@
+# [spatial](https://github.com/neo4j-contrib/spatial)
+
 # Neo4j Spatial
 
 [![build](https://github.com/neo4j-contrib/spatial/actions/workflows/pr-build.yaml/badge.svg?branch=master)](https://github.com/neo4j-contrib/spatial/actions/workflows/pr-build.yaml)

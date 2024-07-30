@@ -1,3 +1,5 @@
+# [doctr](https://github.com/mindee/doctr)
+
 <p align="center">
   <img src="https://github.com/mindee/doctr/raw/main/docs/images/Logo_doctr.gif" width="40%">
 </p>

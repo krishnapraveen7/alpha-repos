@@ -1,3 +1,5 @@
+# [ragapp](https://github.com/ragapp/ragapp)
+
 <p align="center"><img alt="Logo - RAGapp" src="docs/logo.png"></p>
 
 <p align="center"><strong>The easiest way to use Agentic RAG in any enterprise.</strong></p>

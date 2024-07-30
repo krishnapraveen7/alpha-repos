@@ -1,3 +1,5 @@
+# [manifold](https://github.com/elalish/manifold)
+
 [![codecov](https://codecov.io/github/elalish/manifold/branch/master/graph/badge.svg?token=IIA8G5HVS7)](https://codecov.io/github/elalish/manifold)
 [![PyPI version](https://badge.fury.io/py/manifold3d.svg)](https://badge.fury.io/py/manifold3d)
 [![npm version](https://badge.fury.io/js/manifold-3d.svg)](https://badge.fury.io/js/manifold-3d)

@@ -1,3 +1,5 @@
+# [anthropic-sdk-python](https://github.com/anthropics/anthropic-sdk-python)
+
 # Anthropic Python API library
 
 [![PyPI version](https://img.shields.io/pypi/v/anthropic.svg)](https://pypi.org/project/anthropic/)
@@ -506,6 +508,12 @@ client = Anthropic(
         transport=httpx.HTTPTransport(local_address="0.0.0.0"),
     ),
 )
+```
+
+You can also customize the client on a per-request basis by using `with_options()`:
+
+```python
+client.with_options(http_client=DefaultHttpxClient(...))
 ```
 
 ### Managing HTTP resources

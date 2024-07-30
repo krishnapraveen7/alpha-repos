@@ -1,3 +1,5 @@
+# [cuda-course](https://github.com/Infatoshi/cuda-course)
+
 # CUDA Course
 
 GitHub Repo for CUDA Course on FreeCodeCamp

@@ -1,3 +1,5 @@
+# [prompt2model](https://github.com/neulab/prompt2model)
+
 # Prompt2Model - Generate Deployable Models from Instructions
 
 [![PyPI version](https://badge.fury.io/py/prompt2model.svg)](https://badge.fury.io/py/prompt2model)

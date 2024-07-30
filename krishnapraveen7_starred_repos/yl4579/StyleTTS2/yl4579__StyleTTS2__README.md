@@ -1,3 +1,5 @@
+# [StyleTTS2](https://github.com/yl4579/StyleTTS2)
+
 # StyleTTS 2: Towards Human-Level Text-to-Speech through Style Diffusion and Adversarial Training with Large Speech Language Models
 
 ### Yinghao Aaron Li, Cong Han, Vinay S. Raghavan, Gavin Mischler, Nima Mesgarani

@@ -1,3 +1,5 @@
+# [BlockNote](https://github.com/TypeCellOS/BlockNote)
+
 <p align="center">
   <a href="https://www.blocknotejs.org">
     <img alt="TypeCell" src="https://github.com/TypeCellOS/BlockNote/raw/main/docs/public/img/logos/banner.svg?raw=true" width="300" />

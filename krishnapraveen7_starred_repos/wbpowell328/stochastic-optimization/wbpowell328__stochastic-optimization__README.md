@@ -1,3 +1,5 @@
+# [stochastic-optimization](https://github.com/wbpowell328/stochastic-optimization)
+
 # Sequential Decision Problem Modeling Library
 
 Sequential Decision Problem Modeling Library @ Castle Lab, Princeton Univ.

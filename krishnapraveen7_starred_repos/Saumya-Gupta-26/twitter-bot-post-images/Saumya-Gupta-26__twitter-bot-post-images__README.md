@@ -1,3 +1,5 @@
+# [twitter-bot-post-images](https://github.com/Saumya-Gupta-26/twitter-bot-post-images)
+
 # twitter-bot-post-images
 A Twitter bot that posts/tweets images/videos once every hour. This script is used to automate posts for the [@hourlytakasugi](https://twitter.com/hourlytakasugi) twitter account.
 

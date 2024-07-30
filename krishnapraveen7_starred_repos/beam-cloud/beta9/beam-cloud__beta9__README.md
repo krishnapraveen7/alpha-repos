@@ -1,3 +1,5 @@
+# [beta9](https://github.com/beam-cloud/beta9)
+
 <div align="center">
 <p align="center">
 <img alt="Logo" src="static/beam-logo.jpeg" width="20%">

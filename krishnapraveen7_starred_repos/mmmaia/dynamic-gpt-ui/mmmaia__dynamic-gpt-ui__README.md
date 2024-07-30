@@ -1,3 +1,5 @@
+# [dynamic-gpt-ui](https://github.com/mmmaia/dynamic-gpt-ui)
+
 # Dynamic UI Generation with GPT (OpenAI)
 
 As GPT is capable of generating code, including front-end, it should be possible to create an app that direcly renders the ouput of a GPT prompt. Creating a dynamic UI.

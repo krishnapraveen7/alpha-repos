@@ -1,3 +1,5 @@
+# [branches](https://github.com/normal-computing/branches)
+
 <div align="center">
 
 <img src="./docs/source/_static/logo.png" alt="Branches Logo" width=200></img>

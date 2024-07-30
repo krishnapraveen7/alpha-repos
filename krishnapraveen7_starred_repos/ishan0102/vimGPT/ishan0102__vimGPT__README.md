@@ -1,3 +1,5 @@
+# [vimGPT](https://github.com/ishan0102/vimGPT)
+
 # vimGPT
 Giving multimodal models an interface to play with.
 

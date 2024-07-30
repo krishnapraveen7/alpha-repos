@@ -1,3 +1,5 @@
+# [dify](https://github.com/langgenius/dify)
+
 ![cover-v5-optimized](https://github.com/langgenius/dify/assets/13230914/f9e19af5-61ba-4119-b926-d10c4c06ebab)
 
 <p align="center">
@@ -216,7 +218,6 @@ At the same time, please consider supporting Dify by sharing it on social media 
 
 * [Github Discussion](https://github.com/langgenius/dify/discussions). Best for: sharing feedback and asking questions.
 * [GitHub Issues](https://github.com/langgenius/dify/issues). Best for: bugs you encounter using Dify.AI, and feature proposals. See our [Contribution Guide](https://github.com/langgenius/dify/blob/main/CONTRIBUTING.md).
-* [Email](mailto:support@dify.ai?subject=[GitHub]Questions%20About%20Dify). Best for: questions you have about using Dify.AI.
 * [Discord](https://discord.gg/FngNHpbcY7). Best for: sharing your applications and hanging out with the community.
 * [Twitter](https://twitter.com/dify_ai). Best for: sharing your applications and hanging out with the community.
 

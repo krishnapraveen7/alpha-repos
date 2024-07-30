@@ -1,3 +1,5 @@
+# [ultravox](https://github.com/fixie-ai/ultravox)
+
 <p align="center">
   <picture>
     <img alt="Ultravox" src="https://zfmrfvimiaqahezndsse.supabase.co/storage/v1/object/public/images/custom/Introducing%20Ultravox%20Wide.jpg">
@@ -5,7 +7,7 @@
 </p>
 
 <h3 align="center">
-An open, fast, and extensible multimodal LLM
+A fast multimodal LLM for real-time voice
 </h3>
 
 # About
@@ -123,14 +125,17 @@ mcli create secret gcp
 
 ## Training
 
-```bash
-just train
-```
+We do most of our training on the [MosaicML platform](https://docs.mosaicml.com), although it's not open to the public. However, you can do the same training on your own GPU using the instructions outlined in the Local Training section below.
+
+To kick off a MosaicML training job using the default config, just do:
+`just train`
 
 For DDP training make sure to use:
 `torchrun --nproc_per_node=8 -m ultravox.training.train`
 
 ### Local Training
+
+Here's an example command to run a training experiment using an existing config (in this case, using TinyLlama as the LLM backbone):
 
 ```bash
 python -m ultravox.training.train --config_path ultravox/training/configs/asr_tinyllama.yaml  --data_set 'dummy' --device cpu --batch_size 1  --exp_name <give_your_experiment_a_name>
@@ -138,7 +143,7 @@ python -m ultravox.training.train --config_path ultravox/training/configs/asr_ti
 
 ### MosaicML Training
 
-You need to setup your SSH key in the Mosaic Platform: https://docs.mosaicml.com/projects/mcli/en/latest/resources/secrets/ssh.html#page-secrets-ssh
+Before running any training jobs, you need to setup your SSH key in the Mosaic Platform: https://docs.mosaicml.com/projects/mcli/en/latest/resources/secrets/ssh.html#page-secrets-ssh
 
 ```bash
 ## Create a new SSH key and add it to the Mosaic Platform

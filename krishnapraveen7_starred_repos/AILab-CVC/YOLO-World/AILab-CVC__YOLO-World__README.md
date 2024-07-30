@@ -1,3 +1,5 @@
+# [YOLO-World](https://github.com/AILab-CVC/YOLO-World)
+
 <div align="center">
 <img src="./assets/yolo_logo.png" width=60%>
 <br>

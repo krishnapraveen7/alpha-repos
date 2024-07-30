@@ -1,3 +1,5 @@
+# [self-rewarding-lm-pytorch](https://github.com/lucidrains/self-rewarding-lm-pytorch)
+
 <img src="./diagram.png" width="450px"></img>
 
 ## Self-Rewarding Language Model

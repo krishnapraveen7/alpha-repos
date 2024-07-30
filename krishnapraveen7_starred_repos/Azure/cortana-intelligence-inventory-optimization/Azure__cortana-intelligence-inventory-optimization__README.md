@@ -1,3 +1,5 @@
+# [cortana-intelligence-inventory-optimization](https://github.com/Azure/cortana-intelligence-inventory-optimization)
+
 # Inventory Optimization - A Cortana Intelligence Solution How-To Guide
 Inventory management is one of the central problems in retail. Frequently inventory managers need to decide how many items of each product they need to order from suppliers. A manual ordering of products cannot scale to thousands of products and cannot take into account changing demands and many business constraints and costs. Existing inventory optimization systems are not scalable enough to meet the requirements of large retailers. Also, these systems are not flexible enough and cannot incorporate important business goals and constraints.
 

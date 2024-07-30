@@ -1,3 +1,5 @@
+# [VivaGraphJS](https://github.com/anvaka/VivaGraphJS)
+
 VivaGraph [![build status](https://github.com/anvaka/VivaGraphJS/actions/workflows/tests.yaml/badge.svg)](https://github.com/anvaka/VivaGraphJS/actions/workflows/tests.yaml)
 ==================================================
 **VivaGraphJS** is designed to be extensible and to support different

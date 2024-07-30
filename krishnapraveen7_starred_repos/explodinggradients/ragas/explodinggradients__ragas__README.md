@@ -1,3 +1,5 @@
+# [ragas](https://github.com/explodinggradients/ragas)
+
 <h1 align="center">
   <img style="vertical-align:middle" height="200"
   src="./docs/_static/imgs/logo.png">

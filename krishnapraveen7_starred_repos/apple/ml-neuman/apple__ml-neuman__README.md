@@ -1,3 +1,5 @@
+# [ml-neuman](https://github.com/apple/ml-neuman)
+
 ## NeuMan: Neural Human Radiance Field from a Single Video
 
 This repository is a reference implementation for NeuMan. NeuMan reconstructs both the background scene and an animatable human from a single video using neural radiance fields.

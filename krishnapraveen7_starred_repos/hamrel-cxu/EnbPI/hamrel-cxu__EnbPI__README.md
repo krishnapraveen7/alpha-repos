@@ -1,3 +1,5 @@
+# [EnbPI](https://github.com/hamrel-cxu/EnbPI)
+
 # Ensemble batch prediction intervals (EnbPI)
 
 ## Table of Contents

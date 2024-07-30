@@ -1,3 +1,5 @@
+# [vectorbt](https://github.com/polakowo/vectorbt)
+
 <div align="center">
     <a href="https://vectorbt.pro/" alt="https://vectorbt.pro/">
         <img src="https://raw.githubusercontent.com/polakowo/vectorbt/master/docs/docs/assets/logo/header-pro.svg" />

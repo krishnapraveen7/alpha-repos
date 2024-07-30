@@ -1,3 +1,5 @@
+# [diagrams](https://github.com/mingrammer/diagrams)
+
 ![diagrams logo](assets/img/diagrams.png)
 
 # Diagrams

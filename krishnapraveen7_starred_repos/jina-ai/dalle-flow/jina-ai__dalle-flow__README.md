@@ -1,3 +1,5 @@
+# [dalle-flow](https://github.com/jina-ai/dalle-flow)
+
 <p align="center">
 <!--startmsg-->
 <a href="#server"><img src="./.github/deprecation-banner.svg?raw=true"></a>

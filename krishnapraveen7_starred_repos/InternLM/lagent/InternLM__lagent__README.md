@@ -1,3 +1,5 @@
+# [lagent](https://github.com/InternLM/lagent)
+
 <div id="top"></div>
 <div align="center">
   <img src="docs/imgs/lagent_logo.png" width="450"/>

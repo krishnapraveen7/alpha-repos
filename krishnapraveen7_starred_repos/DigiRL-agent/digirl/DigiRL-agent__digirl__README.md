@@ -1,3 +1,5 @@
+# [digirl](https://github.com/DigiRL-agent/digirl)
+
 <p align="center">
     <img src="./assets/digirl-logo-text.png" alt="logo" width="50%">
 </p>

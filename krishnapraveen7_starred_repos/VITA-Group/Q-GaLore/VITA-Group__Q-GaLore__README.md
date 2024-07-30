@@ -1,3 +1,5 @@
+# [Q-GaLore](https://github.com/VITA-Group/Q-GaLore)
+
 # Q-GaLore
 
 This repo contains the pre-release version of Q-GaLore algorithm, proposed by [Q-GaLore: Quantized GaLore with INT4 Projection and Layer-Adaptive Low-Rank Gradients](https://arxiv.org/abs/2407.08296).

@@ -1,3 +1,5 @@
+# [gpt-llm-trainer](https://github.com/mshumer/gpt-llm-trainer)
+
 # gpt-llm-trainer
 [![Twitter Follow](https://img.shields.io/twitter/follow/mattshumer_?style=social)](https://twitter.com/mattshumer_)
 

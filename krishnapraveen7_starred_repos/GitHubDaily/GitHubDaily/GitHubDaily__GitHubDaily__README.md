@@ -1,3 +1,5 @@
+# [GitHubDaily](https://github.com/GitHubDaily/GitHubDaily)
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/githubdaily_brand.png">
 </p>

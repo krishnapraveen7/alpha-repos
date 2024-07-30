@@ -1,3 +1,5 @@
+# [fastmoe](https://github.com/laekov/fastmoe)
+
 <img height='60px' src='doc/logo/rect.png'/>
 
 [Release note](doc/release-note.md)

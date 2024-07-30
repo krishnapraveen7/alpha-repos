@@ -1,3 +1,5 @@
+# [ds-supply-chain-use-cases](https://github.com/neo4j-product-examples/ds-supply-chain-use-cases)
+
 # Graph Data Science for Supply Chain, Logistics, and Transportation
 This repository contains worked examples for applying [Neo4j Graph Data Science](https://neo4j.com/docs/graph-data-science/current/) to supply chain, logistics, and transportation problems.
 

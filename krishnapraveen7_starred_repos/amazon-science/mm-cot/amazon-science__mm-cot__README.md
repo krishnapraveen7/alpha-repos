@@ -1,3 +1,5 @@
+# [mm-cot](https://github.com/amazon-science/mm-cot)
+
 # Multimodal Chain-of-Thought Reasoning in Language Models
 
 <h5 align="center"><i>"Imagine learning a textbook without figures or tables."</i></h5>

@@ -1,3 +1,5 @@
+# [The-HustleGPT-Challenge](https://github.com/jtmuller5/The-HustleGPT-Challenge)
+
 # ⚠️ We've Moved! ⚠️
 
 As of 3/28/2023, we've moved the contents of this page to the new [AI Co-Founded website](https://aicofounded.com/)! 

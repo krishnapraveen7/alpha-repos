@@ -1,3 +1,5 @@
+# [poker_ai](https://github.com/fedden/poker_ai)
+
 | code-thing      | status        |
 | --------------- | ------------- |
 | master          | [![Build Status](https://travis-ci.org/fedden/poker_ai.svg?branch=master)](https://travis-ci.org/fedden/poker_ai)  |

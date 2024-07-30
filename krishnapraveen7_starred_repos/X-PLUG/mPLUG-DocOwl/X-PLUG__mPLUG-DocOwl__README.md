@@ -1,3 +1,5 @@
+# [mPLUG-DocOwl](https://github.com/X-PLUG/mPLUG-DocOwl)
+
 <div align="center">
 <img src="assets/mPLUG_new1.png" width="80%">
 </div>

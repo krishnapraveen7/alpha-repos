@@ -1,3 +1,5 @@
+# [aesara](https://github.com/aesara-devs/aesara)
+
 <div align="center">
 
 <img src="./doc/images/aesara_logo_2400.png" alt="logo"></img>

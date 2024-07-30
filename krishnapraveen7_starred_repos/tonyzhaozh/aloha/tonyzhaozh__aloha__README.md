@@ -1,3 +1,5 @@
+# [aloha](https://github.com/tonyzhaozh/aloha)
+
 # ALOHA: A Low-cost Open-source Hardware System for Bimanual Teleoperation
 
 #### Project Website: https://tonyzhaozh.github.io/aloha/

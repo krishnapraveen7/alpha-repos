@@ -1,3 +1,5 @@
+# [CAPE](https://github.com/qianlim/CAPE)
+
 ## CAPE: Clothed Auto-Person Encoding (CVPR 2020)
 
 [![Paper](https://img.shields.io/badge/arXiv-Paper-b31b1b.svg)](https://arxiv.org/abs/1907.13615) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1DCNo2OyyTNi1xDG-7j32FZQ9sBA6i9Ys)

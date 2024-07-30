@@ -1,3 +1,5 @@
+# [ReAgent](https://github.com/facebookresearch/ReAgent)
+
 ![Banner](logo/reagent_banner.png)
 
 ### ReAgent is officially archived and no longer maintained. For latest support on production-ready reinforcement learning open-source library, please refer to [Pearl](https://github.com/facebookresearch/Pearl/) - Production-ready Reinforcement Learning AI Agent Library, by the Applied Reinforcement Learning team @ Meta.

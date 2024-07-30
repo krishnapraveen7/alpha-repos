@@ -1,3 +1,5 @@
+# [instructor](https://github.com/jxnl/instructor)
+
 # Instructor: Structured LLM Outputs
 
 Instructor is a Python library that makes it a breeze to work with structured outputs from large language models (LLMs). Built on top of Pydantic, it provides a simple, transparent, and user-friendly API to manage validation, retries, and streaming responses. Get ready to supercharge your LLM workflows!
@@ -177,14 +179,21 @@ creds.refresh(auth_req)
 
 # Pass the Vertex endpoint and authentication to the OpenAI SDK
 PROJECT = 'PROJECT_ID'
-LOCATION = 'LOCATION' # https://cloud.google.com/vertex-ai/generative-ai/docs/learn/locations
+LOCATION = (
+    'LOCATION'  # https://cloud.google.com/vertex-ai/generative-ai/docs/learn/locations
+)
 base_url = f'https://{LOCATION}-aiplatform.googleapis.com/v1beta1/projects/{PROJECT}/locations/{LOCATION}/endpoints/openapi'
 
-client = instructor.from_openai(OpenAI(base_url=base_url, api_key=creds.token), mode=instructor.Mode.JSON)
+client = instructor.from_openai(
+    OpenAI(base_url=base_url, api_key=creds.token), mode=instructor.Mode.JSON
+)
+
+
 # JSON mode is req'd
 class User(BaseModel):
     name: str
     age: int
+
 
 resp = client.chat.completions.create(
     model="google/gemini-1.5-flash-001",

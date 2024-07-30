@@ -1,3 +1,5 @@
+# [local-llm-function-calling](https://github.com/rizerphe/local-llm-function-calling)
+
 # Local LLM function calling
 
 [![Documentation Status](https://readthedocs.org/projects/local-llm-function-calling/badge/?version=latest)](https://local-llm-function-calling.readthedocs.io/en/latest/?badge=latest) [![PyPI version](https://badge.fury.io/py/local-llm-function-calling.svg)](https://badge.fury.io/py/local-llm-function-calling)

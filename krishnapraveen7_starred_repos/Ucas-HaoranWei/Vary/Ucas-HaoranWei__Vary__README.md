@@ -1,3 +1,5 @@
+# [Vary](https://github.com/Ucas-HaoranWei/Vary)
+
 <h3><a href="">Vary: Scaling up the Vision Vocabulary for Large Vision-Language Models</a></h3>
 <a href="https://varybase.github.io/"><img src="https://img.shields.io/badge/Project-Page-Green"></a>
 <a href="https://arxiv.org/abs/2312.06109"><img src="https://img.shields.io/badge/Paper-PDF-orange"></a> 
@@ -13,7 +15,7 @@
 </p>
 
 ## Release
-- [2024/7/16] 🎉🎉🎉 [OneChart](https://github.com/LingyvKong/OneChart) is accepted by ACM'MM 2024!
+- [2024/7/16] 🎉🎉🎉 [OneChart](https://github.com/LingyvKong/OneChart) is accepted by ACM'MM 2024 oral (3.97%)!
 - [2024/7/2] 🔥🔥🔥 Vary is accepted by ECCV2024. To thank everyone for their attention, I will release a model that performs on par with the Vary-document soon.
 - [2024/5/27] 🔥🔥🔥 We present a document understanding benchmark in [Fox](https://github.com/ucaslcl/Fox) .
 - [2024/5/24] 🔥🔥🔥 We propose a multi-page document understanding work -- [Fox](https://arxiv.org/abs/2405.14295), which supports 8-page pdf-image input !!!

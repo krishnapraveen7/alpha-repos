@@ -1,3 +1,5 @@
+# [neo4j-graph-renderer](https://github.com/jbitton/neo4j-graph-renderer)
+
 # neo4j-graph-renderer
 
 Since neo4j does not provide a way to render its graphs, I've created a react component that can be used in order to render a neo4j graph (with all the animations, etc).

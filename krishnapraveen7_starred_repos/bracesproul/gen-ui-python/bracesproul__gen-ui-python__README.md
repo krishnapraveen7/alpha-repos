@@ -1,3 +1,5 @@
+# [gen-ui-python](https://github.com/bracesproul/gen-ui-python)
+
 # Generative UI with LangChain Python 🦜🔗
 
 ![Generative UI with LangChain Python](./frontend/public/gen_ui_diagram.png)

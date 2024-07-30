@@ -1,3 +1,5 @@
+# [stockpyl](https://github.com/LarrySnyder/stockpyl)
+
 Stockpyl
 ========
 

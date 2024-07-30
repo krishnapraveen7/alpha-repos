@@ -1,3 +1,5 @@
+# [acados](https://github.com/acados/acados)
+
 # acados
 <!-- [![Travis Status](https://secure.travis-ci.org/acados/acados.png?branch=master)](http://travis-ci.org/acados/acados) -->
 [![Appveyor status](https://ci.appveyor.com/api/projects/status/q0b2nohk476u5clg?svg=true)](https://ci.appveyor.com/project/roversch/acados)

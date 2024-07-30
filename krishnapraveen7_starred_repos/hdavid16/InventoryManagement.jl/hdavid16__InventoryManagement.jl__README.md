@@ -1,3 +1,5 @@
+# [InventoryManagement.jl](https://github.com/hdavid16/InventoryManagement.jl)
+
 # InventoryManagement.jl:
 
 *Discrete-time simulation environment for Inventory Management in Supply Chain Networks.*

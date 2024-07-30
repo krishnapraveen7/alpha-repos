@@ -1,3 +1,5 @@
+# [pandas-ai](https://github.com/Sinaptik-AI/pandas-ai)
+
 # ![PandasAI](assets/logo.png)
 
 [![Release](https://img.shields.io/pypi/v/pandasai?label=Release&style=flat-square)](https://pypi.org/project/pandasai/)

@@ -1,3 +1,5 @@
+# [FlagAI](https://github.com/FlagAI-Open/FlagAI)
+
 [<img src="flagopen.jpeg">](https://flagopen.baai.ac.cn/)
 ![FlagAI](logo.png)
 [![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/6052/badge)](https://bestpractices.coreinfrastructure.org/projects/6052)

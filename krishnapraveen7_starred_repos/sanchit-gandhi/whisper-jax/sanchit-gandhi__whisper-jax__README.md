@@ -1,3 +1,5 @@
+# [whisper-jax](https://github.com/sanchit-gandhi/whisper-jax)
+
 # Whisper JAX
 
 This repository contains optimised JAX code for OpenAI's [Whisper Model](https://arxiv.org/abs/2212.04356), largely built 

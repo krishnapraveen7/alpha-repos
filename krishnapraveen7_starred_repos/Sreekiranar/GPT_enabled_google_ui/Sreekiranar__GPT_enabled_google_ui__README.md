@@ -1,3 +1,5 @@
+# [GPT_enabled_google_ui](https://github.com/Sreekiranar/GPT_enabled_google_ui)
+
 # Google Search and OpenAI Integration Demo
 
 This project demonstrates the power of combining Google Search and OpenAI's GPT engine to generate accurate and up-to-date information from the top search results. By leveraging the extensive search capabilities of Google and the natural language processing of OpenAI, this demo aims to provide users with relevant information that is both current and reliable.

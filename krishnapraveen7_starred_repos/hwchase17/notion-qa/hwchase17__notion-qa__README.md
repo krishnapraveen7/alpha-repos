@@ -1,3 +1,5 @@
+# [notion-qa](https://github.com/hwchase17/notion-qa)
+
 # Notion Question-Answering
 
 🤖Ask questions to your Notion database in natural language🤖

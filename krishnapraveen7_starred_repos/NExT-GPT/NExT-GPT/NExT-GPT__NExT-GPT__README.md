@@ -1,3 +1,5 @@
+# [NExT-GPT](https://github.com/NExT-GPT/NExT-GPT)
+
 # <img src="code/nextgpt.png" style="width: 5%"> NExT-GPT: Any-to-Any Multimodal LLM
 [Shengqiong Wu](https://chocowu.github.io/), [Hao Fei](http://haofei.vip/)*, [Leigang Qu](#), [Wei Ji](https://jiwei0523.github.io/), and [Tat-Seng Chua](https://www.chuatatseng.com/).
 (*Correspondence )

@@ -1,4 +1,4 @@
-# [Repo link](https://github.com/0hq/WebGpt)
+# [WebGPT](https://github.com/0hq/WebGPT)
 
 # WebGPT
 

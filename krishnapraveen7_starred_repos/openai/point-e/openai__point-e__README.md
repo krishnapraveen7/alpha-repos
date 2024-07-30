@@ -1,3 +1,5 @@
+# [point-e](https://github.com/openai/point-e)
+
 # Point·E
 
 ![Animation of four 3D point clouds rotating](point_e/examples/paper_banner.gif)

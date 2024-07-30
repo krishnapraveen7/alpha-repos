@@ -1,3 +1,5 @@
+# [AutoGPTQ](https://github.com/AutoGPTQ/AutoGPTQ)
+
 <h1 align="center">AutoGPTQ</h1>
 <p align="center">An easy-to-use LLM quantization package with user-friendly APIs, based on GPTQ algorithm (weight-only quantization).</p>
 <p align="center">

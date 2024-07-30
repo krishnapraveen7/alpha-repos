@@ -1,3 +1,5 @@
+# [XAgent](https://github.com/OpenBMB/XAgent)
+
 <div align= "center">
     <h1> <img src="assets/readme/xagent_logo.png" height=40 align="texttop">XAgent</h1>
 </div>

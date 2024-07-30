@@ -1,3 +1,5 @@
+# [personal-ai](https://github.com/Sh4yy/personal-ai)
+
 # Personal AI
 
 This is a personal AI assistant that works with Apple Shortcuts removing the need for a dedicated hardware device.

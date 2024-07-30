@@ -1,3 +1,5 @@
+# [mlx-examples](https://github.com/ml-explore/mlx-examples)
+
 # MLX Examples
 
 This repo contains a variety of standalone examples using the [MLX

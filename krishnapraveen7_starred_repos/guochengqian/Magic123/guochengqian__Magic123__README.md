@@ -1,3 +1,5 @@
+# [Magic123](https://github.com/guochengqian/Magic123)
+
 # Magic123: One Image to High-Quality 3D Object Generation Using Both 2D and 3D Diffusion Priors [ICLR 2024]
 
 [arXiv](https://arxiv.org/abs/2306.17843) | [webpage](https://guochengqian.github.io/project/magic123/)

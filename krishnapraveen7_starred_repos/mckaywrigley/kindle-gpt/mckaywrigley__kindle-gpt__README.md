@@ -1,3 +1,5 @@
+# [kindle-gpt](https://github.com/mckaywrigley/kindle-gpt)
+
 # Kindle GPT
 
 AI search & chat on your Kindle highlights.

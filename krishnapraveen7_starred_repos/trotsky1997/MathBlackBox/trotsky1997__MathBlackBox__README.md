@@ -1,3 +1,5 @@
+# [MathBlackBox](https://github.com/trotsky1997/MathBlackBox)
+
 # MCTSr: Mathematic as a Blackbox for LLM
 
 ## Envoirment
@@ -75,3 +77,5 @@ https://arxiv.org/abs/2406.07394
 https://github.com/BrendanGraham14/mcts-llm
 
 [Jupyter Notebook](https://github.com/trotsky1997/MathBlackBox/issues/2)
+
+[GPT-4O Results](https://github.com/SidU/MathBlackBox)

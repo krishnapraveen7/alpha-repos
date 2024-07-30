@@ -1,3 +1,5 @@
+# [react-sigma](https://github.com/sim51/react-sigma)
+
 # React Sigma
 
 A set of react components to display graphs with Sigma v3.

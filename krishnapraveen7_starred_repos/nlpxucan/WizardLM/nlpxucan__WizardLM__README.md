@@ -1,3 +1,5 @@
+# [WizardLM](https://github.com/nlpxucan/WizardLM)
+
 ## WizardLM: Empowering Large Pre-Trained Language Models to Follow Complex Instructions
 
 <p style="font-size:50px;" align="center">

@@ -1,3 +1,5 @@
+# [wait-but-why-gpt](https://github.com/mckaywrigley/wait-but-why-gpt)
+
 # Wait But Why GPT
 
 AI-powered search and chat for Tim Urban's blog "Wait But Why."

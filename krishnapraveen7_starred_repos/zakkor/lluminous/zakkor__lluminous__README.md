@@ -1,3 +1,5 @@
+# [lluminous](https://github.com/zakkor/lluminous)
+
 # lluminous
 
 ### A fast, light, open chat UI

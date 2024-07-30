@@ -1,3 +1,5 @@
+# [feast](https://github.com/feast-dev/feast)
+
 <!--Do not modify this file. It is auto-generated from a template (infra/templates/README.md.jinja2)-->
 
 <p align="center">
@@ -15,6 +17,10 @@
 [![Python API](https://img.shields.io/readthedocs/feast/master?label=Python%20API)](http://rtd.feast.dev/)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue)](https://github.com/feast-dev/feast/blob/master/LICENSE)
 [![GitHub Release](https://img.shields.io/github/v/release/feast-dev/feast.svg?style=flat&sort=semver&color=blue)](https://github.com/feast-dev/feast/releases)
+
+## Join us on Slack!
+
+👋👋👋 [Come say hi on Slack!](https://join.slack.com/t/feastopensource/signup)
 
 ## Overview
 

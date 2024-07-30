@@ -1,3 +1,5 @@
+# [FastChat](https://github.com/lm-sys/FastChat)
+
 # FastChat
 | [**Demo**](https://chat.lmsys.org/) | [**Discord**](https://discord.gg/HSWAKCrnFx) | [**X**](https://x.com/lmsysorg) |
 

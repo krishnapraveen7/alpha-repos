@@ -1,3 +1,5 @@
+# [SaltAI_Language_Toolkit](https://github.com/get-salt-AI/SaltAI_Language_Toolkit)
+
 # SaltAI Language Toolkit
 
 The project integrates the Retrieval Augmented Generation (RAG) tool [Llama-Index](https://www.llamaindex.ai/), [Microsoft's AutoGen](https://microsoft.github.io/autogen/), and [LlaVA-Next](https://github.com/LLaVA-VL/LLaVA-NeXT) with [ComfyUI's](https://github.com/comfyanonymous/ComfyUI) adaptable node interface, enhancing the functionality and user experience of the platform.

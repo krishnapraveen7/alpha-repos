@@ -1,3 +1,5 @@
+# [llama_parse](https://github.com/run-llama/llama_parse)
+
 # LlamaParse
 
 LlamaParse is an API created by LlamaIndex to efficiently parse and represent files for efficient retrieval and context augmentation using LlamaIndex frameworks.

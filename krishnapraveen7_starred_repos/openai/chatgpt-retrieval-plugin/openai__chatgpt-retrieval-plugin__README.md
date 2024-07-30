@@ -1,3 +1,5 @@
+# [chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin)
+
 # ChatGPT Retrieval Plugin
 
 Build Custom GPTs with a Retrieval Plugin backend to give ChatGPT access to personal documents.

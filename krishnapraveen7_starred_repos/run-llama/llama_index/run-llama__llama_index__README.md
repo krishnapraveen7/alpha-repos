@@ -1,3 +1,5 @@
+# [llama_index](https://github.com/run-llama/llama_index)
+
 # 🗂️ LlamaIndex 🦙
 
 [![PyPI - Downloads](https://img.shields.io/pypi/dm/llama-index)](https://pypi.org/project/llama-index/)

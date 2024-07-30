@@ -1,3 +1,5 @@
+# [awesome-project-ideas](https://github.com/NirantK/awesome-project-ideas)
+
 <!-- markdownlint-disable MD033 -->
 
 # Awesome Deep Learning Project Ideas

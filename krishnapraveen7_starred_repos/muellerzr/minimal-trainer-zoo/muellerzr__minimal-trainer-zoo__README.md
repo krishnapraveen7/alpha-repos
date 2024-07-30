@@ -1,3 +1,5 @@
+# [minimal-trainer-zoo](https://github.com/muellerzr/minimal-trainer-zoo)
+
 # minimal-trainer-zoo
 Minimal example scripts of the Hugging Face Trainer, focused on staying under 150 lines. (and still be readable), and being runnable under 10 minutes.
 

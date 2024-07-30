@@ -1,3 +1,5 @@
+# [flux](https://github.com/paradigmxyz/flux)
+
 <div align="center">
   <h1 align="center">Flux</h1>
   <p align="center">

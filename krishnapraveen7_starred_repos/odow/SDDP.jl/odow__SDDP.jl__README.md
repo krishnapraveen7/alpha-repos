@@ -1,3 +1,5 @@
+# [SDDP.jl](https://github.com/odow/SDDP.jl)
+
 <img src="https://raw.githubusercontent.com/odow/SDDP.jl/e9de84e0a4b57374bd9e0c95148da1501816e4c5/docs/src/assets/logo.png" alt="logo" width="100px"/>
 
 # SDDP.jl

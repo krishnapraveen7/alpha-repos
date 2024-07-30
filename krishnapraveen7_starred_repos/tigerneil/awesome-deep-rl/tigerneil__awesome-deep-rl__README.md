@@ -1,3 +1,5 @@
+# [awesome-deep-rl](https://github.com/tigerneil/awesome-deep-rl)
+
 # Awesome Deep Reinforcement Learning
 
 > **Mar 1 2024 update: HILP added**

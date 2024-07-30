@@ -1,3 +1,5 @@
+# [agent-search](https://github.com/SciPhi-AI/agent-search)
+
 # AgentSearch: A framework for powering search agents and enabling customizable local search.
 
 ![AgentSearch Banner](https://github.com/SciPhi-AI/agent-search/assets/68796651/8d0424e6-84e3-42f6-9893-3d63f9b2a58d)

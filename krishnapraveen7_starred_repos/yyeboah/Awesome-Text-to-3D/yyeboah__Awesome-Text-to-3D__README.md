@@ -1,3 +1,5 @@
+# [Awesome-Text-to-3D](https://github.com/yyeboah/Awesome-Text-to-3D)
+
 # Awesome Text-to-3D [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [awesome-NeRF](https://github.com/awesome-NeRF/awesome-NeRF)
@@ -291,6 +293,10 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [RodinHD: High-Fidelity 3D Avatar Generation with Diffusion Models](https://arxiv.org/abs/2407.06938), Bowen Zhang et al., Arxiv 2024 | [citation](./references/citations.bib#L1521-L1526) | [site]() | [code]()
 
+- [HoloDreamer: Holistic 3D Panoramic World Generation from Text Descriptions](https://arxiv.org/abs/2407.15187), Haiyang Zhou et al., Arxiv 2024 | [citation](./references/citations.bib#L1535-L1540) | [site](https://zhouhyocean.github.io/holodreamer/) | [code](https://github.com/zhouhyOcean/HoloDreamer)
+
+- [PlacidDreamer: Advancing Harmony in Text-to-3D Generation](https://arxiv.org/abs/2407.13976), Shuo Huang et al., Arxiv 2024 | [citation](./references/citations.bib#L1543-L151548) | [site]() | [code]()
+
 </details>
 
 
@@ -372,6 +378,8 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 - [Part123: Part-aware 3D Reconstruction from a Single-view Image](https://arxiv.org/abs/2405.16888), Anran Liu et al., Arxiv 2024 | [citation](./references/citations.bib#L1395-L1400) | [site]() | [code]()
 
 - [DreamMat: High-quality PBR Material Generation with Geometry- and Light-aware Diffusion Models](https://arxiv.org/abs/2405.17176), Yuqing Zhang et al., Arxiv 2024 | [citation](./references/citations.bib#L1437-L1442) | [site](https://zzzyuqing.github.io/dreammat.github.io/) | [code](https://github.com/zzzyuqing/DreamMat)
+
+- [DreamVTON: Customizing 3D Virtual Try-on with Personalized Diffusion Models](https://arxiv.org/abs/2407.16511), Zhenyu Xie et al., Arxiv 2024 | [citation](./references/citations.bib#L1528-L1533) | [site]() | [code]()
 
 </details>
 
@@ -468,7 +476,7 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [Objaverse: A Universe of Annotated 3D Objects](https://arxiv.org/abs/2212.08051), Matt Deitke et al., Arxiv 2022 | [citation](./references/citations.bib#L519-L524)
 
-- [Objaverse-XL: A Universe of 10M+ 3D Objects](https://objaverse.allenai.org/objaverse-xl-paper.pdf), Matt Deitke et al., Preprint 2023 | [citation](./references/citations.bib#L526-L531)
+- [Objaverse-XL: A Universe of 10M+ 3D Objects](https://objaverse.allenai.org/), Matt Deitke et al., Preprint 2023 | [citation](./references/citations.bib#L526-L531)
 
 - [Describe3D: High-Fidelity 3D Face Generation from Natural Language Descriptions](https://arxiv.org/abs/2305.03302), Menghua Wu et al., CVPR 2023 | [citation](./references/citations.bib#L533-L538)
 
@@ -488,7 +496,7 @@ The First Curation of Text-to-3D, Diffusion-to-3D works. Heavily inspired by [aw
 
 - [threestudio: A unified framework for 3D content generation](https://github.com/threestudio-project/threestudio), Yuan-Chen Guo et al., Github 2023	
 
-- [Nerfstudio: A Modular Framework for Neural Radiance Field Development](https://docs.nerf.studio/en/latest/index.html), Matthew Tancik et al., SIGGRAPH 2023
+- [Nerfstudio: A Modular Framework for Neural Radiance Field Development](https://docs.nerf.studio/), Matthew Tancik et al., SIGGRAPH 2023
 
 - [Mirage3D: Open-Source Implementations of 3D Diffusion Models Optimized for GLB Output](https://github.com/MirageML/Mirage3D), Mirageml et al., Github 2023
 

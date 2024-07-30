@@ -1,3 +1,5 @@
+# [langroid](https://github.com/langroid/langroid)
+
 <div align="center">
   <img src="docs/assets/langroid-card-lambda-ossem-rust-1200-630.png" alt="Logo" 
         width="400" align="center">

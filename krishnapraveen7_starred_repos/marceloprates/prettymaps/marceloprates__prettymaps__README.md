@@ -1,3 +1,5 @@
+# [prettymaps](https://github.com/marceloprates/prettymaps)
+
 ```python
 # Install prettymaps using pip:
 #!pip install prettymaps

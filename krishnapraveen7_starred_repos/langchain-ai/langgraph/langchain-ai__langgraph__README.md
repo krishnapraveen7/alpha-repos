@@ -1,9 +1,10 @@
+# [langgraph](https://github.com/langchain-ai/langgraph)
+
 # 🦜🕸️LangGraph
 
 ![Version](https://img.shields.io/pypi/v/langgraph)
 [![Downloads](https://static.pepy.tech/badge/langgraph/month)](https://pepy.tech/project/langgraph)
 [![Open Issues](https://img.shields.io/github/issues-raw/langchain-ai/langgraph)](https://github.com/langchain-ai/langgraph/issues)
-[![](https://dcbadge.vercel.app/api/server/6adMQxSpJS?compact=true&style=flat)](https://discord.com/channels/1038097195422978059/1170024642245832774)
 [![Docs](https://img.shields.io/badge/docs-latest-blue)](https://langchain-ai.github.io/langgraph/)
 
 ⚡ Building language agents as graphs ⚡
@@ -73,8 +74,8 @@ def search(query: str):
     """Call to surf the web."""
     # This is a placeholder, but don't tell the LLM that...
     if "sf" in query.lower() or "san francisco" in query.lower():
-        return ["It's 60 degrees and foggy."]
-    return ["It's 90 degrees and sunny."]
+        return "It's 60 degrees and foggy."
+    return "It's 90 degrees and sunny."
 
 
 tools = [search]

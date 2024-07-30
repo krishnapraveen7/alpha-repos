@@ -1,3 +1,5 @@
+# [StableLM](https://github.com/Stability-AI/StableLM)
+
 # StableLM: Stability AI Language Models
 
 ![Stochastic Parrot](./assets/mascot.png)

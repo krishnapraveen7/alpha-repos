@@ -1,3 +1,5 @@
+# [Chat-with-Github-Repo](https://github.com/peterw/Chat-with-Github-Repo)
+
 # Chat-with-Github-Repo
 
 This repository contains Python scripts that demonstrate how to create a chatbot using Streamlit, OpenAI GPT-3.5-turbo, and Activeloop's Deep Lake.

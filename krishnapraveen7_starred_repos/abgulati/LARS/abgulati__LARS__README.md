@@ -1,3 +1,5 @@
+# [LARS](https://github.com/abgulati/LARS)
+
 # LARS - The LLM & Advanced Referencing Solution
 
 <p align="center">

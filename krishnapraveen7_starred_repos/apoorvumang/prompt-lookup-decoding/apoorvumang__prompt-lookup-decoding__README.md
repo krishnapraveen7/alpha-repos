@@ -1,3 +1,5 @@
+# [prompt-lookup-decoding](https://github.com/apoorvumang/prompt-lookup-decoding)
+
 # Prompt Lookup Decoding
 
 **UPDATE 2**: This method is now available in [vLLM as well](https://docs.vllm.ai/en/stable/models/spec_decode.html#speculating-by-matching-n-grams-in-the-prompt) by setting `speculative_model="[ngram]"` 🥳

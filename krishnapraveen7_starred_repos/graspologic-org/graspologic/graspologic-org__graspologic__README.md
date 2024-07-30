@@ -1,3 +1,5 @@
+# [graspologic](https://github.com/graspologic-org/graspologic)
+
 <!-- omit in toc -->
 # graspologic
 [![Paper shield](https://img.shields.io/badge/JMLR-Paper-red)](http://www.jmlr.org/papers/volume20/19-490/19-490.pdf)

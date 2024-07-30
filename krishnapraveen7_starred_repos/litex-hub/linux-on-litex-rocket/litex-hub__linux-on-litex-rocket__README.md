@@ -1,3 +1,5 @@
+# [linux-on-litex-rocket](https://github.com/litex-hub/linux-on-litex-rocket)
+
 # Linux on LiteX with a RV64GC RocketChip CPU
 
 This repository demonstrates the capability to run 64-bit Linux on a

@@ -1,3 +1,5 @@
+# [scikit-llm](https://github.com/iryna-kondr/scikit-llm)
+
 <div align="center">
   <img alt="logo" src="https://gist.githubusercontent.com/OKUA1/55e2fb9dd55673ec05281e0247de6202/raw/41063fcd620d9091662fc6473f9331a7651b4465/scikit-llm.svg" height = "250">
 </div>

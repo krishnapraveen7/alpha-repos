@@ -1,3 +1,5 @@
+# [open_llama](https://github.com/openlm-research/open_llama)
+
 # OpenLLaMA: An Open Reproduction of LLaMA
 
 **TL;DR**: we are releasing our public preview of OpenLLaMA, a permissively licensed open source reproduction of Meta AI’s LLaMA. We are releasing a series of 3B, 7B and 13B models trained on different data mixtures. Our model weights can serve as the drop in replacement of LLaMA in existing implementations.

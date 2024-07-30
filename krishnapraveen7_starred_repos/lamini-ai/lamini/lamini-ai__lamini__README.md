@@ -1,3 +1,5 @@
+# [lamini](https://github.com/lamini-ai/lamini)
+
 # Lamini
 
 Create your own Generative AI.

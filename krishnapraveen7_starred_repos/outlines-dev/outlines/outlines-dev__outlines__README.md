@@ -1,3 +1,5 @@
+# [outlines](https://github.com/outlines-dev/outlines)
+
 <div align="center" style="margin-bottom: 1em;">
 
 # Outlines 〰️

@@ -1,3 +1,5 @@
+# [llm-paper-notes](https://github.com/eugeneyan/llm-paper-notes)
+
 # llm-paper-notes
 Notes from the [Latent Space paper club](https://www.latent.space/about#§components). Follow along or start your own!
 

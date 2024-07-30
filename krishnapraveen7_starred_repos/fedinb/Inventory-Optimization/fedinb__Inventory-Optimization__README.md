@@ -1,3 +1,5 @@
+# [Inventory-Optimization](https://github.com/fedinb/Inventory-Optimization)
+
 # Inventory Optimization
 
 Links below lead to scripts related to various Inventory Optimization models and simulations.

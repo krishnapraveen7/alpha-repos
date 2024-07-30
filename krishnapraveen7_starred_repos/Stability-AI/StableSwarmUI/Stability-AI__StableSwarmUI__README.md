@@ -1,3 +1,5 @@
+# [StableSwarmUI](https://github.com/Stability-AI/StableSwarmUI)
+
 # StableSwarmUI
 
 **StableSwarmUI 0.6.4.1 Beta**.

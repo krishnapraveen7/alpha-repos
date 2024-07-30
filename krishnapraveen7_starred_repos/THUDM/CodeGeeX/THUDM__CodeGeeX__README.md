@@ -1,3 +1,5 @@
+# [CodeGeeX](https://github.com/THUDM/CodeGeeX)
+
 <img src="resources/logo/codegeex_logo.png">
 
 <p align="center">

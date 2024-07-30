@@ -1,3 +1,5 @@
+# [box_office_success_prediction](https://github.com/mcschmitz/box_office_success_prediction)
+
 # Forecasting Box Office success based on Google Trends data
 
 **Predicting  the amount of people watching a movie on the opening weekend in german cinemas by using meta information

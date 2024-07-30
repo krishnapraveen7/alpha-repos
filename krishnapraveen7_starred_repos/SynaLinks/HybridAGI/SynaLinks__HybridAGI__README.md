@@ -1,3 +1,5 @@
+# [HybridAGI](https://github.com/SynaLinks/HybridAGI)
+
 # HybridAGI: The Programmable Neuro-Symbolic AGI
 ### For people who want AI to behave as expected
 <div align="center">

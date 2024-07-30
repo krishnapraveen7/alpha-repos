@@ -1,3 +1,5 @@
+# [langserve](https://github.com/langchain-ai/langserve)
+
 # 🦜️🏓 LangServe
 
 [![Release Notes](https://img.shields.io/github/release/langchain-ai/langserve)](https://github.com/langchain-ai/langserve/releases)
@@ -37,6 +39,13 @@ in [LangChain.js](https://js.langchain.com/docs/ecosystem/langserve).
 - Use the client SDK to call a LangServe server as if it was a Runnable running
   locally (or call the HTTP API directly)
 - [LangServe Hub](https://github.com/langchain-ai/langchain/blob/master/templates/README.md)
+
+## ⚠️ LangGraph Compatibility
+
+LangServe is designed to primarily deploy simple Runnables and wok with well-known primitives in langchain-core.
+
+If you need a deployment option for LangGraph, you should instead be looking at [LangGraph Cloud (beta)](https://langchain-ai.github.io/langgraph/cloud/) which will
+be better suited for deploying LangGraph applications.
 
 ## Limitations
 
@@ -468,7 +477,7 @@ gcloud run deploy [your-service-name] --source . --port 8001 --allow-unauthentic
 LangServe provides support for Pydantic 2 with some limitations.
 
 1. OpenAPI docs will not be generated for invoke/batch/stream/stream_log when using
-   Pydantic V2. Fast API does not support [mixing pydantic v1 and v2 namespaces].
+   Pydantic V2. Fast API does not support [mixing pydantic v1 and v2 namespaces]. To fix this, use `pip install pydantic==1.10.17`.
 2. LangChain uses the v1 namespace in Pydantic v2. Please read
    the [following guidelines to ensure compatibility with LangChain](https://github.com/langchain-ai/langchain/discussions/9337)
 

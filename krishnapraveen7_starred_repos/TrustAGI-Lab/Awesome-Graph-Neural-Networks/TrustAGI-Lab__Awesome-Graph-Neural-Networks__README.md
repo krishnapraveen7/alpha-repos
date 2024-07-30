@@ -1,3 +1,5 @@
+# [Awesome-Graph-Neural-Networks](https://github.com/TrustAGI-Lab/Awesome-Graph-Neural-Networks)
+
 ## Awesome resources on Graph Neural Networks.
 
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Stars](https://img.shields.io/github/stars/GRAND-Lab/Awesome-Graph-Neural-Networks?color=yellow)  ![Forks](https://img.shields.io/github/forks/GRAND-Lab/Awesome-Graph-Neural-Networks?color=blue&label=Fork)

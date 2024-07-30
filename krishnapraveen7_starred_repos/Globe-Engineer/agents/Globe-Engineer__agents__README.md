@@ -1,3 +1,5 @@
+# [agents](https://github.com/Globe-Engineer/agents)
+
 # Globe Agent Frameworks
 
 This repo is a collection of useful LLM prompting/programming techniques that we've empirically found to be very useful.

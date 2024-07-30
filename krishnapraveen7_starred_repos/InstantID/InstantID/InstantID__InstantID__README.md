@@ -1,3 +1,5 @@
+# [InstantID](https://github.com/InstantID/InstantID)
+
 <div align="center">
 <h1>InstantID: Zero-shot Identity-Preserving Generation in Seconds</h1>
 

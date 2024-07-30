@@ -1,3 +1,5 @@
+# [danswer](https://github.com/danswer-ai/danswer)
+
 <!-- DANSWER_METADATA={"link": "https://github.com/danswer-ai/danswer/blob/main/README.md"} -->
 
 <h2 align="center">

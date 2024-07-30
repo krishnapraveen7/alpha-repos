@@ -1,3 +1,5 @@
+# [Pyomo](https://github.com/OptimizationExpert/Pyomo)
+
 
 # About Pyomo
 Pyomo is a Python-based open-source optimization modeling language. It allows you to express complex optimization problems in a simple and intuitive manner. With Pyomo, you can formulate, solve, and analyze optimization models efficiently.
@@ -47,6 +49,9 @@ discount coupon https://www.udemy.com/course/optimization-in-python/?couponCode=
 | [Master mind game CP & Pyomo](https://github.com/OptimizationExpert/Pyomo/blob/main/game_Master_Mind_CP_Pyomo.ipynb) | [Optimal order pickup from inventory (CP) ](https://github.com/OptimizationExpert/Pyomo/blob/main/storage_routing.ipynb) |
 | [SUguru Puzzle CP ](https://github.com/OptimizationExpert/Pyomo/blob/main/Suguru_CP.ipynb) | [Shape Palacement CP ](https://github.com/OptimizationExpert/Pyomo/blob/main/shape_placement.ipynb) | 
 | [CVRP CP ](https://github.com/OptimizationExpert/Pyomo/blob/main/CP_VRP.ipynb) | [Stable Marriage CP](https://github.com/OptimizationExpert/Pyomo/blob/main/stable_marriage_CP.ipynb) | 
+| [Largest_box_CP ](https://github.com/OptimizationExpert/Pyomo/blob/main/Largest_box_CP.ipynb) | []() | 
+
+
 
 
 # Contributing Guidelines

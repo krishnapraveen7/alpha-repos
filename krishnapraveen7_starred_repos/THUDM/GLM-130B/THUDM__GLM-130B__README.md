@@ -1,3 +1,5 @@
+# [GLM-130B](https://github.com/THUDM/GLM-130B)
+
 <img src="resources/7D6433A42D189E2E6FBC62BE066BCE91.png">
 
 <p align="center">

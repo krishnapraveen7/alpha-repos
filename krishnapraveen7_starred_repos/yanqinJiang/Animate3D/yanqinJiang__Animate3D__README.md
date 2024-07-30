@@ -1,3 +1,5 @@
+# [Animate3D](https://github.com/yanqinJiang/Animate3D)
+
 # Animate3D: Animating Any 3D Model with Multi-view Video Diffusion
 Yanqin Jiang<sup>1*</sup>, Chaohui Yu<sup>2*</sup>, Chenjie Cao<sup>2</sup>, Fan Wang<sup>2</sup>, Weiming Hu<sup>1</sup>, Jin Gao<sup>1</sup><br>
 

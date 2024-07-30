@@ -1,3 +1,5 @@
+# [RLMRec](https://github.com/HKUDS/RLMRec)
+
 # RLMRec: Representation Learning with Large Language Models for Recommendation
 
 <img src='RLMRec_cover.png' />

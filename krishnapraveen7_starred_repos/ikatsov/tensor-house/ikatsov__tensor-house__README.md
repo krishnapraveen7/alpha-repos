@@ -1,3 +1,5 @@
+# [tensor-house](https://github.com/ikatsov/tensor-house)
+
 <p align="center">
   <img src="https://github.com/ikatsov/algorithmic-marketing-examples/blob/master/_resources/logo-banner.png" title="TensorHouse Logo">
 </p>

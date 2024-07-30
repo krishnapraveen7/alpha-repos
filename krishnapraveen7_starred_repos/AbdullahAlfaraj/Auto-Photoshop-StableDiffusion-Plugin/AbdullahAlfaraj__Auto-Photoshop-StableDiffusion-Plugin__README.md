@@ -1,3 +1,5 @@
+# [Auto-Photoshop-StableDiffusion-Plugin](https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin)
+
 
 
 # Auto-Photoshop-StableDiffusion-Plugin

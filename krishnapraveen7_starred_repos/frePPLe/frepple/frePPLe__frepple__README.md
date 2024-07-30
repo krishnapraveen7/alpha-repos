@@ -1,3 +1,5 @@
+# [frepple](https://github.com/frePPLe/frepple)
+
 [![Continous integration](https://github.com/frePPLe/frepple/actions/workflows/ubuntu24.yml/badge.svg)](https://github.com/frePPLe/frepple/actions/workflows/ubuntu24.yml)
 
 # frePPLe

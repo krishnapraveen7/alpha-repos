@@ -1,3 +1,5 @@
+# [pythia](https://github.com/EleutherAI/pythia)
+
 # Pythia: Interpreting Transformers Across Time and Scale
 
 This repository is for EleutherAI's project *Pythia* which combines interpretability analysis and scaling laws to understand how knowledge develops and evolves during training in autoregressive transformers. For detailed info on the models, their training, and their properties, please see our paper [Pythia: A Suite for Analyzing Large Language Models Across Training and Scaling](https://arxiv.org/abs/2304.01373).

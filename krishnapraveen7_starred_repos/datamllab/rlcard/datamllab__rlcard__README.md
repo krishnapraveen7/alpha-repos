@@ -1,3 +1,5 @@
+# [rlcard](https://github.com/datamllab/rlcard)
+
 # RLCard: A Toolkit for Reinforcement Learning in Card Games
 <img width="500" src="https://dczha.com/files/rlcard/logo.jpg" alt="Logo" />
 

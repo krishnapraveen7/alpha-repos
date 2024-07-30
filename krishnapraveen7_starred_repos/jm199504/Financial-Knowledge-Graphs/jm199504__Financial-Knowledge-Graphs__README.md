@@ -1,3 +1,5 @@
+# [Financial-Knowledge-Graphs](https://github.com/jm199504/Financial-Knowledge-Graphs)
+
 ## 小型金融知识图谱构建示例
 
 ![author](https://img.shields.io/static/v1?label=Author&message=junmingguo&color=green) 

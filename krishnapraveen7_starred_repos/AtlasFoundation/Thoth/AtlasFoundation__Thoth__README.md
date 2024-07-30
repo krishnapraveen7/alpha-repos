@@ -1,3 +1,5 @@
+# [Thoth](https://github.com/AtlasFoundation/Thoth)
+
 # THOTH
 
 Thoth is a multishot system builder. It leverages a visual coding style interface to allows game designers and developers to rapidly create powerful natural language systems and prototype games.

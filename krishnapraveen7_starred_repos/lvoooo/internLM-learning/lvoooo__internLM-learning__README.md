@@ -1,3 +1,5 @@
+# [internLM-learning](https://github.com/lvoooo/internLM-learning)
+
 # internLM-learning
 
 [第一课：体系介绍](./1.md)

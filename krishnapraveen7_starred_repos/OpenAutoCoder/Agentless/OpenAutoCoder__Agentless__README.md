@@ -1,3 +1,5 @@
+# [Agentless](https://github.com/OpenAutoCoder/Agentless)
+
 # 😺 Agentless
 
 <p align="center">
@@ -232,6 +234,8 @@ You can download the complete artifacts of **Agentless** in our [v0.1.0 release]
 - 🐈‍⬛ agentless_logs: raw logs and trajectory information
 - 🐈‍⬛ swebench_lite_repo_structure: preprocessed structure information for each SWE-Bench-lite problem
 - 🐈‍⬛ 20240630_agentless_gpt4o: evaluated run of **Agentless** used in our paper
+
+You can also checkout `classification/` folder to obtain our manual classifications of SWE-bench-lite as well as our filtered SWE-bench-lite-*S* problems.
 
 ## 📝 Citation
 

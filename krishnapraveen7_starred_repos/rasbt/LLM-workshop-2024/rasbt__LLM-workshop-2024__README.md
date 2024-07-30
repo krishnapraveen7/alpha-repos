@@ -1,3 +1,5 @@
+# [LLM-workshop-2024](https://github.com/rasbt/LLM-workshop-2024)
+
 # Pretraining and Finetuning LLMs from the Ground Up
 
 

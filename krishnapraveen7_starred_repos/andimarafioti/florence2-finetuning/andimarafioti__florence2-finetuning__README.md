@@ -1,3 +1,5 @@
+# [florence2-finetuning](https://github.com/andimarafioti/florence2-finetuning)
+
 # Fine-tuning Florence-2 - Microsoft's Cutting-edge Vision Language Models
 This codebase supports a [blog we published on Huggingface.co on June 24th!](https://huggingface.co/blog/finetune-florence2)
 

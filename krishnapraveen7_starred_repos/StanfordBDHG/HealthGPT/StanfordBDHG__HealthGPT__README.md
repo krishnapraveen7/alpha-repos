@@ -1,3 +1,5 @@
+# [HealthGPT](https://github.com/StanfordBDHG/HealthGPT)
+
 <!--
 
 This source file is part of the Stanford HealthGPT project

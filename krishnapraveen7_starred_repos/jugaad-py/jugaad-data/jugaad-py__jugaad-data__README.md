@@ -1,3 +1,5 @@
+# [jugaad-data](https://github.com/jugaad-py/jugaad-data)
+
 # Documentation
 
 https://marketsetup.in/documentation/jugaad-data/

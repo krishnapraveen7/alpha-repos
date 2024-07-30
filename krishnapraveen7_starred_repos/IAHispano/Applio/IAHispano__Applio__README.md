@@ -1,3 +1,5 @@
+# [Applio](https://github.com/IAHispano/Applio)
+
 <h1 align="center">
   <a href="https://applio.org" target="_blank"><img src="https://github.com/IAHispano/Applio/assets/133521603/78e975d8-b07f-47ba-ab23-5a31592f322a" alt="Applio"></a>
 </h1>
@@ -311,7 +313,7 @@ Your cooperation and support are greatly appreciated. Thank you!
 Applio is possible to these projects and those cited in their references.
 
 - [gradio-screen-recorder](https://huggingface.co/spaces/gstaff/gradio-screen-recorder) by gstaff
-- [RVC_CLI](https://github.com/blaise-tk/RVC_CLI) by blaise-tk
+- [rvc-cli](https://github.com/blaise-tk/rvc-cli) by blaisewf
 
 ### Contributors
 

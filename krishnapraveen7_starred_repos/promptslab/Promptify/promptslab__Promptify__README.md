@@ -1,3 +1,5 @@
+# [Promptify](https://github.com/promptslab/Promptify)
+
 <div align="center">
 <img width="110px" src="https://raw.githubusercontent.com/promptslab/Promptify/main/assets/logo.png">
 <h1>Promptify</h1></div>

@@ -1,3 +1,5 @@
+# [neko](https://github.com/m1k1o/neko)
+
 <div align="center">
   <a href="https://github.com/m1k1o/neko" title="Neko's Github repository.">
     <img src="https://raw.githubusercontent.com/m1k1o/neko/master/docs/_media/logo.png" width="400" height="auto"/>

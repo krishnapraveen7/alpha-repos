@@ -1,3 +1,5 @@
+# [opencompass](https://github.com/open-compass/opencompass)
+
 <div align="center">
   <img src="docs/en/_static/image/logo.svg" width="500px"/>
   <br />
@@ -70,6 +72,7 @@ Just like a compass guides us on our journey, OpenCompass will guide you through
 
 ## 🚀 What's New <a><img width="35" height="20" src="https://user-images.githubusercontent.com/12782558/212848161-5e783dd6-11e8-4fe0-bbba-39ffb77730be.png"></a>
 
+- **\[2024.07.23\]** We supported the [ModelScope](www.modelscope.cn) datasets, you can load them on demand without downloading all the data to your local disk. Welcome to try! 🔥🔥🔥
 - **\[2024.07.17\]** We have released the example data and configuration for the CompassBench-202408, welcome to [CompassBench](https://opencompass.readthedocs.io/zh-cn/latest/advanced_guides/compassbench_intro.html) for more details. 🔥🔥🔥
 - **\[2024.07.17\]** We are excited to announce the release of NeedleBench's [technical report](http://arxiv.org/abs/2407.11963). We invite you to visit our [support documentation](https://opencompass.readthedocs.io/en/latest/advanced_guides/needleinahaystack_eval.html) for detailed evaluation guidelines. 🔥🔥🔥
 - **\[2024.07.04\]** OpenCompass now supports InternLM2.5, which has **outstanding reasoning capability**, **1M Context window and** and **stronger tool use**, you can try the models in [OpenCompass Config](https://github.com/open-compass/opencompass/tree/main/configs/models/hf_internlm) and [InternLM](https://github.com/InternLM/InternLM) .🔥🔥🔥.
@@ -136,10 +139,27 @@ pip install -e .
 
 ### 📂 Data Preparation
 
+You can download and extract the datasets with the following commands:
+
 ```bash
 # Download dataset to data/ folder
 wget https://github.com/open-compass/opencompass/releases/download/0.2.2.rc1/OpenCompassData-core-20240207.zip
 unzip OpenCompassData-core-20240207.zip
+```
+
+Also, use the [ModelScope](www.modelscope.cn) to load the datasets on demand.
+
+Installation:
+
+```bash
+pip install modelscope
+export DATASET_SOURCE=ModelScope
+```
+
+Then submit the evaluation task without downloading all the data to your local disk. Available datasets include:
+
+```bash
+humaneval, triviaqa, commonsenseqa, tydiqa, strategyqa, cmmlu, lambada, piqa, ceval, math, LCSTS, Xsum, winogrande, openbookqa, AGIEval, gsm8k, nq, race, siqa, mbpp, mmlu, hellaswag, ARC, BBH, xstory_cloze, summedits, GAOKAO-BENCH, OCNLI, cmnli
 ```
 
 Some third-party features, like Humaneval and Llama, may require additional steps to work properly, for detailed steps please refer to the [Installation Guide](https://opencompass.readthedocs.io/en/latest/get_started/installation.html).
@@ -462,20 +482,21 @@ Through the command line or configuration files, OpenCompass also supports evalu
     <tr valign="top">
       <td>
 
+- [Alpaca](https://github.com/tatsu-lab/stanford_alpaca)
+- [Baichuan](https://github.com/baichuan-inc)
+- [BlueLM](https://github.com/vivo-ai-lab/BlueLM)
+- [ChatGLM2](https://github.com/THUDM/ChatGLM2-6B)
+- [ChatGLM3](https://github.com/THUDM/ChatGLM3-6B)
+- [Gemma](https://huggingface.co/google/gemma-7b)
 - [InternLM](https://github.com/InternLM/InternLM)
 - [LLaMA](https://github.com/facebookresearch/llama)
 - [LLaMA3](https://github.com/meta-llama/llama3)
-- [Vicuna](https://github.com/lm-sys/FastChat)
-- [Alpaca](https://github.com/tatsu-lab/stanford_alpaca)
-- [Baichuan](https://github.com/baichuan-inc)
-- [WizardLM](https://github.com/nlpxucan/WizardLM)
-- [ChatGLM2](https://github.com/THUDM/ChatGLM2-6B)
-- [ChatGLM3](https://github.com/THUDM/ChatGLM3-6B)
-- [TigerBot](https://github.com/TigerResearch/TigerBot)
 - [Qwen](https://github.com/QwenLM/Qwen)
-- [BlueLM](https://github.com/vivo-ai-lab/BlueLM)
-- [Gemma](https://huggingface.co/google/gemma-7b)
-- ...
+- [TigerBot](https://github.com/TigerResearch/TigerBot)
+- [Vicuna](https://github.com/lm-sys/FastChat)
+- [WizardLM](https://github.com/nlpxucan/WizardLM)
+- [Yi](https://github.com/01-ai/Yi)
+- ……
 
 </td>
 <td>

@@ -1,3 +1,5 @@
+# [m5-accuracy-competition](https://github.com/matthiasanderer/m5-accuracy-competition)
+
 # M5 Accuracy Competition - 2nd place solution
 
 Below you can find a outline of how to reproduce my solution for the M5 Forecasting - Accuracy competition.

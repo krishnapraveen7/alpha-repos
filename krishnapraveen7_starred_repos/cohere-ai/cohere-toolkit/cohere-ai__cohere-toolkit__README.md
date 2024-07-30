@@ -1,3 +1,5 @@
+# [cohere-toolkit](https://github.com/cohere-ai/cohere-toolkit)
+
 ![](/docs/assets/banner.png)
 
 # Cohere Toolkit
@@ -43,6 +45,10 @@ make first-run
 Go to [localhost:4000](http://localhost:4000/) in your browser and start chatting with the model. 
 
 *For the above you will need to have [Docker](https://www.docker.com/products/docker-desktop/) and [Docker-compose >= 2.22](https://docs.docker.com/compose/install/) installed. [Go here for a more detailed setup.](/docs/setup.md)*
+
+## GitHub Codespaces
+
+To run this project using GitHub Codespaces, please refer to [our Codespaces Setup Guide](/docs/github_codespaces.md).
 
 ## About Toolkit
 

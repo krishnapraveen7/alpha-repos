@@ -1,3 +1,5 @@
+# [chat-todo-plugin](https://github.com/lencx/chat-todo-plugin)
+
 <p align="center">
   <img width="180" src="./logo.svg" alt="ChatGPT TODO List">
   <h1 align="center">chat-todo-plugin</h1>

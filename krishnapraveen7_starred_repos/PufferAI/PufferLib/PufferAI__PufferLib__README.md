@@ -1,3 +1,5 @@
+# [PufferLib](https://github.com/PufferAI/PufferLib)
+
 ![figure](https://pufferai.github.io/source/resource/header.png)
 
 [![PyPI version](https://badge.fury.io/py/pufferlib.svg)](https://badge.fury.io/py/pufferlib)

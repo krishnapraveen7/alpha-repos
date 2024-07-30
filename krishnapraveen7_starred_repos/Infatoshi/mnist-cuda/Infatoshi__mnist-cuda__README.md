@@ -1,3 +1,5 @@
+# [mnist-cuda](https://github.com/Infatoshi/mnist-cuda)
+
 # MNIST in CUDA
 
 > This is instruction manual for understanding + using the mnist training run in CUDA

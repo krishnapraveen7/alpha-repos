@@ -1,3 +1,5 @@
+# [WeLore](https://github.com/VITA-Group/WeLore)
+
 # From GaLore to WeLore: How Low-Rank Weights Non-uniformly Emerge from Low-Rank Gradients
 ```This repository is under development and will be continuously updated (with additional results, fixes). Upcoming experiments on LLaMa-3.```
 

@@ -1,3 +1,5 @@
+# [lmql](https://github.com/eth-sri/lmql)
+
 <div align="center">
   <a href="https://lmql.ai">
     <img src="https://raw.githubusercontent.com/eth-sri/lmql/web/lmql.svg" alt="Logo" width="80" height="80">

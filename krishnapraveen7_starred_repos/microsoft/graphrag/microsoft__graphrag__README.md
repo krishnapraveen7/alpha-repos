@@ -1,3 +1,5 @@
+# [graphrag](https://github.com/microsoft/graphrag)
+
 # GraphRAG
 
 👉 [Use the GraphRAG Accelerator solution](https://github.com/Azure-Samples/graphrag-accelerator) <br/>

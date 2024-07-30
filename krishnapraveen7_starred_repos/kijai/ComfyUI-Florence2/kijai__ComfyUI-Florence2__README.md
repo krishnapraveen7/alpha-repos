@@ -1,3 +1,5 @@
+# [ComfyUI-Florence2](https://github.com/kijai/ComfyUI-Florence2)
+
 # Florence2 in ComfyUI
 
 > Florence-2 is an advanced vision foundation model that uses a prompt-based approach to handle a wide range of vision and vision-language tasks. 

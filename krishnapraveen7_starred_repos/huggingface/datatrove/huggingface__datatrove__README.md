@@ -1,3 +1,5 @@
+# [datatrove](https://github.com/huggingface/datatrove)
+
 # DataTrove
 
 DataTrove is a library to process, filter and deduplicate text data at a very large scale. It provides a set of prebuilt commonly used processing blocks with a framework to easily add custom functionality.

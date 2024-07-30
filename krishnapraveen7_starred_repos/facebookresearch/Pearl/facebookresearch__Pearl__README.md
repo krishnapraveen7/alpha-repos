@@ -1,3 +1,5 @@
+# [Pearl](https://github.com/facebookresearch/Pearl)
+
 ![alt](./logo/pearl_long.png)
 # Pearl - A Production-ready Reinforcement Learning AI Agent Library
 ### Proudly brought by Applied Reinforcement Learning @ Meta

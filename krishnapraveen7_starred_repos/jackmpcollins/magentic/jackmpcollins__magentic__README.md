@@ -1,3 +1,5 @@
+# [magentic](https://github.com/jackmpcollins/magentic)
+
 # magentic
 
 Easily integrate Large Language Models into your Python code. Simply use the `@prompt` and `@chatprompt` decorators to create functions that return structured output from the LLM. Mix LLM queries and function calling with regular Python code to create complex logic.

@@ -1,3 +1,5 @@
+# [feloopy](https://github.com/ktafakkori/feloopy)
+
 <div align="center">
   <p>
 <a align="center" href="" target="https://ktafakkori.github.io">
@@ -14,7 +16,7 @@
 <div align="center" style="margin-bottom: 2px;">
 
 
-![Version](https://img.shields.io/static/v1?label=Version&message=v0.3.0&color=darkgreen)
+![Version](https://img.shields.io/static/v1?label=Version&message=v0.3.5&color=darkgreen)
 ![Release Date](https://img.shields.io/github/release-date/ktafakkori/feloopy?label=release&color=darkgreen)
 [![Documentation](https://readthedocs.org/projects/feloopy/badge/?label=docs&version=latest&color=darkgreen)](https://feloopy.readthedocs.io/en/latest/?badge=latest&color=darkgreen&label=docs)
 [![Discord](https://img.shields.io/discord/1196153377969676399)](https://discord.gg/VpZDeG8wbv)
@@ -34,13 +36,13 @@ FelooPy (pronounced /fɛlupaɪ/) is a comprehensive and versatile Decision Scien
 You can install `feloopy` inside a Python>=3.10.x environment.
 
 ```bash
-pip install -U "feloopy[stock]==0.3.0"
+pip install -U "feloopy[stock]==0.3.5"
 ```
 
 For supporting the developer, testing the latest version, and reporting bugs or contributing to the code base, you can use the following command:
 
 ```bash
-pip install -U "git+https://github.com/ktafakkori/feloopy.git#egg=feloopy[stock]"
+pip install "feloopy[stock] @ git+https://github.com/ktafakkori/feloopy.git"
 ```
 
 ## Quick test
@@ -108,7 +110,7 @@ To cite or give credit to FelooPy in publications, projects, presentations, web 
 
 - In-text:
 
-   * _Note_ 1: Please write the version you used, the latest is v0.3.0.
+   * _Note_ 1: Please write the version you used, the latest is v0.3.5.
    * _Note_ 2: Using secondary interfaces or solvers might also require a citation to their projects.
 
-   Example: FelooPy (v0.3.0) was used in conjunction with [interface x] (v0.0.0) (except `feloopy` itself) as the interface and [solver y] (v0.0.0) as the solver.
+   Example: FelooPy (v0.3.5) was used in conjunction with [interface x] (v0.0.0) (except `feloopy` itself) as the interface and [solver y] (v0.0.0) as the solver.

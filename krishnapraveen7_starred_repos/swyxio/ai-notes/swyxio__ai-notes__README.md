@@ -1,3 +1,5 @@
+# [ai-notes](https://github.com/swyxio/ai-notes)
+
 # AI Notes
 
 notes on AI state of the art, with a focus on generative and large language models. These are the "raw materials" for the https://lspace.swyx.io/ newsletter.

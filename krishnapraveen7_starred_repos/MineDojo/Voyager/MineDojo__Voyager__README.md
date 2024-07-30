@@ -1,3 +1,5 @@
+# [Voyager](https://github.com/MineDojo/Voyager)
+
 # Voyager: An Open-Ended Embodied Agent with Large Language Models
 <div align="center">
 

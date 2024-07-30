@@ -1,3 +1,5 @@
+# [aiconfig](https://github.com/lastmile-ai/aiconfig)
+
 <div align="center"><picture>
   <img alt="aiconfig" src="aiconfig-docs/static/img/readme_small_logo.png" width="200"/>
 </picture></div>

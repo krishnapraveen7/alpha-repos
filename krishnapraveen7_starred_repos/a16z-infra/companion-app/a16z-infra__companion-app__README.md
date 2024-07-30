@@ -1,3 +1,5 @@
+# [companion-app](https://github.com/a16z-infra/companion-app)
+
 # AI Companion App (based on AI Getting Started template)
 
 [Live Demo](https://ai-companion-stack.com/)

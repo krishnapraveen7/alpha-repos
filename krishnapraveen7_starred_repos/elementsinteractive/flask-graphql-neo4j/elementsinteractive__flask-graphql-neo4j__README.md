@@ -1,3 +1,5 @@
+# [flask-graphql-neo4j](https://github.com/elementsinteractive/flask-graphql-neo4j)
+
 ## Diving into GraphQL and Neo4j with Python
 
 Simple Flask proof of concept financial API to test-drive GraphQL and Neo4j with Python.

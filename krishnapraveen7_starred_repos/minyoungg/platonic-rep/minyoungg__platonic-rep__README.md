@@ -1,3 +1,5 @@
+# [platonic-rep](https://github.com/minyoungg/platonic-rep)
+
 <h1 align="center">The Platonic Representation Hypothesis</h1>
 
 <h3 align="center"><a href="http://arxiv.org/abs/2405.07987" style="color: #E34F26;">paper</a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp

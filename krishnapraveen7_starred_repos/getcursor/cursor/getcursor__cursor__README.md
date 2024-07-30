@@ -1,3 +1,5 @@
+# [cursor](https://github.com/getcursor/cursor)
+
 # Cursor
 
 This is an issues-only repo for [Cursor](https://cursor.com).

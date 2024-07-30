@@ -1,3 +1,5 @@
+# [deep-forecasting](https://github.com/danielhkt/deep-forecasting)
+
 ## Multivariate Time Series Forecasting with Deep Learning
 
 Forecasting, making predictions about the future, plays a key role in the decision-making process of any company that wants to maintain a successful business. This is due to the fact that success tomorrow is determined by the decisions made today, which are based on forecasts. Hence, good forecasts are crucial, for example, for predicting sales to better plan inventory, forecasting economic activity to inform business development decisions, or even predicting the movement of people across an organization to improve personnel planning.

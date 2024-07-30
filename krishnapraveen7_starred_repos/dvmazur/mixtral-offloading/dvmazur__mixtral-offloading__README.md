@@ -1,3 +1,5 @@
+# [mixtral-offloading](https://github.com/dvmazur/mixtral-offloading)
+
 # Mixtral offloading
 
 This project implements efficient inference of [Mixtral-8x7B models](https://mistral.ai/news/mixtral-of-experts/).

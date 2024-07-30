@@ -1,3 +1,5 @@
+# [typesense](https://github.com/typesense/typesense)
+
 <p align="center">
   <a href="https://typesense.org"><img src="assets/typesense_logo.svg" alt="Typesense" width="298" /></a> 
 </p>

@@ -1,3 +1,5 @@
+# [mind-vis](https://github.com/zjc062/mind-vis)
+
 # Seeing Beyond the Brain: Masked Modeling Conditioned Diffusion Model for Human Vision Decoding
 <p align="center">
 <img src=assets/first_fig.png />

@@ -1,3 +1,5 @@
+# [magicui](https://github.com/magicuidesign/magicui)
+
 <img alt="Magic UI - UI Library for Design Engineers" src="https://cdn.magicui.design/bento-grid.gif" width="100%">
 <h3 align="center">Magic UI</h3>
 <p align="center">

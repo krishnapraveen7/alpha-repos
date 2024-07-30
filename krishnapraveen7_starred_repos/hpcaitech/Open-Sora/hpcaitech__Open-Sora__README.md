@@ -1,3 +1,5 @@
+# [Open-Sora](https://github.com/hpcaitech/Open-Sora)
+
 <p align="center">
     <img src="./assets/readme/icon.png" width="250"/>
 </p>

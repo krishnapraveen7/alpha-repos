@@ -1,3 +1,5 @@
+# [Awesome-LLM-KG](https://github.com/RManLuo/Awesome-LLM-KG)
+
 # Awesome-LLM-KG
   [![Awesome](https://awesome.re/badge.svg)](https://github.com/RManLuo/Awesome-LLM-KG) 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)

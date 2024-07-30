@@ -1,3 +1,5 @@
+# [mlx](https://github.com/ml-explore/mlx)
+
 # MLX
 
 [**Quickstart**](#quickstart) | [**Installation**](#installation) |

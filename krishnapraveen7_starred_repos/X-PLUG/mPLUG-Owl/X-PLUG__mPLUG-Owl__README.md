@@ -1,3 +1,5 @@
+# [mPLUG-Owl](https://github.com/X-PLUG/mPLUG-Owl)
+
 <div align="center">
 
 <h2>mPLUG-Owl: The Powerful MLLM Family</h2>

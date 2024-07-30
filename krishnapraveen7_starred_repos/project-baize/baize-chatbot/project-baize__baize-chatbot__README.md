@@ -1,3 +1,5 @@
+# [baize-chatbot](https://github.com/project-baize/baize-chatbot)
+
 <p align="center">
 <img width="500px" alt="Project Baize" src="https://user-images.githubusercontent.com/22514219/229195563-0cddfa74-e52f-4413-b4b4-e4ba489c4b3d.png">
 </p>

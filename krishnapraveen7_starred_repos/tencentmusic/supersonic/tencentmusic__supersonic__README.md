@@ -1,3 +1,5 @@
+# [supersonic](https://github.com/tencentmusic/supersonic)
+
 [中文版](README_CN.md) | [日本語版](README_JP.md) | [Docs](https://supersonicbi.github.io/)
 
 ![Java CI](https://github.com/tencentmusic/supersonic/workflows/supersonic%20CI/badge.svg)

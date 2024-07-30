@@ -1,3 +1,5 @@
+# [CogVLM](https://github.com/THUDM/CogVLM)
+
 # CogVLM & CogAgent
 
 📗 [中文版README](./README_zh.md)

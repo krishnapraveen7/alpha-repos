@@ -1,3 +1,5 @@
+# [nerfstudio](https://github.com/nerfstudio-project/nerfstudio)
+
 <p align="center">
     <!-- community badges -->
     <a href="https://discord.gg/uMbNqcraFc"><img src="https://dcbadge.vercel.app/api/server/uMbNqcraFc?style=plastic"/></a>

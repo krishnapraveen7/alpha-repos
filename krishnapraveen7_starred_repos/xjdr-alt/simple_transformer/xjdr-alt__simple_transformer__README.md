@@ -1,3 +1,5 @@
+# [simple_transformer](https://github.com/xjdr-alt/simple_transformer)
+
 # simple_transformer
 Simple Transformer in Jax
 

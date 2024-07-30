@@ -1,3 +1,5 @@
+# [latitude](https://github.com/latitude-dev/latitude)
+
 <div align="center">
   <a href="https://latitude.so?utm_source=github" target="_blank">
   <picture>

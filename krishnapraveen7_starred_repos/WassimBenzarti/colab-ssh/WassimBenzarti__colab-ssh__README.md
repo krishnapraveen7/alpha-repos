@@ -1,3 +1,5 @@
+# [colab-ssh](https://github.com/WassimBenzarti/colab-ssh)
+
 ![Cover photo of Colab-ssh](docs/assets/cover.png)
 
 > A new version of colab-ssh is coming soon, stay tuned.

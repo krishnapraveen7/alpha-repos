@@ -1,3 +1,5 @@
+# [fastRAG](https://github.com/IntelLabs/fastRAG)
+
 <div align="center">
     <img src="assets/fastrag_header.png" width="300"/>
 

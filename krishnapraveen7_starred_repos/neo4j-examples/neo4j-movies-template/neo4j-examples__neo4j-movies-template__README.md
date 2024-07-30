@@ -1,3 +1,5 @@
+# [neo4j-movies-template](https://github.com/neo4j-examples/neo4j-movies-template)
+
 # README
 
 This Neo4j-based example app displays movie and person data in a manner similar to IMDB.

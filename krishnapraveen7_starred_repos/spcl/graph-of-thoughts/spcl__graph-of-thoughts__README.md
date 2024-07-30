@@ -1,3 +1,5 @@
+# [graph-of-thoughts](https://github.com/spcl/graph-of-thoughts)
+
 # Graph of Thoughts (GoT)
 
 <p align="center">

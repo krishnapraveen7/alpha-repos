@@ -1,3 +1,5 @@
+# [Bend](https://github.com/HigherOrderCO/Bend)
+
 <h1 >Bend</h1>
 <p>A high-level, massively parallel programming language</p>
 
@@ -33,7 +35,7 @@ Bend is powered by the [HVM2](https://github.com/higherorderco/hvm) runtime.
 
 #### On Linux
 ```sh
-# Install Rust if you haven't it already.
+# Install Rust if you haven't already.
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 
 # For the C version of Bend, use GCC. We recommend a version up to 12.x.

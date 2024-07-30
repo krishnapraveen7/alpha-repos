@@ -1,3 +1,5 @@
+# [GraphGPT](https://github.com/varunshenoy/GraphGPT)
+
 # GraphGPT
 ### Natural Language → Knowledge Graph
 

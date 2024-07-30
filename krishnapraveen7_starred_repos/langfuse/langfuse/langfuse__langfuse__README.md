@@ -1,3 +1,5 @@
+# [langfuse](https://github.com/langfuse/langfuse)
+
 ![Langfuse GitHub Banner](https://github.com/langfuse/langfuse/assets/121163007/6035f0f3-d691-4963-b5d0-10cf506e9d42)
 
 <div align="center">
@@ -127,7 +129,6 @@ Packages that integrate with Langfuse:
 | [AI SDK by Vercel](/docs/sdk/typescript/example-vercel-ai) | Typescript SDK that makes streaming LLM outputs super easy.                                                             |
 | [Flowise](/docs/integrations/flowise)                      | JS/TS no-code builder for customized LLM flows.                                                                         |
 | [Langflow](/docs/integrations/langflow)                    | Python-based UI for LangChain, designed with react-flow to provide an effortless way to experiment and prototype flows. |
-| [Superagent](/docs/integrations/superagent)                | Open Source AI Assistant Framework & API for prototyping and deployment of agents.                                      |
 
 ## Questions and feedback
 

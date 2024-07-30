@@ -1,3 +1,5 @@
+# [ai-brainstore](https://github.com/mckaywrigley/ai-brainstore)
+
 # AI Brainstore
 
 This is a proof-of-concept of a brain for an AI agent.

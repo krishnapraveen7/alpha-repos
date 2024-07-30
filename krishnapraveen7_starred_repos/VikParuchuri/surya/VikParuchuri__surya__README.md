@@ -1,3 +1,5 @@
+# [surya](https://github.com/VikParuchuri/surya)
+
 # Surya
 
 Surya is a document OCR toolkit that does:

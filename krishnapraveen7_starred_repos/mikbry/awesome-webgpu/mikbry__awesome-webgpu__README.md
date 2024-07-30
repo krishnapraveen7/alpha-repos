@@ -1,3 +1,5 @@
+# [awesome-webgpu](https://github.com/mikbry/awesome-webgpu)
+
 # Awesome WebGPU [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > Lovely curated list of WebGPU resources, libraries and tools.

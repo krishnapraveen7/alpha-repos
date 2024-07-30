@@ -1,3 +1,5 @@
+# [sagittarius](https://github.com/gregsadetsky/sagittarius)
+
 # Sagittarius
 
 What is this? A GPT-4/Gemini Voice/Video Exploration Tool!

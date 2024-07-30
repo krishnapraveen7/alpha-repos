@@ -1,3 +1,5 @@
+# [starcoder](https://github.com/bigcode-project/starcoder)
+
 # 💫 StarCoder
 
 [Paper](https://drive.google.com/file/d/1cN-b9GnWtHzQRoE7M7gAEyivY0kl4BYs/view) | [Model](https://huggingface.co/bigcode/starcoder) | [Playground](https://huggingface.co/spaces/bigcode/bigcode-playground) | [VSCode](https://marketplace.visualstudio.com/items?itemName=HuggingFace.huggingface-vscode) | [Chat](https://huggingface.co/spaces/HuggingFaceH4/starchat-playground)

@@ -1,3 +1,5 @@
+# [OpenAgents](https://github.com/xlang-ai/OpenAgents)
+
 # [OpenAgents: An Open Platform for Language Agents in the Wild](https://arxiv.org/abs/2310.10634)
 
  <a href="https://arxiv.org/abs/2310.10634" target="_blank">

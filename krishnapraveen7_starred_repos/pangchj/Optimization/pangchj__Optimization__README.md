@@ -1,3 +1,5 @@
+# [Optimization](https://github.com/pangchj/Optimization)
+
 # Optimization codes
 
 Here are some optimization codes that I wrote that may be helpful when you want to learn or implement an optimization algorithm. I take the code description from textbooks and write python codes so that the calculations are done step by step to match the  numerical results given there.

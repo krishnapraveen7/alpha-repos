@@ -1,3 +1,5 @@
+# [pipecat](https://github.com/pipecat-ai/pipecat)
+
 <div align="center">
  <img alt="pipecat" width="300px" height="auto" src="https://raw.githubusercontent.com/pipecat-ai/pipecat/main/pipecat.png">
 </div>

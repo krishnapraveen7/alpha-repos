@@ -1,3 +1,5 @@
+# [code2prompt](https://github.com/raphaelmansuy/code2prompt)
+
 # Code2Prompt
 
 [![PyPI version](https://badge.fury.io/py/code2prompt.svg)](https://badge.fury.io/py/code2prompt)
@@ -51,6 +53,8 @@ Code2Prompt is a powerful, open-source command-line tool that bridges the gap be
 - **Clipboard Ready**: Instantly copy generated prompts to your clipboard for quick AI interactions.
 - **Multiple Output Options**: Save to file or display in the console.
 - **Enhanced Code Readability**: Add line numbers to source code blocks for precise referencing.
+- **Include file**: Support of template import
+- **Input variables**: Support of Input Variables in templates.
 
 ### 💡 Why Code2Prompt?
 
@@ -362,6 +366,143 @@ This command will analyze your project, count the tokens, and provide a detailed
 ![](./docs/screen-example2.png)
 
 
+## 🔥 Analyzing Codebases
+
+code2prompt now offers a powerful feature to analyze codebases and provide a summary of file extensions. Use the `--analyze` option along with the `-p` (path) option to get an overview of your project's file composition. For example:
+
+```
+code2prompt --analyze -p code2prompt
+```
+
+Result:
+
+```
+.j2: 6 files
+.json: 1 file
+.py: 33 files
+.pyc: 56 files
+
+Comma-separated list of extensions:
+.j2,.json,.py,.pyc
+```
+
+This command will analyze the 'code2prompt' directory and display a summary of all file extensions found, including their counts. You can choose between two output formats:
+
+- Flat format (default): Lists all unique extensions alphabetically with their file counts.
+- Tree-like format: Displays extensions in a directory tree structure with counts at each level.
+
+To use the tree-like format, add the `--format tree` option:
+
+```
+code2prompt --analyze -p code2prompt --format tree
+```
+
+Result: 
+
+```
+└── code2prompt
+    ├── utils
+    │   ├── .py
+    │   └── __pycache__
+    │       └── .pyc
+    ├── .py
+    ├── core
+    │   ├── .py
+    │   └── __pycache__
+    │       └── .pyc
+    ├── comment_stripper
+    │   ├── .py
+    │   └── __pycache__
+    │       └── .pyc
+    ├── __pycache__
+    │   └── .pyc
+    ├── templates
+    │   └── .j2
+    └── data
+        └── .json
+
+Comma-separated list of extensions:
+.j2,.json,.py,.pyc
+```
+
+The analysis also generates a comma-separated list of file extensions, which can be easily copied and used with the `--filter` option for more targeted code processing.
+
+## 🔥 Feature Highlight: Dynamic Variable Extraction for Prompt Generation
+
+`code2prompt` offers a powerful feature for dynamic variable extraction from templates, allowing for interactive and customizable prompt generation. Using the syntax `{{input:variable_name}}`, you can easily define variables that will prompt users for input during execution. 
+
+This is particularly useful for creating flexible templates for various purposes, such as generating AI prompts for Chrome extensions. Here's an example:
+
+```jinja2
+# AI Prompt Generator for Chrome Extension
+
+Generate a prompt for an AI to create a Chrome extension with the following specifications:
+
+Extension Name: {{input:extension_name}}
+Main Functionality: {{input:main_functionality}}
+Target Audience: {{input:target_audience}}
+
+## Prompt:
+
+You are an experienced Chrome extension developer. Create a detailed plan for a Chrome extension named "{{input:extension_name}}" that {{input:main_functionality}}. This extension is designed for {{input:target_audience}}.
+
+Your response should include:
+
+1. A brief description of the extension's purpose and functionality
+2. Key features (at least 3)
+3. User interface design considerations
+4. Potential challenges in development and how to overcome them
+5. Security and privacy considerations
+6. A basic code structure for the main components (manifest.json, background script, content script, etc.)
+
+Ensure that your plan is detailed, technically sound, and tailored to the needs of {{input:target_audience}}.
+
+Start from this codebase:
+
+---- 
+
+## The codebase:
+
+<codebase>
+
+
+```
+
+When you run `code2prompt` with this template, it will automatically detect the `{{input:variable_name}}` patterns and prompt the user to provide values for each variable (extension_name, main_functionality, and target_audience). This allows for flexible and interactive prompt generation, making it easy to create customized AI prompts for various Chrome extension ideas.
+
+For example, if a user inputs:
+- Extension Name: "ProductivityBoost"
+- Main Functionality: "tracks time spent on different websites and provides productivity insights"
+- Target Audience: "professionals working from home"
+
+The tool will generate a tailored prompt for an AI to create a detailed plan for this specific Chrome extension. This feature is particularly useful for developers, product managers, or anyone looking to quickly generate customized AI prompts for various projects or ideas.
+
+
+## 🔥 Feature Highligth "Include File" Feature
+
+The code2prompt project now supports a powerful "include file" feature, enhancing template modularity and reusability.
+
+ This feature allows you to seamlessly incorporate external file content into your main template using the `{% include %}` directive. For example, in the main `analyze-code.j2` template, you can break down complex sections into smaller, manageable files:
+
+```jinja2
+# Elite Code Analyzer and Improvement Strategist 2.0
+
+{% include 'sections/role_and_goal.j2' %}
+
+{% include 'sections/core_competencies.j2' %}
+
+## Task Breakdown
+
+1. Initial Assessment
+{% include 'tasks/initial_assessment.j2' %}
+
+2. Multi-Dimensional Analysis (Utilize Tree of Thought)
+{% include 'tasks/multi_dimensional_analysis.j2' %}
+
+// ... other sections ...
+```
+
+This approach allows you to organize your template structure more efficiently, improving maintainability and allowing for easy updates to specific sections without modifying the entire template. The include feature supports both relative and absolute paths, making it flexible for various project structures. By leveraging this feature, you can significantly reduce code duplication, improve template management, and create a more modular and scalable structure for your code2prompt templates.
 
 ## Configuration File
 
@@ -393,7 +534,8 @@ Example `.code2promptrc`:
 ## Roadmap
 
    - [ ] Interractive filtering
-   - [ ] Include system in template to promote re-usability of sub templates.
+   - [X] Include system in template to promote re-usability of sub templates.
+   - [X] Support of input variables
    - [ ] Tokens count for Anthropic Models and other models such LLama3 or Mistral
    - [X] Cost Estimations for main LLM providers based in token count
    - [ ] Integration with [qllm](https://github.com/quantalogic/qllm) (Quantalogic LLM)

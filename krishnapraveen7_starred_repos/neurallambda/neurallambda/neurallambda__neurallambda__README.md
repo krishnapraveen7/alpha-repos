@@ -1,3 +1,5 @@
+# [neurallambda](https://github.com/neurallambda/neurallambda)
+
 # neurallambda
 
 <a href="https://x.com/neurallambda">

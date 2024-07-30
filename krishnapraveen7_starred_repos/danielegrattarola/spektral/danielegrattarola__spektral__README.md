@@ -1,3 +1,5 @@
+# [spektral](https://github.com/danielegrattarola/spektral)
+
 <img src="https://danielegrattarola.github.io/spektral/img/logo_dark.svg" style="max-width: 400px; width: 100%;"/>
 
 # Welcome to Spektral

@@ -1,3 +1,5 @@
+# [gaianet-node](https://github.com/GaiaNet-AI/gaianet-node)
+
 # Run your own GaiaNet node
 
 
@@ -13,11 +15,11 @@
   </a>
 </p>
 
-
-
-[Japanese(日本語)](README-ja.md) | [Chinese(中文)](README-cn.md) | [Turkish (Türkçe)](README-tr.md) | [Arabic (العربية)](README-ar.md) | We need your help to translate this README into your native language.
+[Japanese(日本語)](README-ja.md) | [Chinese(中文)](README-cn.md) | [Turkish (Türkçe)](README-tr.md) | [Farsi(فارسی)](README-fa.md) | [Arabic (العربية)](README-ar.md) | [Indonesia](README-id.md) | [Russian (русскийة)](README-ru.md) | We need your help to translate this README into your native language.
 
 Like our work? ⭐ Star us!
+
+Checkout our [official docs](https://docs.gaianet.ai/) and a [Manning ebook](https://www.manning.com/liveprojectseries/open-source-llms-on-your-own-computer) on how to customize open source models.
 
 ---
 

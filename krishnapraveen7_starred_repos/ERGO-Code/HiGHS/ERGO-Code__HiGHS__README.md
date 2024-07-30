@@ -1,3 +1,5 @@
+# [HiGHS](https://github.com/ERGO-Code/HiGHS)
+
 # HiGHS - Linear optimization software
 
 <!-- ![Build Status](https://github.com/ERGO-Code/HiGHS/actions/workflows/build.yml/badge.svg) -->

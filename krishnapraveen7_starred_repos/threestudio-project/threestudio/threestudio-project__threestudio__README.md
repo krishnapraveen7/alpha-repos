@@ -1,3 +1,5 @@
+# [threestudio](https://github.com/threestudio-project/threestudio)
+
 <p align="center">
     <picture>
     <img alt="threestudio" src="https://user-images.githubusercontent.com/19284678/236847132-219999d0-4ffa-4240-a262-c2c025d15d9e.png" width="50%">

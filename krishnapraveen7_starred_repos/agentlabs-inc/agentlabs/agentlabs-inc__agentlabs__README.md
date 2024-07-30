@@ -1,3 +1,5 @@
+# [agentlabs](https://github.com/agentlabs-inc/agentlabs)
+
 <p align="center">
   <a href="https://agentlabs.dev"><img src="./.readme/agentlabs-banner.jpg" alt="agentlabs.dev"></a>
 </p>

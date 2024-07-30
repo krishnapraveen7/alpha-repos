@@ -1,3 +1,5 @@
+# [FigmaChain](https://github.com/cirediatpl/FigmaChain)
+
 # FigmaChain: HTML/CSS Code Generation from Figma Designs
 
 FigmaChain is a set of Python scripts that generate HTML/CSS code based on Figma designs. Using OpenAI's GPT-3 model, FigmaChain enables developers to quickly generate HTML/CSS code from a Figma design input. It also includes a Streamlit-based chatbot interface for interactive code generation.

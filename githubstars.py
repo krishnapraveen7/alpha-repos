@@ -7,9 +7,9 @@ load_dotenv()
 
 # Replace with your personal access token and username
 access_token = os.getenv("GITHUB_ACCESS_TOKEN")
-# username = "krishnapraveen7"
+username = "krishnapraveen7"
 # username = "karpathy"
-username = "chiphuyen"
+# username = "chiphuyen"
 # username = "jph00"  # Jeremy howard
 # username = "lucidrains"
 

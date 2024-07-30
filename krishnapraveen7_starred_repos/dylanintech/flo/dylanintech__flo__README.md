@@ -1,3 +1,5 @@
+# [flo](https://github.com/dylanintech/flo)
+
 # welcome to flo - the cli tool that solves errors for you!
 **flo** uses a [langchain](https://js.langchain.com/docs/) functions agent to catch errors thrown from processes that you're running in your dev environment. it then attempts to solve these errors or at least find out what's wrong by *scanning* your codebase for the faulty code. 
 

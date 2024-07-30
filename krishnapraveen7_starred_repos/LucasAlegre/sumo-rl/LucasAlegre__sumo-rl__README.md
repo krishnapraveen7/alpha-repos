@@ -1,3 +1,5 @@
+# [sumo-rl](https://github.com/LucasAlegre/sumo-rl)
+
 <img src="docs/_static/logo.png" align="right" width="30%"/>
 
 [![DOI](https://zenodo.org/badge/161216111.svg)](https://zenodo.org/doi/10.5281/zenodo.10869789)

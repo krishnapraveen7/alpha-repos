@@ -1,3 +1,5 @@
+# [supply-chain-optimization](https://github.com/samirsaci/supply-chain-optimization)
+
 ## Supply Chain Optimization with Python 👷
 *Find the optimal locations of your manufacturing facilities to meet your customers’ demand and reduce production costs*
 

@@ -1,3 +1,5 @@
+# [wolverine](https://github.com/biobootloader/wolverine)
+
 # DEPRECATED: Try Mentat instead! https://github.com/AbanteAI/mentat
 
 

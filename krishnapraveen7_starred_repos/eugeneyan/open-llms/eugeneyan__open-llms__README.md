@@ -1,3 +1,5 @@
+# [open-llms](https://github.com/eugeneyan/open-llms)
+
 # Open LLMs
 
 These LLMs (Large Language Models) are all licensed for commercial use (e.g., Apache 2.0, MIT, OpenRAIL-M). Contributions welcome!

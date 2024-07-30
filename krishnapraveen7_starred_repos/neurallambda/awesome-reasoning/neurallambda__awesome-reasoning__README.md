@@ -1,3 +1,5 @@
+# [awesome-reasoning](https://github.com/neurallambda/awesome-reasoning)
+
 # awesome-reasoning
 <a href="https://x.com/neurallambda">
   <img src="https://raster.shields.io/badge/follow-@neurallambda-blue.png?logo=x&color=BD2C00&labelColor=474240" alt="Follow on X" height="20">
@@ -59,6 +61,7 @@ Adding reasoning to your AI? Take these resources, they may help you on your way
 
 | **NATURAL LANGUAGE**           |                                            |                                                                                         |
 |--------------------------------|--------------------------------------------|-----------------------------------------------------------------------------------------|
+| Nous Open Reasoning | community contrib tasks | [`[1]`](https://github.com/NousResearch/Open-Reasoning-Tasks) |
 | UltraInteract_sft              | GPT generated iterated reasoning dialogs   | [`[1]`](https://huggingface.co/datasets/openbmb/UltraInteract_sft)                      |
 | CoGnition | NL compositional generalization | [`[1]`](https://github.com/yafuly/CoGnition) |
 | Winogrande                     | ambiguous sentences, fill in 1 word        | [`[1]`](https://huggingface.co/datasets/winogrande)                                     |
@@ -78,6 +81,7 @@ Adding reasoning to your AI? Take these resources, they may help you on your way
 
 | **TOY PROBLEMS**                |                                       |                                                                        |
 |---------------------------------|---------------------------------------|------------------------------------------------------------------------|
+| arc-like | 1D visual puzzles, great seq reasoning | [`[1]`](https://github.com/neurallambda/arc-like) |
 | ARC | competition | [`[1]`](https://twitter.com/arcprize) |
 | (misc) | xLSTM paper lists several in appendix | [`[1]`](https://arxiv.org/pdf/2405.04517) |
 | expand polynomials  | algebraic expansion | [`[Abstractor]`](https://arxiv.org/pdf/2304.00195) |

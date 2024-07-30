@@ -1,3 +1,5 @@
+# [efficient-kan](https://github.com/Blealtan/efficient-kan)
+
 # An Efficient Implementation of Kolmogorov-Arnold Network
 
 This repository contains an efficient implementation of Kolmogorov-Arnold Network (KAN).

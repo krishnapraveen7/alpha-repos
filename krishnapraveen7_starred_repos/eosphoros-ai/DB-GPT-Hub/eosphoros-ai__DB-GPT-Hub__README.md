@@ -1,3 +1,5 @@
+# [DB-GPT-Hub](https://github.com/eosphoros-ai/DB-GPT-Hub)
+
 # DB-GPT-Hub: Text-to-SQL parsing with LLMs
 
 

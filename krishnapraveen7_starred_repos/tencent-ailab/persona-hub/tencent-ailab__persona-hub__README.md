@@ -1,3 +1,5 @@
+# [persona-hub](https://github.com/tencent-ailab/persona-hub)
+
 # [Scaling Synthetic Data Creation with 1,000,000,000 Personas](https://arxiv.org/pdf/2406.20094)
 
 <div align="center">

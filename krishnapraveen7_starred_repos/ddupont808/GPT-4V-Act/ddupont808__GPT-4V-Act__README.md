@@ -1,3 +1,5 @@
+# [GPT-4V-Act](https://github.com/ddupont808/GPT-4V-Act)
+
 # GPT-4V-Act: Chromium Copilot
 
 > ⚠️ **Important Note:** As GPT-4V(ision) has not yet been made publicly available, this project necessitates an active ChatGPT Plus subscription for multimodal prompting access. It's worth noting that the tactics used by this project to tap into an unofficial GPT-4V API may contravene the associated ChatGPT Term of Service clause:

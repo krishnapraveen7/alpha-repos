@@ -1,3 +1,5 @@
+# [codel](https://github.com/semanser/codel)
+
 <img src="./.github/demo.png" />
 <div align="center">Fully autonomous AI Agent that can perform complicated tasks and projects using terminal, browser, and editor.</div>
 </br>

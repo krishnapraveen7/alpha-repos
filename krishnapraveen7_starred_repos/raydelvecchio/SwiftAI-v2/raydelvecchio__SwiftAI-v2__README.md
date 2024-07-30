@@ -1,3 +1,5 @@
+# [SwiftAI-v2](https://github.com/raydelvecchio/SwiftAI-v2)
+
 # SwiftAI V2!
 This is the second iteration of SwiftAI! The first time, we used a 7-gram model with an RNN to make predictions and
 generate songs. Now, with more NLP knowledge, we can up the ante and make the best model possible. Uses [GPT2](https://huggingface.co/docs/transformers/model_doc/gpt2#openai-gpt2).

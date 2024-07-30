@@ -1,3 +1,5 @@
+# [bananalyzer](https://github.com/reworkd/bananalyzer)
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/reworkd/bananalyzer/main/.github/assets/banner.png" height="300" alt="Monkey Looking at banana" />
 </p>

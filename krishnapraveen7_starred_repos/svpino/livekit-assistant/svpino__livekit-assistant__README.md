@@ -1,3 +1,5 @@
+# [livekit-assistant](https://github.com/svpino/livekit-assistant)
+
 # LiveKit Assistant
 
 First, create a virtual environment, update pip, and install the required packages:

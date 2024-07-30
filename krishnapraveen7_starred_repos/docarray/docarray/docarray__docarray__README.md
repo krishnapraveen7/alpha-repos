@@ -1,3 +1,5 @@
+# [docarray](https://github.com/docarray/docarray)
+
 <p align="center">
 <img src="https://github.com/docarray/docarray/blob/main/docs/assets/logo-dark.svg?raw=true" alt="DocArray logo: The data structure for unstructured data" width="150px">
 <br>

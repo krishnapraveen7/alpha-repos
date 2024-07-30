@@ -1,3 +1,5 @@
+# [MPCC](https://github.com/alexliniger/MPCC)
+
 # MPCC
 Simulation environments in C++ and Matlab of the Model Predictive Contouring Controller (MPCC) for Autonomous Racing developed by the Automatic Control Lab (IfA) at ETH Zurich
 

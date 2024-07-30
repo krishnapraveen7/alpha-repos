@@ -1,3 +1,5 @@
+# [magic-animate](https://github.com/magic-research/magic-animate)
+
 <!-- # magic-edit.github.io -->
 
 <p align="center">

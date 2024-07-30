@@ -1,3 +1,5 @@
+# [ChartLlama-code](https://github.com/tingxueronghua/ChartLlama-code)
+
 ## ___***ChartLlama: A Multimodal LLM for Chart Understanding and Generation***___
 
 <!-- ### 🔥🔥🔥 The LongerCrafter for longer high-quality video generation are now released! -->

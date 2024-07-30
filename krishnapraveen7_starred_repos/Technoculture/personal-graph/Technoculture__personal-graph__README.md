@@ -1,3 +1,5 @@
+# [personal-graph](https://github.com/Technoculture/personal-graph)
+
 # Personal-Graph: Graph for building memory for AI applications
 [![PyPI version](https://badge.fury.io/py/personal-graph.svg)](https://badge.fury.io/py/personal-graph)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)

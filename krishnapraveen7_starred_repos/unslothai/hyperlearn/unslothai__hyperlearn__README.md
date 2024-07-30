@@ -1,3 +1,5 @@
+# [hyperlearn](https://github.com/unslothai/hyperlearn)
+
 <p align="center">
 <img src="Images/HyperLearn_Logo.png" alt="drawing" width="300"/>
 </p>

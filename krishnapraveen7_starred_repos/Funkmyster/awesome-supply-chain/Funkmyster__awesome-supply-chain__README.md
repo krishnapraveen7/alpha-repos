@@ -1,3 +1,5 @@
+# [awesome-supply-chain](https://github.com/Funkmyster/awesome-supply-chain)
+
 # Awesome Supply Chain [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > Supply Chain Management Blogs, Podcasts, Projects, and Examples.

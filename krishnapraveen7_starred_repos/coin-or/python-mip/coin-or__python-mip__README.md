@@ -1,3 +1,5 @@
+# [python-mip](https://github.com/coin-or/python-mip)
+
 # Python MIP (Mixed-Integer Linear Programming) Tools
 
 Package website: **http://python-mip.com**

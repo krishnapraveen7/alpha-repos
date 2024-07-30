@@ -1,3 +1,5 @@
+# [HippoRAG](https://github.com/OSU-NLP-Group/HippoRAG)
+
 <h1 align="center"> <img src="images/icon.png" width="30" height="30"> HippoRAG <br> Neurobiologically Inspired Long-Term Memory <br> for Large Language Models</h1>
 
 HippoRAG is a novel **retrieval augmented generation (RAG)** framework inspired by the neurobiology of human long-term memory that enables LLMs to continuously **integrate knowledge across external documents**. Our experiments suggest that HippoRAG could provide RAG systems with capabilities that usually require a costly and high-latency iterative LLM pipeline for only a fraction of the computational cost.

@@ -1,3 +1,5 @@
+# [chat2plot](https://github.com/nyanp/chat2plot)
+
 # 📈 Chat2Plot - interactive & safe text-to-visualization with LLM
 
 This library uses LLMs to generate:

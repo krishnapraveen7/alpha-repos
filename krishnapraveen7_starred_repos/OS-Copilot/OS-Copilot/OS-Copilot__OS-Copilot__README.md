@@ -1,3 +1,5 @@
+# [OS-Copilot](https://github.com/OS-Copilot/OS-Copilot)
+
 # OS-Copilot: Towards Generalist Computer Agents with Self-Improvement
 
 <div align="center">

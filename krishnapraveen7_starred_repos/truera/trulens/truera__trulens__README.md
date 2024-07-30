@@ -1,3 +1,5 @@
+# [trulens](https://github.com/truera/trulens)
+
 <!---
 start of trulens_eval/gh_top_intro.md
 NOTE: This content is from trulens_eval/gh_top_intro.md and is merged into
@@ -59,7 +61,7 @@ Install the trulens-eval pip package from PyPI.
 pip install trulens-eval
 ```
 
-#### Installing from Github
+#### Installing from GitHub
 
 To install the latest version from this repository, you can use pip in the following manner:
 
@@ -129,7 +131,7 @@ conda install matplotlib        # For visualizations.
 pip install trulens
 ```
 
-#### Installing from Github
+#### Installing from GitHub
 
 To install the latest version from this repository, you can use pip in the following manner:
 

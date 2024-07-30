@@ -1,3 +1,5 @@
+# [c-smart-rockets](https://github.com/bones-ai/c-smart-rockets)
+
 # Smart Rockets
 A simple genetic algorithm simulation written in C and [Raylib](https://www.raylib.com/).
 

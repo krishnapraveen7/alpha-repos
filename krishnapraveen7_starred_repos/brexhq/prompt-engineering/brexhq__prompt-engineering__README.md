@@ -1,3 +1,5 @@
+# [prompt-engineering](https://github.com/brexhq/prompt-engineering)
+
 # [Brex's](https://brex.com) Prompt Engineering Guide
 
 This guide was created by Brex for internal purposes. It's based on

@@ -1,3 +1,5 @@
+# [create-chrome-ext](https://github.com/guocaoyi/create-chrome-ext)
+
 ![crx-preview](./docs/img/crx-preview.png)
 
 # Create Chrome Extension (.crx)

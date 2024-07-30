@@ -1,3 +1,5 @@
+# [chart-gpt](https://github.com/whoiskatrin/chart-gpt)
+
 # Chart-GPT - text to beautiful charts within seconds
 
 <div align="center">

@@ -1,3 +1,5 @@
+# [nv_isa_solver](https://github.com/kuterd/nv_isa_solver)
+
 # Nvidia Instruction Set Specification Generator
 This is a project for automatically generating instruction set specifications for NVIDIA GPUs by fuzzing the nvdisasm program included in Cuda
 

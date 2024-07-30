@@ -1,3 +1,5 @@
+# [Diffusion-Models-Papers-Survey-Taxonomy](https://github.com/YangLing0818/Diffusion-Models-Papers-Survey-Taxonomy)
+
 # Diffusion Models: A Comprehensive Survey of Methods and Applications
 This repo is constructed for collecting and categorizing papers about diffusion models according to our survey paper——[_**Diffusion Models: A Comprehensive Survey of Methods and Applications**_](https://arxiv.org/abs/2209.00796), which has been accepted by the journal **ACM Computing Surveys**. Considering the fast development of this field, we will continue to update **both [arxiv paper](https://arxiv.org/abs/2209.00796) and this repo**.
 # Overview

@@ -1,3 +1,5 @@
+# [FastUI](https://github.com/pydantic/FastUI)
+
 # FastUI
 
 Find the documentation [here](https://docs.pydantic.dev/fastui/).

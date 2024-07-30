@@ -1,3 +1,5 @@
+# [public-apis](https://github.com/public-apis/public-apis)
+
 # Try Public APIs for free
 Explore popular APIs and see them work in Postman.
 <br >

@@ -1,3 +1,5 @@
+# [RAGatouille](https://github.com/bclavie/RAGatouille)
+
 # Welcome to RAGatouille
 
 _Easily use and train state of the art retrieval methods in any RAG pipeline. Designed for modularity and ease-of-use, backed by research._

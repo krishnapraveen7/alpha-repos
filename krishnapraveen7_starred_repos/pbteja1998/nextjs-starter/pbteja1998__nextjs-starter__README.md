@@ -1,3 +1,5 @@
+# [nextjs-starter](https://github.com/pbteja1998/nextjs-starter)
+
 # nextjs-starter
 
 A Next.js starter kit template with React 17 + Typescript + Tailwind CSS 2 + React Query 3 + NextAuth.js (with GitHub Auth + Passwordless Auth) + Fauna DB

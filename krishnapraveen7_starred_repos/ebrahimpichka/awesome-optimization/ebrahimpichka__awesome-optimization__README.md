@@ -1,3 +1,5 @@
+# [awesome-optimization](https://github.com/ebrahimpichka/awesome-optimization)
+
 # Awesome Optimization Courses
 
 Welcome to the "Awesome Optimization" repository! This repository contains a curated list of (mostly) free and open educational resources for mathematical optimization.

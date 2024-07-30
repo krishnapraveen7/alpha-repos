@@ -1,3 +1,5 @@
+# [scribepod](https://github.com/yacineMTB/scribepod)
+
 ![generated with stable diffusion](https://github.com/yacineMTB/scribepod/blob/master/upscaledrobot.png?raw=true)
 
 # Scribepod, after https://github.com/yacineMTB/scribepod/pull/7

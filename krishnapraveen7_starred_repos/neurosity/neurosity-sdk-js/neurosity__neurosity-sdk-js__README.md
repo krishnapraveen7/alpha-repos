@@ -1,3 +1,5 @@
+# [neurosity-sdk-js](https://github.com/neurosity/neurosity-sdk-js)
+
 # Neurosity SDK
 
 The Neurosity software processes and manages the data produced by [Neurosity headsets](https://neurosity.co) which measures, tracks and monitors EEG brainwaves.

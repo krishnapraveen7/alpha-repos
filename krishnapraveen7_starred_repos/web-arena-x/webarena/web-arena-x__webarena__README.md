@@ -1,3 +1,5 @@
+# [webarena](https://github.com/web-arena-x/webarena)
+
 # WebArena: A Realistic Web Environment for Building Autonomous Agents
 <p align="center">
     <img src="media/logo.png" alt="Logo" width="80px">

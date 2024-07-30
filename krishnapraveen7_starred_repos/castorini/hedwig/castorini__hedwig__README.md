@@ -1,3 +1,5 @@
+# [hedwig](https://github.com/castorini/hedwig)
+
 <p align="center">
 <img src="https://github.com/karkaroff/hedwig/blob/bellatrix/docs/hedwig.png" width="360">
 </p>

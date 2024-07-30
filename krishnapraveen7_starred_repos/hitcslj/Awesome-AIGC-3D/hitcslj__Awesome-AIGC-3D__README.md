@@ -1,3 +1,5 @@
+# [Awesome-AIGC-3D](https://github.com/hitcslj/Awesome-AIGC-3D)
+
 # Awesome-AIGC-3D [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A curated list of awesome AIGC 3D papers, inspired by [awesome-NeRF](https://github.com/awesome-NeRF/awesome-NeRF).
 
@@ -80,7 +82,7 @@ A curated list of awesome AIGC 3D papers, inspired by [awesome-NeRF](https://git
 - [CLAY: A Controllable Large-scale Generative Model for Creating High-quality 3D Assets](https://arxiv.org/abs/2406.13897), Zhang et al., TOG 2024 | [github](https://github.com/CLAY-3D/OpenCLAY) | [bibtex](./citations/clay.txt)
 - [L4GM: Large 4D Gaussian Reconstruction Model](https://arxiv.org/abs/2406.10324), Ren et al., arxiv 2024 | [bibtex](./citations/l4gm.txt)
 - [Efficient Large-Baseline Radiance Fields, a feed-forward 2DGS model](https://arxiv.org/abs/2407.04699v1), Chen et al., ECCV 2024 | [github](https://github.com/autonomousvision/LaRa) | [bibtex](./citations/LaRa.txt)
-
+- [MeshXL: Neural Coordinate Field for Generative 3D Foundation Models](https://arxiv.org/abs/2405.20853), Chen et al., arXiv 2024 | [github](https://github.com/OpenMeshLab/MeshXL) | [bibtex](./citations/meshXL.txt)
 
 </details>
 
@@ -342,6 +344,7 @@ A curated list of awesome AIGC 3D papers, inspired by [awesome-NeRF](https://git
 - [Vidu4D: Single Generated Video to High-Fidelity 4D Reconstruction with Dynamic Gaussian Surfels](https://arxiv.org/abs/2405.16822), Wang et al., arxiv 2024 | [github](https://github.com/yikaiw/vidu4d) | [bibtext](./citations/vidu4d.txt)
 - [Physics3D: Learning Physical Properties of 3D Gaussians via Video Diffusion](https://arxiv.org/abs/2406.04338), Liu et al., arxiv 2024 | [github](https://github.com/liuff19/Physics3D) | [bibtext](./citations/physics3D.txt)
 - [4Real: Towards Photorealistic 4D Scene Generation via Video Diffusion Models](https://arxiv.org/abs/2406.07472), Liu et al., arxiv 2024 | [bibtext](./citations/4real.txt)
+- [SV4D: Dynamic 3D Content Generation with Multi-Frame and Multi-View Consistency](https://arxiv.org/abs/2407.17470), Xie et al., arxiv 2024 | [github](https://github.com/Stability-AI/generative-models) | [bibtext](./citations/stablev3d.txt)
 
 
 </details>

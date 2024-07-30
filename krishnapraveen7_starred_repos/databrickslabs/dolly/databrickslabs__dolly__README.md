@@ -1,3 +1,5 @@
+# [dolly](https://github.com/databrickslabs/dolly)
+
 # Dolly
 
 Databricks’ [Dolly](https://huggingface.co/databricks/dolly-v2-12b) is an instruction-following large language model trained on the Databricks machine learning platform

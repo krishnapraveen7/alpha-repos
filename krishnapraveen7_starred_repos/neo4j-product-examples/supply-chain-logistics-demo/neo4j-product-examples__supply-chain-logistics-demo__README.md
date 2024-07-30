@@ -1,3 +1,5 @@
+# [supply-chain-logistics-demo](https://github.com/neo4j-product-examples/supply-chain-logistics-demo)
+
 # __:warning: This Project is Inactive. Contents are in the process of being updated and migrated to an another repository__
 
 __Going forward we will be using [neo4j-product-examples/ds-supply-chain-use-cases](https://github.com/neo4j-product-examples/ds-supply-chain-use-cases) for up-to-date examples on using Neo4j Graph Data Science for supply chain and logistics use cases. This repository will be archived once its contents are fully migrated__

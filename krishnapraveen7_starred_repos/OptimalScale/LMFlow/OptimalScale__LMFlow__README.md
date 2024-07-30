@@ -1,3 +1,5 @@
+# [LMFlow](https://github.com/OptimalScale/LMFlow)
+
 <p align="center" width="50%">
 <img src="assets/logo.png" alt="LMFlow" style="width: 50%; min-width: 200px; display: block; margin: auto; background-color: transparent;">
 </p>

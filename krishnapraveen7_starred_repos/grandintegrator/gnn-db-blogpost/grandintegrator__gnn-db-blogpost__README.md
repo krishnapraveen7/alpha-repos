@@ -1,3 +1,5 @@
+# [gnn-db-blogpost](https://github.com/grandintegrator/gnn-db-blogpost)
+
 # Using MLflow to deploy Graph Neural Networks for Monitoring Supply Chain Risk
 
 :link: Blog post link is upcoming - currently under review.

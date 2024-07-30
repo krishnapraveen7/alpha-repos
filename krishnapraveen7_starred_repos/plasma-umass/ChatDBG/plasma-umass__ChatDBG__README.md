@@ -1,3 +1,5 @@
+# [ChatDBG](https://github.com/plasma-umass/ChatDBG)
+
 # ChatDBG
 
 by [Emery Berger](https://emeryberger.com), [Stephen Freund](https://www.cs.williams.edu/~freund/index.html), [Kyla Levin](https://khlevin.github.io/KylaHLevin/index.html), [Nicolas van Kempen](https://nvankempen.com/) (ordered alphabetically)

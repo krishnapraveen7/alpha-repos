@@ -1,3 +1,5 @@
+# [gs-quant](https://github.com/goldmansachs/gs-quant)
+
 # GS Quant
 
 **GS Quant** is a Python toolkit for quantitative finance, created on top of one of the world’s most powerful risk transfer platforms. Designed to accelerate development of quantitative trading strategies and risk management solutions, crafted over 25 years of experience navigating global markets.

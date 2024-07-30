@@ -1,3 +1,5 @@
+# [exo](https://github.com/exo-explore/exo)
+
 <div align="center">
 
 <picture>
@@ -14,14 +16,21 @@ exo: Run your own AI cluster at home with everyday devices. Maintained by [exo l
 
 </h3>
 
-[![GitHub Repo stars](https://img.shields.io/github/stars/exo-explore/exo)](https://github.com/exo-explore/exo/stargazers) [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![GitHub Repo stars](https://img.shields.io/github/stars/exo-explore/exo)](https://github.com/exo-explore/exo/stargazers)
+[![Tests](https://github.com/exo-explore/exo/actions/workflows/test.yml/badge.svg)](https://github.com/exo-explore/exo/actions/workflows/test.yml)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 </div>
-
 
 ---
 
 Forget expensive NVIDIA GPUs, unify your existing devices into one powerful GPU: iPhone, iPad, Android, Mac, Linux, pretty much any device!
+
+<div align="center">
+  <h2>Update: Exo Supports Llama 3.1</h2>
+  <p>Now the default models, run 8B, 70B and 405B parameter models on your own devices</p>
+  <p><a href="https://github.com/exo-explore/exo/blob/main/exo/inference/mlx/models/sharded_llama.py">See the code</a></p>
+</div>
 
 ## Get Involved
 
@@ -102,7 +111,9 @@ That's it! No configuration required - exo will automatically discover the other
 
 The native way to access models running on exo is using the exo library with peer handles. See how in [this example for Llama 3](examples/llama3_distributed.py).
 
-exo also starts a ChatGPT-compatible API endpoint on http://localhost:8000. Note: this is currently only supported by tail nodes (i.e. nodes selected to be at the end of the ring topology). Example request:
+exo starts a ChatGPT-like WebUI (powered by [tinygrad tinychat](https://github.com/tinygrad/tinygrad/tree/master/examples/tinychat)) on http://localhost:8000
+
+For developers, exo also starts a ChatGPT-compatible API endpoint on http://localhost:8000/v1/chat/completions. Example with curl:
 
 ```sh
 curl http://localhost:8000/v1/chat/completions \

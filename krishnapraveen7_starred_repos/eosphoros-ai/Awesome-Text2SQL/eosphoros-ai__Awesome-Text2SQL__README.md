@@ -1,3 +1,5 @@
+# [Awesome-Text2SQL](https://github.com/eosphoros-ai/Awesome-Text2SQL)
+
 # **Awesome Text2SQL**🎉🎉🎉
 
 [![GitHub Repo stars](https://img.shields.io/github/stars/eosphoros-ai/Awesome-Text2SQL?style=social)](https://github.com/eosphoros-ai/Awesome-Text2SQL/)

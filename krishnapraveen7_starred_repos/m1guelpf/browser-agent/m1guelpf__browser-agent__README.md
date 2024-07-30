@@ -1,3 +1,5 @@
+# [browser-agent](https://github.com/m1guelpf/browser-agent)
+
 # A browser AI agent, using GPT-4
 
 This project provides a bridge between GPT-4 and a headless Chromium browser, allowing you to automate actions simply by describing them to the program. It takes the form of a Rust CLI, but also exports most of the internals as a library for others to use.

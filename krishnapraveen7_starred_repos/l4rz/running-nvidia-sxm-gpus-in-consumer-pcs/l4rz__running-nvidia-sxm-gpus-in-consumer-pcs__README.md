@@ -1,3 +1,5 @@
+# [running-nvidia-sxm-gpus-in-consumer-pcs](https://github.com/l4rz/running-nvidia-sxm-gpus-in-consumer-pcs)
+
 # Running SXM2/SXM3/SXM4 NVidia data center GPUs in consumer PCs
 
 ## TL;DR

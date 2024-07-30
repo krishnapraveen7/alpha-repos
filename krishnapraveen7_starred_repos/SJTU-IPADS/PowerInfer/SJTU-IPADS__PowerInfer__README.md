@@ -1,3 +1,5 @@
+# [PowerInfer](https://github.com/SJTU-IPADS/PowerInfer)
+
 # PowerInfer: Fast Large Language Model Serving with a Consumer-grade GPU
 
 ## TL;DR

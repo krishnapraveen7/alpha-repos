@@ -1,3 +1,5 @@
+# [supply-chain-simulation-environment](https://github.com/amzn/supply-chain-simulation-environment)
+
 # miniSCOT
 
 miniSCOT is a simulation tool that lets users play with the supply chain

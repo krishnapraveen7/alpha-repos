@@ -1,3 +1,5 @@
+# [pywinassistant](https://github.com/a-real-ai/pywinassistant)
+
 # PyWinAssistant
 "PyWinAssistant" is the first Large Action Model, Open Source Windows 10/11 Artificial Narrow Intelligence framework (Released on 31 Dec 2023, before Microsoft's VoT paper) to artificially assist any win32api human User Interfaces by utilizing Visualization-of-Thought (VoT) Elicits Spatial Reasoning in Large Language Models without OCR / object detection / segmentation. This improves the generality quality and minimizes the overall data usage of LLM and vision models. It has built-in assistance options to improve human utilization of a computer, with a new technical approach to User Interface and User Experience assistance and testing by spatial visualization of thought, generalizes correctly any natural language prompt, and plans to perform correct actions into the OS with security in mind.
 

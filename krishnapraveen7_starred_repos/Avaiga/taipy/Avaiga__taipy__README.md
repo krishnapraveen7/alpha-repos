@@ -1,3 +1,5 @@
+# [taipy](https://github.com/Avaiga/taipy)
+
 [![Taipy Designer banner](https://github.com/Avaiga/taipy/assets/31435778/6378ffd4-438a-498f-9385-10394f7d53fb)](https://links.taipy.io/306TwUH)
 
 
@@ -112,7 +114,7 @@ Your configuration is automatically saved as a TOML file.<br />
 Check out Taipy Studio [Documentation](https://docs.taipy.io/en/latest/manuals/studio/)
 
 For more advanced use cases or if you prefer coding your configurations instead of using Taipy Studio,<br />
-Check out the movie genre demo scenario creation with this [Demo](https://docs.taipy.io/en/latest/knowledge_base/demos/movie_genre_selector/).
+Check out the movie genre demo scenario creation with this [Demo](https://docs.taipy.io/en/latest/gallery/other/movie_genre_selector/).
 
 ![TaipyStudio](https://github.com/Avaiga/taipy/raw/develop/readme_img/readme_demo_studio.gif)
 

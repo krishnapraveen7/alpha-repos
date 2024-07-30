@@ -1,3 +1,5 @@
+# [ml-mgie](https://github.com/apple/ml-mgie)
+
 # Guiding Instruction-based Image Editing via Multimodal Large Language Models
 This repo contains the code for [Guiding Instruction-based Image Editing via Multimodal Large Language Models](https://arxiv.org/abs/2309.17102) (ICLR'24 Spotlight)
 

@@ -1,3 +1,5 @@
+# [factory-optimization](https://github.com/databricks-industry-solutions/factory-optimization)
+
 # Scenario - Track KPIs to increase plant capacity 
 <img style="float: right" src="https://github.com/QuentinAmbard/databricks-demo/raw/main/manufacturing/oee_score/ooe_production_factories.png" width="600px" />
 

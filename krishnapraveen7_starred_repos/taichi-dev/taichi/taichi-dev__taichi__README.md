@@ -1,3 +1,5 @@
+# [taichi](https://github.com/taichi-dev/taichi)
+
 <div align="center">
   <img width="500px" src="https://github.com/taichi-dev/taichi/raw/master/misc/logo.png"/>
 </div>

@@ -1,3 +1,5 @@
+# [mindsdb](https://github.com/mindsdb/mindsdb)
+
 <a name="readme-top"></a>
 
 <div align="center">

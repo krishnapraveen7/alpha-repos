@@ -1,3 +1,5 @@
+# [Chinese-Vicuna](https://github.com/Facico/Chinese-Vicuna)
+
 ![camel](https://github.com/Facico/Chinese-Vicuna/blob/master/img/vicuna-llama.png)
 
 # Chinese-Vicuna: A Chinese Instruction-following LLaMA-based Model —— 一个中文低资源的llama+lora方案

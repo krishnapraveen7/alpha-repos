@@ -1,3 +1,5 @@
+# [langchain](https://github.com/langchain-ai/langchain)
+
 # 🦜️🔗 LangChain
 
 ⚡ Build context-aware reasoning applications ⚡

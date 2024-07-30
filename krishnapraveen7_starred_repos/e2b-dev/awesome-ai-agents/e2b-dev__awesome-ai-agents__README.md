@@ -1,3 +1,5 @@
+# [awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents)
+
 <!--
 TBD:
 - Add to visual:
@@ -44,8 +46,8 @@ Add to readme list:
 
 Welcome to our list of AI agents.
 We structured the list into two parts:
-- [Open source projects](#open_hands-open-source-projects)
-- [Closed-source projects and companies](#lock-closed-source-projects-and-companies)
+- [Open source projects](#open-source-projects)
+- [Closed-source projects and companies](#closed-source-projects-and-companies)
   
 To filter the products by categories and use-cases, see the 🌟 [web version of this list](https://e2b.dev/ai-agents). 🌟
 
@@ -732,6 +734,28 @@ General purpose, Productivity
 </details>
 
 
+## [Blinky](https://github.com/seahyinghang8/blinky)
+An open-source AI debugging agent for VSCode
+
+<details>
+
+![Banner](https://github.com/seahyinghang8/blinky/raw/master/media/banner.png)
+
+### Category
+Coding, Debugging
+
+### Description
+- Blinky is an open-source AI debugging agent for VSCode that uses LLMs to help identify and fix backend code errors (inspired by SWE-agent).
+- Blinky leverages the VSCode API, Language Server Protocol (LSP), and print statement debugging to triangulate and address bugs in real-world backend systems.
+
+	
+### Links
+- [VSCode Extension](https://marketplace.visualstudio.com/items?itemName=blinky.blinky)
+- [Discord](https://discord.gg/d3AUNHDb)
+- [GitHub](https://github.com/seahyinghang8/blinky)
+</details>
+
+
 ## [Bloop](https://bloop.ai/)
 AI code search, works for Rust and Typescript
 
@@ -1063,6 +1087,41 @@ Build-your-own, SDK for agents, Multi-agent
 - [Crew AI Wiki with examples and guides](https://github.com/joaomdmoura/CrewAI/wiki)
 - [Docs](https://github.com/joaomdmoura/CrewAI/wiki)
 - [Discord](https://discord.com/invite/X4JWnZnxPb)
+
+</details>
+
+## [data-to-paper](https://github.com/Technion-Kishony-lab/data-to-paper)
+AI-driven research from data to human-verifiable research papers
+<details>
+
+<br>
+<img src="https://github.com/Technion-Kishony-lab/data-to-paper/assets/65530510/e33bcb52-5f4e-4fd0-8be9-ebd64607c449" width="400" align="center">
+<br>
+	
+### Category
+Science, Research, Multi-agent
+
+### Description
+[*data-to-paper*](https://arxiv.org/abs/2404.17605) is a framework for systematically navigating the power of AI to perform complete end-to-end 
+scientific research, starting from raw data and concluding with comprehensive, transparent, and human-verifiable 
+scientific papers.
+
+Towards this goal, *data-to-paper* systematically guides interacting 
+LLM and rule-based agents through the conventional scientific path, from annotated data, through creating 
+research hypotheses, conducting literature search, writing and debugging data analysis code, 
+interpreting the results, and ultimately the step-by-step writing of a complete research paper.
+
+The *data-to-paper* framework is created as a research project to understand the 
+capacities and limitations of LLM-driven scientific research, and to develop ways of harnessing LLM to accelerate 
+research while maintaining, and even enhancing, key scientific values, such as transparency, traceability and verifiability, 
+and while allowing scientist to oversee and direct the process 
+[see also: [living guidelines](https://www.nature.com/articles/d41586-023-03266-1)].
+
+
+### Links
+- [GitHub](https://github.com/Technion-Kishony-lab/data-to-paper)
+- [arXiv preprint](https://arxiv.org/abs/2404.17605)
+- [Demo video](https://www.youtube.com/watch?v=Nt_460MmM8k)
 
 </details>
 
@@ -1888,6 +1947,35 @@ Magick is an AIDE for creating, deploying, scaling, and monetizing useful AI age
 
 </details>
 
+## [MemFree](https://github.com/memfreeme/memfree)
+Open Source Hybrid AI Search Engine
+
+<details>
+
+ ![image](https://raw.githubusercontent.com/memfreeme/memfree/main/frontend/public/og.png)
+
+### Category
+Open Source, AI Search, Build your own
+
+### Description
+
+Open Source Hybrid AI Search Engine, Instantly Get Accurate Answers from the Internet, Bookmarks, Notes, and Docs.
+
+- One-Click Chrome Bookmarks Sync and Index
+- Support multiple traditional search engines as source
+- Self-hosted Super Fast Serverless Vector Database
+- Self-hosted Super Fast Local Embedding and Rerank Service
+- Full Code Open Source
+- One-Click Deployment On Production
+
+### Links  
+- [Documentation](https://www.memfree.me/docs)
+- [Discord](https://discord.com/invite/7QqyMSTaRq)
+- [Twitter](https://twitter.com/ahaapple2023)
+- [Website](https://www.memfree.me)
+
+</details>
+
 
 ## [MemGPT](https://github.com/cpacker/MemGPT)
 Memory management system, providing context to LLM
@@ -2038,6 +2126,30 @@ General purpose
 - [Demo](https://www.loom.com/share/b6bec93065794eb8a47e2109697afa39)
 - Authors: [Max Rumpf](https://twitter.com/md_rumpf) and [Significant Gravitas](https://twitter.com/SigGravitas)
 
+</details>
+
+## [MutahunterAI](https://github.com/codeintegrity-ai/mutahunter)
+MutahunterAI: Accelerate developer productivity and code security with our open-source AI
+
+<details>
+
+![Image](https://avatars.githubusercontent.com/u/152569327?s=48&v=4)
+
+### Category
+Developer tools, Software security, Multi-agent, General purpose
+
+### Description
+- Use Mutahunter to generate unit tests for your codebase, that specifically target the code vulnerabilities. By targeting the exact weaknesses in the code, we boost developer productivity.
+- Unlike copilots which blindly generates test cases for your code, Mutahunter makes use of our mutation testing engine to generate unit tests that specifically target the vulnerabilities in your code
+- Features
+	- Support all major languages.
+	- We can be used locally or can be integrated into any CI/CD runner as part of your existing workflow
+	- You can use Mutahunter with your own LLM APIs for privacy.
+
+### Links
+- [Documentation](https://github.com/codeintegrity-ai/mutahunter?tab=readme-ov-file#mutahunter) 
+- [Discord](https://discord.gg/9P5V9qmKJn)
+- [GitHub](https://github.com/codeintegrity-ai/mutahunter)
 </details>
 
 ## [NLSOM](https://github.com/mczhuge/NLSOM)

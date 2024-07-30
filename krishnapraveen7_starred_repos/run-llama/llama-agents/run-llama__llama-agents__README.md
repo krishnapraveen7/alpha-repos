@@ -1,3 +1,5 @@
+# [llama-agents](https://github.com/run-llama/llama-agents)
+
 # 🦙 `llama-agents` 🤖
 
 `llama-agents` is an async-first framework for building, iterating, and productionizing multi-agent systems, including multi-agent communication, distributed tool execution, human-in-the-loop, and more!
@@ -85,6 +87,10 @@ Next, when working in a notebook or for faster iteration, we can launch our `lla
 
 ```python
 from llama_agents import LocalLauncher
+import nest_asyncio
+
+# needed for running in a notebook
+nest_asyncio.apply()
 
 # launch it
 launcher = LocalLauncher(
@@ -96,6 +102,10 @@ result = launcher.launch_single("What is the secret fact?")
 
 print(f"Result: {result}")
 ```
+
+<!-- prettier-ignore -->
+> [!NOTE]
+> `launcher.launch_single` creates a new asyncio event loop. Since Jupyter notebooks already have an event loop running, we need to use `nest_asyncio` to allow the creation of new event loops within the existing one.
 
 As with any agentic system, its important to consider how reliable the LLM is that you are using. In general, APIs that support function calling (OpenAI, Anthropic, Mistral, etc.) are the most reliable.
 

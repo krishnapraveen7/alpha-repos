@@ -1,3 +1,5 @@
+# [khoj](https://github.com/khoj-ai/khoj)
+
 <p align="center"><img src="src/khoj/interface/web/assets/icons/khoj-logo-sideways-500.png" width="230" alt="Khoj Logo"></p>
 
 <div align="center">

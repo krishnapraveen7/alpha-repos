@@ -1,3 +1,5 @@
+# [nanotron](https://github.com/huggingface/nanotron)
+
 <h1 align="center">⚡️ Nanotron</h1>
 
 <p align="center">

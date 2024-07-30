@@ -1,3 +1,5 @@
+# [lida](https://github.com/microsoft/lida)
+
 # LIDA: Automatic Generation of Visualizations and Infographics using Large Language Models
 
 [![PyPI version](https://badge.fury.io/py/lida.svg)](https://badge.fury.io/py/lida)

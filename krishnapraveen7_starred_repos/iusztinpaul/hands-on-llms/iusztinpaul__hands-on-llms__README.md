@@ -1,3 +1,5 @@
+# [hands-on-llms](https://github.com/iusztinpaul/hands-on-llms)
+
 <div align="center">
     <h2>Hands-on LLMs Course </h2>
     <h1>Learn to Train and Deploy a Real-Time Financial Advisor</h1>

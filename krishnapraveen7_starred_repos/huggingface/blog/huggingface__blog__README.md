@@ -1,3 +1,5 @@
+# [blog](https://github.com/huggingface/blog)
+
 # The Hugging Face Blog Repository 🤗
 This is the official repository of the [Hugging Face Blog](https://hf.co/blog). 
 

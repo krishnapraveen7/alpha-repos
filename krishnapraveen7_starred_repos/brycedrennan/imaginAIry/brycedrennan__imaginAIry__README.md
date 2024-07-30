@@ -1,3 +1,5 @@
+# [imaginAIry](https://github.com/brycedrennan/imaginAIry)
+
 # ImaginAIry 🤖🧠
 
 [![Downloads](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1rOvQNs0Cmn_yU1bKWjCOHzGVDgZkaTtO?usp=sharing)

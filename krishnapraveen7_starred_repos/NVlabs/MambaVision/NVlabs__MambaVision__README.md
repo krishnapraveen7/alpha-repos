@@ -1,0 +1,238 @@
+# MambaVision: A Hybrid Mamba-Transformer Vision Backbone
+
+Official PyTorch implementation of [**MambaVision: A Hybrid Mamba-Transformer Vision Backbone**](https://arxiv.org/abs/2407.08083).
+
+
+[![Star on GitHub](https://img.shields.io/github/stars/NVlabs/MambaVision.svg?style=social)](https://github.com/NVlabs/MambaVision/stargazers)
+
+[Ali Hatamizadeh](https://research.nvidia.com/person/ali-hatamizadeh) and
+[Jan Kautz](https://jankautz.com/). 
+
+For business inquiries, please visit our website and submit the form: [NVIDIA Research Licensing](https://www.nvidia.com/en-us/research/inquiries/)
+
+--- 
+
+MambaVision demonstrates a strong performance by achieving a new SOTA Pareto-front in
+terms of Top-1 accuracy and throughput. 
+
+<p align="center">
+<img src="https://github.com/NVlabs/MambaVision/assets/26806394/79dcf841-3966-4b77-883d-76cd5e1d4320" width=62% height=62% 
+class="center">
+</p>
+
+We introduce a novel mixer block by creating a symmetric path without SSM to enhance the modeling of global context: 
+
+
+<p align="center">
+<img src="https://github.com/NVlabs/MambaVision/assets/26806394/295c0984-071e-4c84-b2c8-9059e2794182" width=32% height=32% 
+class="center">
+</p>
+
+
+
+MambaVision has a hierarchical architecture that employs both self-attention and mixer blocks:
+
+![teaser](./mambavision/assets/arch.png)
+
+
+## 💥 News 💥
+
+- **[07.14.2024]** We added support for processing any resolution images.
+
+- **[07.12.2024]** [Paper](https://arxiv.org/abs/2407.08083) is now available on arXiv !
+
+- **[07.11.2024]** [Mambavision pip package](https://pypi.org/project/mambavision/) is released !
+
+- **[07.10.2024]** We have released the code and model checkpoints for Mambavision !
+
+## Quick Start
+
+### Classification
+
+We can import pre-trained MambaVision models with **1 line of code**:
+
+```bash
+pip install mambavision
+```
+
+A pretrained MambaVision model with default hyper-parameters can be created as in:
+
+```python
+>>> from mambavision import create_model
+
+# Define mamba_vision_T model
+
+>>> model = create_model('mamba_vision_T', pretrained=True, model_path="/tmp/mambavision_tiny_1k.pth.tar")
+```
+
+Available list of pretrained models include `mamba_vision_T`, `mamba_vision_T2`, `mamba_vision_S`, `mamba_vision_B`, `mamba_vision_L` and `mamba_vision_L2`.  
+
+We can also simply test the model by passing a dummy image with **any resolution**. The output is the logits:
+
+```python
+>>> import torch
+
+>>> image = torch.rand(1, 3, 512, 224).cuda() # place image on cuda
+>>> model = model.cuda() # place model on cuda
+>>> output = model(image) # output logit size is [1, 1000]
+```
+
+Using the pretrained models from our pip package, you can simply run validation:
+
+```
+python validate_pip_model.py --model mamba_vision_T --data_dir=$DATA_PATH --batch-size $BS 
+``` 
+## FAQ
+
+1. Does MambaVision support processing images with any input resolutions ? 
+
+Yes ! you can pass images with any arbitrary resolutions without the need to change the model.
+
+
+2. Can I apply MambaVision for downstream tasks like detection, segmentation ? 
+
+Yes ! we are working to have it released very soon. But employing MambaVision backbones for these tasks is very similar to other models in `mmseg` or `mmdet` packages.
+
+3. I am interested in re-implementing MambaVision in my own repository. Can we use the pretrained weights ? 
+
+Yes ! the pretrained weights are released under [CC-BY-NC-SA-4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Please submit an issue in this repo and we will add your repository to the README of our codebase and properly acknowledge your efforts. 
+
+## Results + Pretrained Models
+
+### ImageNet-1K
+**MambaVision ImageNet-1K Pretrained Models**
+
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Acc@1(%)</th>
+    <th>Acc@5(%)</th>
+    <th>Throughput(Img/Sec)</th>
+    <th>Resolution</th>
+    <th>#Params(M)</th>
+    <th>FLOPs(G)</th>
+    <th>Download</th>
+  </tr>
+
+<tr>
+    <td>MambaVision-T</td>
+    <td>82.3</td>
+    <td>96.2</td>
+    <td>6298</td>
+    <td>224x224</td>
+    <td>31.8</td>
+    <td>4.4</td>
+    <td><a href="https://huggingface.co/nvidia/MambaVision-T-1K/resolve/main/mambavision_tiny_1k.pth.tar">model</a></td>
+</tr>
+
+<tr>
+    <td>MambaVision-T2</td>
+    <td>82.7</td>
+    <td>96.3</td>
+    <td>5990</td>
+    <td>224x224</td>
+    <td>35.1</td>
+    <td>5.1</td>
+    <td><a href="https://huggingface.co/nvidia/MambaVision-T2-1K/resolve/main/mambavision_tiny2_1k.pth.tar">model</a></td>
+</tr>
+
+<tr>
+    <td>MambaVision-S</td>
+    <td>83.3</td>
+    <td>96.5</td>
+    <td>4700</td>
+    <td>224x224</td>
+    <td>50.1</td>
+    <td>7.5</td>
+    <td><a href="https://huggingface.co/nvidia/MambaVision-S-1K/resolve/main/mambavision_small_1k.pth.tar">model</a></td>
+</tr>
+
+<tr>
+    <td>MambaVision-B</td>
+    <td>84.2</td>
+    <td>96.9</td>
+    <td>3670</td>
+    <td>224x224</td>
+    <td>97.7</td>
+    <td>15.0</td>
+    <td><a href="https://huggingface.co/nvidia/MambaVision-B-1K/resolve/main/mambavision_base_1k.pth.tar">model</a></td>
+</tr>
+
+<tr>
+    <td>MambaVision-L</td>
+    <td>85.0</td>
+    <td>97.1</td>
+    <td>2190</td>
+    <td>224x224</td>
+    <td>227.9</td>
+    <td>34.9</td>
+    <td><a href="https://huggingface.co/nvidia/MambaVision-L-1K/resolve/main/mambavision_large_1k.pth.tar">model</a></td>
+</tr>
+
+<tr>
+    <td>MambaVision-L2</td>
+    <td>85.3</td>
+    <td>97.2</td>
+    <td>1021</td>
+    <td>224x224</td>
+    <td>241.5</td>
+    <td>37.5</td>
+    <td><a href="https://huggingface.co/nvidia/MambaVision-L2-1K/resolve/main/mambavision_large2_1k.pth.tar">model</a></td>
+</tr>
+
+</table>
+
+## Installation
+
+We provide a [docker file](./Dockerfile). In addition, assuming that a recent [PyTorch](https://pytorch.org/get-started/locally/) package is installed, the dependencies can be installed by running:
+
+```bash
+pip install -r requirements.txt
+```
+
+## Evaluation
+
+The MambaVision models can be evaluated on ImageNet-1K validation set using the following: 
+
+```
+python validate.py \
+--model <model-name>
+--checkpoint <checkpoint-path>
+--data_dir <imagenet-path>
+--batch-size <batch-size-per-gpu
+``` 
+
+Here `--model` is the MambaVision variant (e.g. `mambavision_tiny_1k`), `--checkpoint` is the path to pretrained model weights, `--data_dir` is the path to ImageNet-1K validation set and `--batch-size` is the number of batch size. We also provide a sample script [here](./mambavision/validate.sh). 
+
+## Citation
+
+If you find MambaVision to be useful for your work, please consider citing our paper: 
+
+```
+@article{hatamizadeh2024mambavision,
+  title={MambaVision: A Hybrid Mamba-Transformer Vision Backbone},
+  author={Hatamizadeh, Ali and Kautz, Jan},
+  journal={arXiv preprint arXiv:2407.08083},
+  year={2024}
+}
+```
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=NVlabs/MambaVision&type=Date)](https://star-history.com/#NVlabs/MambaVision&Date)
+
+
+## Licenses
+
+Copyright © 2024, NVIDIA Corporation. All rights reserved.
+
+This work is made available under the NVIDIA Source Code License-NC. Click [here](LICENSE) to view a copy of this license.
+
+The pre-trained models are shared under [CC-BY-NC-SA-4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+
+For license information regarding the timm repository, please refer to its [repository](https://github.com/rwightman/pytorch-image-models).
+
+For license information regarding the ImageNet dataset, please see the [ImageNet official website](https://www.image-net.org/). 
+
+## Acknowledgement
+This repository is built on top of the [timm](https://github.com/huggingface/pytorch-image-models) repository. We thank [Ross Wrightman](https://rwightman.com/) for creating and maintaining this high-quality library.  

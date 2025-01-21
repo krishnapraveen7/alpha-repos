@@ -104,9 +104,9 @@ To see what we are working on and what we plan to work on, please check our
 
 ## Quickstart
 The easiest way to start playing is
-1. Click below to use the GitHub Codespace
+1. Click below to use the GitHub Codespace or Codeanywhere
 
-    [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/microsoft/autogen?quickstart=1)
+    [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/microsoft/autogen?quickstart=1) [![Open in Codeanywhere](https://codeanywhere.com/img/open-in-codeanywhere-btn.svg)](https://app.codeanywhere.com/#https://github.com/krishnapraveen7/alpha-repos/blob/2c040016705ac3d91b8b0ae9802e40a0ed5d1b1c/krishnapraveen7_starred_repos/microsoft/autogen/microsoft__autogen__README.md)
 
  2. Copy OAI_CONFIG_LIST_sample to ./notebook folder, name to OAI_CONFIG_LIST, and set the correct configuration.
  3. Start playing with the notebooks!

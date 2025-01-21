@@ -30,3 +30,4 @@ If you'd like to contribute new content, make sure to read through our [contribu
 The contents of this repo are automatically rendered into [cookbook.openai.com](https://cookbook.openai.com) based on [registry.yaml](/registry.yaml).
 
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=468576060&machine=basicLinux32gb&location=EastUs)
+[![Open in Codeanywhere](https://codeanywhere.com/img/open-in-codeanywhere-btn.svg)](https://app.codeanywhere.com/#https://github.com/krishnapraveen7/alpha-repos/blob/2c040016705ac3d91b8b0ae9802e40a0ed5d1b1c/chiphuyen_starred_repos/openai/openai-cookbook/openai__openai-cookbook__README.md)

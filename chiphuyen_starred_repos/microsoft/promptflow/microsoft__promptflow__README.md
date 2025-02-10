@@ -41,6 +41,11 @@ To get started quickly, you can use a pre-built development environment. **Click
 
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/microsoft/promptflow?quickstart=1)
 
+## Develop
+You can also open this project in a Codeanywhere for development.
+
+<a href="https://app.codeanywhere.com/#https://github.com/krishnapraveen7/alpha-repos/chiphuyen_starred_repos/microsoft/promptflow/"><img src="https://codeanywhere.com/img/open-in-codeanywhere-btn.svg" alt="Open in Codeanywhere" width="200"></a>
+
 If you want to get started in your local environment, first install the packages:
 
 Ensure you have a python environment, `python>=3.9, <=3.11` is recommended.

@@ -37,9 +37,9 @@ With prompt flow, you will be able to:
 
 ## Installation
 
-To get started quickly, you can use a pre-built development environment. **Click the button below** to open the repo in GitHub Codespaces, and then continue the readme!
+To get started quickly, you can use a pre-built development environment. **Click the button below** to open the repo in GitHub Codespaces or Codeanywhere, and then continue the readme!
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/microsoft/promptflow?quickstart=1)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/microsoft/promptflow?quickstart=1) [![Open in Codeanywhere](https://codeanywhere.com/img/open-in-codeanywhere-btn.svg)](https://app.codeanywhere.com/#https://github.com/krishnapraveen7/alpha-repos/krishnapraveen7_starred_repos/microsoft/promptflow)
 
 If you want to get started in your local environment, first install the packages:
 
